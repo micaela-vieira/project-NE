@@ -9,7 +9,7 @@ Created on Tue May 12 15:15:49 2020
     Tim Schluchter
     Karin Thommen
 
-Version: 4
+Version: 5
 
 Purpose:
     TO WRITE
@@ -18,7 +18,8 @@ Still missing:
     - check if spacy works with de and fr (for some strange reason, spacy works only with en for me)
     - find a way to build nltk for de and fr
     - provide #NE/#Nouns statistics
-    - build xml files
+    - modifile function to build xml files
+    - find a way to merge the xml files
     - optimization with classes (if both -a and -l are called, the list of NE is calculated two times --> find way to have single call)
     - ...
 """
@@ -28,7 +29,7 @@ import argparse
 from bs4 import BeautifulSoup
 from collections import defaultdict
 import json 
-from lxml import html
+from lxml import html, etree
 from nltk import tokenize
 from nltk import pos_tag, ne_chunk
 from nltk.tree import Tree
@@ -273,6 +274,73 @@ def save_annotated_text_to_txt(lang: str, method: str):
     outfile.close()
     return
 
+def save_annotated_text_to_xml(lang: str, method: str):
+    """
+    PURPOSE
+        Get NEs from a txt file and, by giving language and method, return a xml
+        file containing the original text with annotations written just after
+        the tokens
+    PARAMETERS
+        lang: language. en, de, fr
+        method: method to use. stanford, spacy, nltk
+    """
+    #initialise file to write the output
+    outfile = open(('annotated_text_' + lang + '_' + method + '.xml'), 'w')
+    #initialise xml
+    annotated_doc = etree.Element('Annotated_document')
+    #counter for xml
+    counter_xml = 0
+    main_text = ''
+    #open txt file
+    with open(lang + '.txt') as file:
+        for paragraph in file:
+            sentences = tokenize.sent_tokenize(paragraph)
+            for sentence in sentences:
+                #build lists with the ends of the tokens with NE and the NEs
+                #the lists depend on the method chosen
+                end_list = [0]
+                ne_list = []
+                if method == 'stanford':
+                    for i in named_entity_stanford_nlp(sentence, lang):
+                        end_list.append(i[2])
+                        ne_list.append(i[3])
+                elif method == 'spacy':
+                    for i in named_entity_spacy(sentence, lang):
+                        end_list.append(i[2])
+                        ne_list.append(i[3])
+                elif method == 'nltk':
+                    for i in named_entity_nltk_chunk(sentence, lang):
+                        end_list.append(i[2])
+                        ne_list.append(i[3])
+                #build new string
+                new_string = ''
+                for i in range(len(end_list)-1):
+                    new_string += (sentence[end_list[i]:end_list[i+1]]+
+                                   '<annotation class="'+ne_list[i]+'">')
+                new_string += sentence[end_list[-1]:len(sentence)]
+                #print title, author, abstract and main text differently to xml
+                if counter_xml == 0:
+                    title_text = etree.SubElement(annotated_doc, "Title")
+                    title_text.text = new_string[6:]
+                    counter_xml += 1
+                elif counter_xml == 1:
+                    author_text = etree.SubElement(annotated_doc, "Author")
+                    author_text.text = new_string[7:]
+                    counter_xml += 1
+                elif counter_xml == 2:
+                    abstract_text = etree.SubElement(annotated_doc, "Abstract")
+                    abstract_text.text = new_string[9:]
+                    counter_xml += 1      
+                else: 
+                    main_text += new_string + '\n'
+    main_text_xml = etree.SubElement(annotated_doc, "Main_text")
+    main_text_xml.text = main_text
+    xml_bytes = etree.tostring(annotated_doc, encoding='UTF-8', pretty_print=True, xml_declaration=True)
+    xml_str = xml_bytes.decode("utf-8")
+    outfile.write(xml_str)
+    outfile.close()
+    return
+
 def waiting_animation():
     """Animation to show while waiting the output"""
     animation = ["[■□□□□□□□□□]","[■■□□□□□□□□]", "[■■■□□□□□□□]", "[■■■■□□□□□□]", 
@@ -303,13 +371,16 @@ def main():
     group.add_argument('-u', '--url', type=str, help='url of the Horizon webpage')
     group.add_argument('-f', '--folder', type=str, help='folder where the Horizon files are stored')
     group.add_argument('-t', '--textfile', type=argparse.FileType(encoding='utf-8'), help='txt file containing one Horizon url per line')
+    group.add_argument('-p', '--parent_directory', type=str, help='parent directory containing subfolder with Horizon files')
     parser.add_argument('-l', '--list-ne', type=str, 
                         help='create a txt file with a list of the NE with the\
                         chosen method',
                         choices=['stanford', 'spacy', 'nltk', 'combination'])
-    parser.add_argument('-a', '--annotated-txt', type=str, 
-                        help='create a txt file with the annotated txt with the\
-                        chosen method',
+    parser.add_argument('-at', '--annotated-txt', type=str, 
+                        help='create an annotated txt file  with the chosen method',
+                        choices=['stanford', 'spacy', 'nltk'])
+    parser.add_argument('-ax', '--annotated-xml', type=str, 
+                        help='create an annotated xml file with the chosen method',
                         choices=['stanford', 'spacy', 'nltk'])
            
     def provide_output():
@@ -317,15 +388,18 @@ def main():
         args = parser.parse_args()
         #convert args to a dictionary
         args_dict = {arg: value for arg, value in vars(args).items() if value is not None} 
-        #initialise parameters for method_list and method_annotation
+        #initialise parameters for method_list, method_annotation_txt and method_annotation_xml
         method_list = None
-        method_annotation = None
+        method_annotation_txt = None
+        method_annotation_xml = None
         #if list_ne parameter is given, update the parameter with the method
         if 'list_ne' in args_dict:
             method_list = args_dict.pop('list_ne')
         #if annotated_txt is given, update the parameter eith the method
         if 'annotated_txt' in args_dict:
-            method_annotation = args_dict.pop('annotated_txt')
+            method_annotation_txt = args_dict.pop('annotated_txt')
+        if 'annotated_xml' in args_dict:
+            method_annotation_xml = args_dict.pop('annotated_xml')
         #if we choose the url option
         if 'url' in args_dict:
             url = args_dict.pop('url')
@@ -342,9 +416,12 @@ def main():
                 if method_list != None:
                     #return txt files with the list of NEs
                     save_ne_list_to_txt(i, method_list)
-                if method_annotation != None:
+                if method_annotation_txt != None:
                     #return txt files with annotated text
-                    save_annotated_text_to_txt(i, method_annotation)
+                    save_annotated_text_to_txt(i, method_annotation_txt)
+                if method_annotation_xml != None:
+                    #return xml files with annotated text
+                    save_annotated_text_to_xml(i, method_annotation_xml)
         #if we choose the folder option
         elif 'folder' in args_dict:
             #go the the directory specified in folder
@@ -355,9 +432,12 @@ def main():
                 if method_list != None:
                     #return txt files with the list of NEs
                     save_ne_list_to_txt(i, method_list)
-                if method_annotation != None:
+                if method_annotation_txt != None:
                     #return txt files with annotated text
-                    save_annotated_text_to_txt(i, method_annotation)
+                    save_annotated_text_to_txt(i, method_annotation_txt)
+                if method_annotation_xml != None:
+                    #return xml files with annotated text
+                    save_annotated_text_to_xml(i, method_annotation_xml)
         #if we choose the textfile option
         elif 'textfile' in args_dict:
             textfile = args_dict.pop('textfile')
@@ -382,15 +462,56 @@ def main():
                     if method_list != None:
                         #return txt files with the list of NEs
                         save_ne_list_to_txt(i, method_list)
-                    if method_annotation != None:
+                    if method_annotation_txt != None:
                         #return txt files with annotated text
-                        save_annotated_text_to_txt(i, method_annotation)
+                        save_annotated_text_to_txt(i, method_annotation_txt)
+                    if method_annotation_xml != None:
+                        #return xml files with annotated text
+                        save_annotated_text_to_xml(i, method_annotation_xml)
                 #update counter for folders
                 url_nr += 1
                 os.chdir('..')
-        #if neither url, and folder, nor textfile are provided, return an error and exit
+        elif 'parent_directory' in args_dict:
+            parent_directory = args_dict.pop('parent_directory')
+            #initialise list for good paths (i.e. the ones containing only txt files)
+            good_paths = []
+            #all paths
+            all_paths = ([x[0] for x in os.walk(parent_directory)])
+            for i in all_paths:
+                #content of the paths
+                content = os.listdir(i)
+                #if there is a directory in the folder, then pass. Otherwise, add to list
+                for j in content:
+                    if not j.endswith('txt'):
+                        pass
+                    else:
+                        good_paths.append(i)
+                        break
+            #for every good path
+            for i in good_paths:
+                #initialise a parameter containing the number of subdirectories of the path
+                amount_subdirectories = 1 + i.count('/')
+                #go to the directory
+                os.chdir(i)
+                #for all three languages
+                for j in ['en', 'de', 'fr']:
+                    if method_list != None:
+                        #return txt files with the list of NEs
+                        save_ne_list_to_txt(j, method_list)
+                    if method_annotation_txt != None:
+                        #return txt files with annotated text
+                        save_annotated_text_to_txt(j, method_annotation_txt)
+                    if method_annotation_xml != None:
+                        #return xml files with annotated text
+                        save_annotated_text_to_xml(j, method_annotation_xml)
+                #come back to the parent directory
+                while amount_subdirectories > 0:
+                    os.chdir('..')
+                    amount_subdirectories -= 1
+        #if no one among url, folder, textfile or parent_directory is provided, 
+        #return an error and exit
         else: 
-            raise TypeError('Either -u, -f, or -t must be specified')
+            raise TypeError('Either -u, -f, -t, or -p must be specified')
             exit(1)
            
     #provide animation while waiting
@@ -403,4 +524,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+
+
+
+
+
 
