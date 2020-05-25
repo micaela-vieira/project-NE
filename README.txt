@@ -1,7 +1,7 @@
 Authors:
 Paula Mahler
 Micaela Alexandra Ribeiro Vieira, 13-760-285
-Tim Schluchter
+Tim Schluchter, 16-725-277
 Karin Thommen
 
 
