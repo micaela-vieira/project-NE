@@ -36,7 +36,7 @@ python project_NE.py -p Horizons_projectfiles/text-files/ -l stanford
 
 
 Still missing:
-- check if spacy works with de and fr (for some strange reason, spacy works only with en for me)
+- check if spacy works with de and fr (for some strange reason, spacy works only with en for Micaela)
 - find a way to build nltk for de and fr
 - provide #NE/#Nouns statistics
 - modifile function to build xml files
