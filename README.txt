@@ -39,26 +39,9 @@ We have to choose the processes we want to execute (multiple processes are allow
 
 EXAMPLES:
 These are possible examples of commands to execute:
-<<<<<<< HEAD
 1)	python project_NE.py -u https://www.horizons-mag.ch/2020/03/05/the-sea-of-faith-in-an-ocean-of-science/ -m stanford -ld
 2)	python project_NE.py -f Horizons_projectfiles/text-files/issue_113/article_a35/ -m stanford -la -ld -pc -at -ax
 3)	python project_NE.py -t url_list.txt -m stanford -ax -la
 4)	python project_NE.py -p Horizons_projectfiles/text-files/issue_115 -m stanford -la -ld -pc -at -ax
 Examples 2) and 4) are the ones that have been used to produce the output in the folders article_a35 and issue 115
-=======
-python project_NE.py -u https://www.horizons-mag.ch/2020/03/05/the-sea-of-faith-in-an-ocean-of-science/ -at stanford
-python project_NE.py -f Horizons_projectfiles/text-files/issue_109/article_a1/ -ax stanford -l stanford
-python project_NE.py -t url_list.txt -l stanford -ax stanford
-python project_NE.py -p Horizons_projectfiles/text-files/ -l stanford
 
-
-
-Still missing:
-- check if spacy works with de and fr (for some strange reason, spacy works only with en for Micaela)
-- find a way to build nltk for de and fr
-- provide #NE/#Nouns statistics
-- modifile function to build xml files
-- find a way to merge the single xml files (see project-NE-combine.py)
-- optimization with classes (if both -a and -l are called, the list of NE is calculated two times --> find way to have single call)
-- ...
->>>>>>> ed0717c617c9b62f80692035f61f1a30a6431502
