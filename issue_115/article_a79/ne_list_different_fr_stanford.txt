@@ -1,0 +1,18 @@
+Ces	LOC
+FNS	ORG
+Florence Rosier	PER
+Jean-Christophe Clément	PER
+La sécheresse	MISC
+Les	LOC
+Lolium	LOC
+L’équipe	LOC
+N. Legay	PER
+Nicolas Legay	PER
+Or	LOC
+Parce	LOC
+Plant and Soil	MISC
+Résultat	LOC
+Soil	ORG
+Title: Agriculture	MISC
+Université de Grenoble	ORG
+«Une	LOC

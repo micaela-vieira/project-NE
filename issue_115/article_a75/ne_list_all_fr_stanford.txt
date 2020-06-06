@@ -1,0 +1,20 @@
+Title: Voyager dans le temps	MISC
+Pierre Bratschi	PER
+Univers	LOC
+Dreamstime	MISC
+Univers	LOC
+Kyriakos Papadodimas	PER
+CERN	LOC
+Rik van Breukelen	PER
+Université de Genève	ORG
+Einstein	PER
+Rik van Breukelen	PER
+Les	LOC
+Rik van Breukelen	PER
+Terre	LOC
+Soleil	LOC
+Sitter	MISC
+AdS	MISC
+Rik van Breukelen	PER
+van Breukelen and K. Papadodimas	ORG
+Arxiv	MISC

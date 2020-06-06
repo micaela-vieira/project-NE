@@ -1,0 +1,21 @@
+Matthias Egger	PER
+Manu Friederich	PER
+International Journal of Research on Neuroscience	ORG
+Predatory Journal	ORG
+BMC Medicine	ORG
+SNF	ORG
+Afrika	LOC
+China	LOC
+Indien	LOC
+Predatory Journals	MISC
+Nature 2017	MISC
+USA	LOC
+National Institutes of Health	ORG
+NIH	ORG
+Schweiz	LOC
+SNF	ORG
+SNF	ORG
+thinkchecksubmit.org	MISC
+Matthias Egger	PER
+Nationalen Forschungsrats und Epidemiologe	ORG
+Universität Bern	ORG

@@ -1,0 +1,12 @@
+Daniel Saraga	PER
+International Association of Applied Linguistics	ORG
+Daniel Perrin	PER
+Conradin Frei	PER
+ZHAW	ORG
+AILA	ORG
+Englisch	MISC
+UNESCO	ORG
+AILA	MISC
+Schweizer	MISC
+Schweizer	MISC
+Schweizer	MISC

@@ -1,0 +1,70 @@
+Title: Clinical trials and tribulations
+Author: Alexandra Bröhm<annotation class="PERSON">
+Abstract: Some laboratory studies are being scuppered by overly optimistic researchers
+
+Is Switzerland<annotation class="GPE"> missing the bus when it comes to international clinical research?
+Without the proper personnel resources, you can’t carry out a well-organised intervention study.
+Image: Keystone<annotation class="ORG">/Science Photo Library/Look at Sciences/Massimo<annotation class="PERSON">
+Randomised controlled trials (‘RCT<annotation class="WORK_OF_ART"> studies’) are essential for medical progress.
+But their cancellation rate is appallingly high.
+For example, one<annotation class="CARDINAL"> out of four<annotation class="CARDINAL"> studies funded by the Swiss National Science Foundation SNSF<annotation class="ORG"> between 1986 and 2015<annotation class="DATE"> was cancelled early by its researchers.
+This is the conclusion of a team led by the Basel<annotation class="GPE"> epidemiologist Matthias Briel<annotation class="PERSON">, whose results have now been published in the British Medical Journal<annotation class="ORG">.
+It makes no difference whether the projects are funded by the SNSF<annotation class="ORG"> or not.
+“It’s a fundamental problem”, says Briel<annotation class="PERSON">, who is researching at the Basel University Hospital<annotation class="ORG">.
+His team has analysed why so many RCTs end ahead of schedule.
+The main problem, they find, lies in the early stages, namely in the recruitment of suitable participants.
+“Often, the researchers’ estimates are too optimistic”, says Briel<annotation class="PERSON">.
+In other words, the doctors are confident there will be enough patients taking part without properly ensuring that the numbers are right.
+In reality, not every patient will fulfil the inclusion criteria of a study, nor will everyone will be willing to participate either.
+Especially where a lot of effort is involved.
+Annette Magnin<annotation class="PERSON"> has experienced similar problems.
+She’s the Managing Director of the Swiss Clinical Trial Organisation<annotation class="ORG"> (SCTO<annotation class="ORG">): “Researchers often overestimate their participant numbers by some 50 percent<annotation class="PERCENT"> before their studies even begin”, she says.
+The SCTO<annotation class="ORG"> was founded on the initiative of the SNSF<annotation class="ORG"> and the Swiss Academy of Medical Sciences<annotation class="ORG"> (SAMS<annotation class="ORG">) in order to support doctors in clinical research.
+Federalism limits the patient pool
+“Another problem is that many studies are too regional in how they’re organised”, says Professor Peter Meier-Abt<annotation class="PERSON">, the Vice President of the SAMS<annotation class="ORG">.
+Many hospitals in Switzerland<annotation class="GPE"> are too small to be able to rely on a satisfactory pool of patients.
+The health system is organised on a federal basis, and most experts see this as a core issue in the optimal organisation of a clinical study.
+“We really need an overall pool of patients”, says Meier-Abt<annotation class="PERSON">.
+But coordinating such a pool across all of Switzerland<annotation class="GPE"> is difficult.
+Briel<annotation class="PERSON"> also believes that “you don’t have to limit things regionally to a single Swiss<annotation class="NORP"> hospital”.
+Studies that are run in several places can function very well if they are properly prepared and coordinated.
+The experts are also of one<annotation class="CARDINAL"> mind with regard to another object of criticism: that doctors in Switzerland<annotation class="GPE"> are much too involved in everyday clinical work.
+“We need more time to be allocated specifically for research”, says Meier-Abt<annotation class="PERSON">.
+Doctors who are already putting in overtime can’t carry out research on their free evenings or at weekends.
+Magnin<annotation class="PERSON"> also says: “Treating people is what actually brings in money for the hospitals; but as time goes by, it gets more and more difficult for their clinical personnel to invest time in research too”.
+“We have to be careful that we don’t miss the boat, internationally speaking”, says Meier-Abt<annotation class="PERSON">.
+Denmark<annotation class="GPE">, Sweden<annotation class="GPE"> and the Netherlands<annotation class="GPE"> are far more advanced than Switzerland<annotation class="GPE"> when it comes to research infrastructure.
+And in the Anglo-Saxon<annotation class="NORP"> world, scholarly work carries far more weight.
+The first<annotation class="ORDINAL"> initiatives are up and running
+Initial attempts are being made to combat this problem.
+Two years ago<annotation class="DATE">, the SNSF<annotation class="ORG"> initiated the programme ‘Investigator Initiated Clinical Trials<annotation class="PRODUCT">’ (IICT), with which it hopes to promote independent clinical research in Switzerland<annotation class="GPE">.
+There is a budget of CHF 10 million<annotation class="MONEY"> available in 2017<annotation class="DATE">.
+“We have extended the duration of RCTs from three to four years<annotation class="DATE">”, says Ayşim Yılmaz<annotation class="PERSON">, the head of the Biology and Medicine Division<annotation class="ORG"> of the SNSF<annotation class="ORG">.
+This is intended to make it easier for researchers to carry out a proper preparatory phase.
+“We also want to invest in innovative research”, says Yilmaz<annotation class="PERSON">.
+There are no guarantees that a trial will succeed, but failure shouldn’t be used to excuse poor planning”.
+Preparing something well is the best path to success, says Matthias Briel<annotation class="PERSON">, who is himself the author of a clinical study: “It’s best to carry out a controlled pilot study with the same study protocol”, says Briel<annotation class="PERSON">.
+Doctors aren’t always enthusiastic when they hear this, but various international investigations have confirmed it as a recipe for success.
+What is also decisive, says Briel<annotation class="PERSON">, is describing the recruiting process in detail in the study protocol.
+“The researcher should also run through the ‘what-if’ scenarios at the preliminary stage”, he says.
+“That way, you can minimise the damage, should your search for participating patients be proceeding sluggishly”.
+Briel<annotation class="ORG"> sees social media platforms as a means of expanding the potential group of participants.
+Initial trials have shown that social media can help to stimulate interest in a study.
+Overall, the general public has to be sensitised to the fact that clinical research is for the good of everyone, but that it’s only possible if a lot of people are prepared to participate in studies.
+The ethics commissions could also do their part in making the recruitment process as successful as possible.
+“When assessing studies, they ought to make the researchers already aware of possible shortcomings in recruiting participants”, says Briel<annotation class="PERSON">.
+In the past, he adds, doctors have repeatedly complained that the administrative burden caused by such studies is a major hurdle.
+Meanwhile, the procedure has been somewhat simplified.
+Research has to be learned
+The experts are also united in their belief that more should be invested in training young researchers: “Planning and carrying out clinical studies correctly is a discipline all of its own – one you have to learn”, says Magnin<annotation class="PERSON">.
+Clinical Trial Units<annotation class="ORG"> exist today<annotation class="DATE"> at six<annotation class="CARDINAL"> Swiss<annotation class="NORP"> hospitals and act as service providers to the researchers.
+But their support is costly.
+Last year<annotation class="DATE">, the Federal Office of Public Health<annotation class="ORG"> launched a roadmap for promoting young clinical researchers.
+One<annotation class="CARDINAL"> part of this package entails the creation of a Swiss Clinical Research Education Centre<annotation class="ORG">.
+“Here in Switzerland<annotation class="GPE">, we need a clear commitment to clinical research”, says Magnin<annotation class="PERSON">.
+Briel<annotation class="PERSON"> is also insistent that “all the key stakeholders must participate in these efforts, and assume their responsibilities in this vital field”.
+The question remains as to what should happen with the data that is left unused after unfinished studies.
+“It should be made generally available to later studies, either for meta-analyses or as lessons learned”, says Briel<annotation class="PERSON">.
+The National Institute for Health Research (NIHR)<annotation class="ORG"> in Britain<annotation class="GPE">, for example, solved the problem by insisting that all studies it supports be published.
+If that condition isn’t fulfilled, they don’t get any money.
+Alexandra Bröhm<annotation class="PERSON"> is a science journalist at the Tages-Anzeiger<annotation class="FAC"> and the Sonntagszeitung<annotation class="FAC">.

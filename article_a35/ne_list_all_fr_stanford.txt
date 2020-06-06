@@ -1,0 +1,17 @@
+Daniel Saraga	PER
+Concours FNS	ORG
+Horizons	MISC
+Valérie Chételat	PER
+Gagnant	PER
+Jürg Sigrist	PER
+EAWAG	ORG
+Concours FNS	ORG
+Fonds national suisse	ORG
+FNS	ORG
+Pascal Hufschmid	PER
+Musée de l'Elysée	LOC
+Lausanne	LOC
+Aspect étonnant	MISC
+Matthias Egger	PER
+Conseil	ORG
+FNS	ORG

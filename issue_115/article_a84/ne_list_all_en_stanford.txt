@@ -1,0 +1,23 @@
+Lionel Pousaz	PERSON
+two	CARDINAL
+5G	CARDINAL
+TCL	ORG
+2018	DATE
+a little less than ten years	DATE
+EPFL	ORG
+two	CARDINAL
+first	ORDINAL
+second	ORDINAL
+Andreas Burg	PERSON
+EPFL’s Telecommunication Circuits Laboratory	ORG
+TCL	ORG
+today	DATE
+more than twenty years	DATE
+a year	DATE
+Burg	PERSON
+the twenty years	DATE
+Giard et al	PERSON
+28	CARDINAL
+IEEE Journal	ORG
+Emerging and Selected Topics in Circuits and Systems	WORK_OF_ART
+2017	DATE

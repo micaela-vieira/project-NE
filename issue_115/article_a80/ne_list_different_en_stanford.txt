@@ -1,0 +1,9 @@
+AILA	ORG
+Conradin Frei	PERSON
+Daniel Perrin	PERSON
+Daniel Saraga	PERSON
+English	LANGUAGE
+Swiss	NORP
+UNESCO	ORG
+ZHAW	ORG
+the International Association of Applied Linguistics	ORG

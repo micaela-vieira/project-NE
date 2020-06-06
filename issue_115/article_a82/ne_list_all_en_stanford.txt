@@ -1,0 +1,15 @@
+Daniel Saraga	PERSON
+the Leiden Ranking of universities	ORG
+three	CARDINAL
+Switzerland	GPE
+Six	CARDINAL
+Indonesia	GPE
+OSF	ORG
+17%	PERCENT
+Swiss	NORP
+three	CARDINAL
+OECD	ORG
+73%	PERCENT
+155	CARDINAL
+ERC	ORG
+17%	PERCENT

@@ -1,0 +1,21 @@
+Title: Think first	MISC
+Matthias Egger	PER
+Manu Friederich	PER
+International Journal of Research on Neuroscience	ORG
+BMC Medicine	MISC
+FNS	ORG
+Afrique	LOC
+Chine	LOC
+Inde	LOC
+Nature 2017	MISC
+Etats-Unis	LOC
+National Institutes of Health	ORG
+Suisse	LOC
+FNS	ORG
+Nature	MISC
+FNS	ORG
+Internet	MISC
+Aidez	MISC
+Matthias Egger	PER
+Conseil national de la recherche et épidémiologiste	ORG
+Université de Berne	LOC

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Annotated_document>
+  <Title>
+    <text> Les films modifient notre perception des visages
+</text>
+  </Title>
+  <Author>
+    <text> Jochen Paulus<annotation class="PER"/>
+</text>
+  </Author>
+  <Abstract>
+    <text> Après un film d’horreur, ce visage perd de sa neutralité.
+</text>
+  </Abstract>
+  <Main_text>
+    <text>Joie ou peur?
+L’ambiguïté de ce visage composite révèle l’influence de nos émotions.
+| Photo: Emilie Qiao-Tasserit<annotation class="PER"/>
+Une étude de l’Université de Genève<annotation class="ORG"/> confirme l’intuition d’Alfred Hitchcock<annotation class="PER"/>: visionner une scène peut influencer notre manière du juger un visage.
+Le metteur en scène avait mené une petite expérience, raconte Swann Pichon<annotation class="PER"/>, du Pôle de recherche national en sciences affectives<annotation class="ORG"/>.
+Il avait montré à des spectateurs une mère et son enfant dans un pré, puis lui-même avec une expression neutre.
+Les<annotation class="LOC"/> participants y ont lu de la bienveillance.
+Le réalisateur a ensuite présenté un enfant mort dans un cercueil, puis la même image de son visage.
+Cette fois-ci, les spectateurs y ont discerné de la Tristesse<annotation class="MISC"/>.
+Le chercheur en sciences cognitives et son équipe ont étudié comment les images de film modifient la perception.
+Des volontaires ont d’abord visionné une minute d’un film d’horreur (The Shining<annotation class="MISC"/>), d’une comédie (Quand Harry rencontre Sally<annotation class="MISC"/>) ou d’un documentaire sur le cosmos.
+Swann Pichon<annotation class="PER"/> leur a ensuite présenté des photos de personnes ayant une expression ambiguë – des images produites en fusionnant deux clichés d’un même visage, l’un heureux, l’autre inquiet.
+Les<annotation class="LOC"/> volontaires ont alors dû décider pour chaque portrait si la personne était joyeuse ou anxieuse.
+Résultat : une personne venant de visionner un extrait de comédie estime que les visages ont l’air plus heureux.
+Les<annotation class="LOC"/> expressions de mêmes portraits semblent plus anxieuses après un film d’horreur.
+L’étude<annotation class="MISC"/> indique aussi que l’effet des films persistera au moins une minute et demie.
+Swann Pichon<annotation class="PER"/> étudie actuellement comment les jeux vidéo influencent les sentiments et le comportement social de leurs usagers.
+«Ils ont souvent mauvaise réputation, note Swann Pichon<annotation class="PER"/>.
+Mais notre recherche montre qu’ils peuvent aussi avoir des effets positifs.»
+E. Qiao-Tasserit<annotation class="PER"/> et al.
+: Transient<annotation class="MISC"/> emotional events and individual affective traits affect emotion recognition in a perceptual decision-making task.
+Plos One<annotation class="MISC"/> (2017)
+</text>
+  </Main_text>
+</Annotated_document>

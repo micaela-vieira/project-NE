@@ -1,0 +1,13 @@
+155	CARDINAL
+17%	PERCENT
+73%	PERCENT
+Daniel Saraga	PERSON
+ERC	ORG
+Indonesia	GPE
+OECD	ORG
+OSF	ORG
+Six	CARDINAL
+Swiss	NORP
+Switzerland	GPE
+the Leiden Ranking of universities	ORG
+three	CARDINAL

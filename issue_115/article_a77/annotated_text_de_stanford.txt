@@ -1,0 +1,24 @@
+Title: Horrorfilm lässt Gesichter ängstlich aussehen
+Author: Jochen Paulus<annotation class="PER">
+Abstract: Horrorfilm und Komödie beeinflussen, ob wir glückliches oder ängstliches Gesicht sehen
+
+Freude oder Angst?
+| Bild: Emilie Qiao<annotation class="PER">-Tasserit<annotation class="PER">
+Alfred Hitchcock<annotation class="PER"> machte einmal ein kleines Experiment.
+Zuerst zeigte er eine Mutter mit ihrem Kind auf einer Wiese, dann sein eigenes Gesicht mit einem neutralen Gesichtsausdruck.
+Die Zuschauer sahen Hitchcock<annotation class="PER"> als wohlwollenden alten Mann.
+Später zeigte er zuerst ein totes Kind in einem Sarg, dann die gleiche Aufnahme von sich selbst.
+Nun sahen die Zuschauer Traurigkeit in seinem Gesicht, sagt der Kognitionswissenschaftler Swann Pichon<annotation class="PER"> von der Universität Genf<annotation class="ORG">.
+Emilie Qiao<annotation class="PER">-Tasserit<annotation class="PER">, Swann Pichon<annotation class="PER"> und Kollegen haben untersucht, wie Filmbilder unsere Wahrnehmung verändern.
+Zuerst führte er seinen Versuchspersonen eine Minute Film aus einem von drei Genres vor: dem Horrorklassiker «The Shining<annotation class="MISC">», der Komödie «Harry und Sally<annotation class="MISC">» oder einem neutralen Dokumentarfilm über die Mysterien des Weltalls.
+Dann zeigte er ihnen Fotos von Menschen mit einem meist vieldeutigen Gesichtsausdruck.
+Dafür hat er von der gleichen Person je ein Foto mit ängstlichem und eines mit glücklichem Ausdruck gemorpht und variiert: mal mit mehr Glück, mal mehr Angst.
+Die Versuchspersonen mussten bei jedem Foto entscheiden, ob das Foto einen glücklichen oder einen ängstlichen Menschen zeigte.
+Hitchcock<annotation class="PER"> hatte recht: Auf den gleichen Fotos wirken Menschen glücklicher, wenn die Zuschauer zuvor einen Ausschnitt aus einer Komödie gesehen haben.
+Nach dem Horrorfilm wirken die gleichen Menschen ängstlicher.
+Laut Studie kann die Wirkung anderthalb Minuten anhalten.
+Jetzt beschäftigt sich Pichon<annotation class="PER"> damit, wie Computerspiele die Gefühle und das Sozialverhalten ihrer Nutzer beeinflussen.
+«Computerspiele haben oft einen schlechten Ruf – unsere Forschung zeigt, dass sie auch einen positiven Einfluss haben können», sagt Pichon<annotation class="PER">.
+E. Qiao<annotation class="PER">-Tasserit<annotation class="PER"> et al.
+: Transient emotional events and individual affective traits affect emotion recognition in a perceptual decision-making task<annotation class="ORG">.
+Plos One<annotation class="MISC"> (2017)

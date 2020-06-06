@@ -1,0 +1,49 @@
+2017	DATE
+Alexandra Bröhm	PERSON
+Anglo-Saxon	NORP
+Annette Magnin	PERSON
+Ayşim Yılmaz	PERSON
+Basel	GPE
+Briel	ORG/PERSON
+Britain	GPE
+CHF 10 million	MONEY
+Clinical Trial Units	ORG
+Denmark	GPE
+Investigator Initiated Clinical Trials	PRODUCT
+Keystone	ORG
+Last year	DATE
+Magnin	PERSON
+Massimo	PERSON
+Matthias Briel	PERSON
+Meier-Abt	PERSON
+Netherlands	GPE
+One	CARDINAL
+Peter Meier-Abt	PERSON
+RCT	WORK_OF_ART
+SAMS	ORG
+SCTO	ORG
+SNSF	ORG
+Sonntagszeitung	FAC
+Sweden	GPE
+Swiss	NORP
+Switzerland	GPE
+The National Institute for Health Research (NIHR)	ORG
+Two years ago	DATE
+Yilmaz	PERSON
+a Swiss Clinical Research Education Centre	ORG
+between 1986 and 2015	DATE
+first	ORDINAL
+four	CARDINAL
+one	CARDINAL
+six	CARDINAL
+some 50 percent	PERCENT
+the Basel University Hospital	ORG
+the Biology and Medicine Division	ORG
+the British Medical Journal	ORG
+the Federal Office of Public Health	ORG
+the Swiss Academy of Medical Sciences	ORG
+the Swiss Clinical Trial Organisation	ORG
+the Swiss National Science Foundation SNSF	ORG
+the Tages-Anzeiger	FAC
+three to four years	DATE
+today	DATE

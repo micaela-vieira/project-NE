@@ -1,0 +1,9 @@
+Alexandra Uster	PERSON
+Géraldine Guex	PERSON
+Anne Géraldine Guex	PERSON
+the several years	DATE
+Imperial College	ORG
+London	GPE
+several decades	DATE
+28 days	DATE
+Guex	PERSON

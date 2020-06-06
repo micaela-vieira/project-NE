@@ -1,0 +1,35 @@
+Afrique	LOC
+Amérique du Sud	LOC
+Amériques	LOC
+Anna-Sapfo Malaspinas	PER
+Australie	LOC
+Berkeley	PER
+Californie	LOC
+Crète	LOC
+Danemark	LOC
+Dominique Ziegler	PER
+Eske Willerslev	PER
+Genève	LOC
+Joan Mompart	PER
+Laurent Excoffier	PER
+Los Angeles	LOC
+Ludovic Payer	PER
+Musée de l’Homme	LOC
+Musée d’ethnographie de Genève	LOC
+Musée national	LOC
+Nature	MISC
+Paris	LOC
+Polynésie	LOC
+Rio de Janeiro	LOC
+San Francisco	LOC
+Sophie Gaitzsch	PER
+Suisse	LOC
+Université de Berkeley	ORG
+Université de Berne	ORG
+Université de Copenhague	ORG
+Université de Lausanne	ORG
+Université d’Héraklion	LOC
+Valérie Chételat	PER
+«Anna	MISC/PER
+Ça	MISC
+île de Pâques	LOC

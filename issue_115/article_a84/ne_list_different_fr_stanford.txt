@@ -1,0 +1,9 @@
+5G	MISC
+Andreas Burg	PER
+EPFL	ORG
+IEEE Journal on Emerging and Selected Topics in Circuits and Systems	ORG
+Laboratoire de circuits pour télécommunications de l’EPFL	ORG
+Lionel Pousaz	PER
+P. Giard	PER
+PolarBear: A 28-nm FD-SOI ASIC for Decoding of Polar Codes	MISC
+TCL EPFL	ORG

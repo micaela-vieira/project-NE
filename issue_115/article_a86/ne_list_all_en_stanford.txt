@@ -1,0 +1,23 @@
+Florian Fisch	PERSON
+ESB	ORG
+almost 500	CARDINAL
+Swiss	NORP
+three-to-five-year-olds	DATE
+Jardena Puder	PERSON
+the Lausanne University Hospital	ORG
+CHUV	ORG
+84 day	DATE
+Aargau	GPE
+Bern	GPE
+Fribourg	GPE
+Vaud	GPE
+Zurich	GPE
+French	LANGUAGE
+Switzerland	GPE
+10 percent	PERCENT
+German	LANGUAGE
+SPLASHY	WORK_OF_ART
+Fribourg	GPE
+Lausanne	GPE
+Zurich	GPE
+Puder	PERSON

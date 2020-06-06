@@ -1,0 +1,9 @@
+Daniel Saraga	PER
+Leiden Ranking of Universities	MISC
+Schweiz	LOC
+indonesische	MISC
+Open Science Framework	ORG
+OSF	ORG
+Schweizer	MISC
+OECD	ORG
+ERC	ORG

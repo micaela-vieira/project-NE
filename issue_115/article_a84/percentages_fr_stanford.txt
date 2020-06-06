@@ -1,0 +1,10 @@
+Method used: stanford
+----------------------------------------------
+Amount NEs: 11
+Amount nouns and numerals: 104
+----------------------------------------------
+Percentages:
+PER	3.8%
+ORG	3.8%
+LOC	0.0%
+MISC	2.9%

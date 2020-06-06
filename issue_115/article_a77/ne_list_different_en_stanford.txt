@@ -1,0 +1,15 @@
+Alfred Hitchcock	PERSON
+Emilie Qiao-Tasserit	PERSON
+First	ORDINAL
+Hitchcock	PERSON
+Jochen Paulus	PERSON
+Joy	PERSON
+Pichon	PERSON
+Secondly	ORDINAL
+Swann Pichon	PERSON
+The Shining, the comedy When Harry met Sally	WORK_OF_ART
+at least one-and-a-half minutes	TIME
+first	ORDINAL
+the University of Geneva	ORG
+three	CARDINAL
+two	CARDINAL

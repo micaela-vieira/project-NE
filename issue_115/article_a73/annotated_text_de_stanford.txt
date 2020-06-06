@@ -1,0 +1,65 @@
+Title: Forschen im klinischen Umfeld will gelernt sein
+Author: Alexandra Bröhm<annotation class="PER">
+Abstract: Klinische Studien scheitern am Optimismus der Forscher
+
+Verschläft die Schweiz<annotation class="LOC"> den Anschluss an die internationale klinische Forschung?
+Ohne entsprechende personelle Ressourcen können keine gut organisierten Interventionsstudien durchgeführt werden.
+Bild: Keystone/Science Photo Library/Look at Sciences/Massimo Brega<annotation class="ORG">
+Randomisierte, kontrollierte Studien (RCT-<annotation class="MISC">Studien) sind für den medizinischen Fortschritt unabdingbar.
+Allerdings ist die Abbruchrate erschreckend hoch.
+Zum Beispiel brachen Forschende eine von vier Studien, die der Schweizerische Nationalfonds<annotation class="ORG"> (SNF<annotation class="ORG">) zwischen 1986 und 2015 unterstützt hatte, vorzeitig ab.
+Das geht aus der Untersuchung eines Teams um den Basler<annotation class="MISC"> Epidemiologen Matthias Briel<annotation class="PER"> hervor, die im British Medical Journal<annotation class="ORG"> erschienen ist.
+Ob vom SNF<annotation class="ORG"> gefördert oder nicht, macht aber nicht den Unterschied: «Es ist ein grundlegendes Problem», sagt Briel<annotation class="PER">, der am Universitätsspital Basel<annotation class="LOC"> forscht.
+Das Team analysierte, warum so viele RCTs<annotation class="MISC"> vorzeitig enden: Das Hauptproblem liege bei der Rekrutierung geeigneter Teilnehmender, also schon in der Frühphase einer Studie.
+«Oftmals sind die Schätzungen zu optimistisch», sagt Briel<annotation class="PER">.
+Das heisst: Die Ärzte verlassen sich darauf, dass genügend Patientinnen und Patienten bereit sind mitzumachen, ohne sich diesem Punkt wirklich ausführlich zu widmen.
+In der Realität erfüllen jedoch längst nicht alle die Einschlusskriterien einer Studie, und nicht alle sind bereit, teilzunehmen.
+Vor allem dann nicht, wenn der Aufwand grösser ist.
+Ähnliches hat auch Annette Magnin<annotation class="PER"> erlebt, die Geschäftsleiterin der Swiss Clinical Trial Organisation<annotation class="ORG"> (SCTO<annotation class="ORG">): «Die Forschenden schätzen die Situation im Vorfeld oftmals rund 50 Prozent zu optimistisch ein.» Die SCTO<annotation class="ORG"> wurde auf Initiative des SNF<annotation class="ORG"> und der Schweizerischen Akademie für Medizinische Wissenschaften<annotation class="ORG"> (SAMW<annotation class="ORG">) gegründet, um Ärzte bei der klinischen Forschung zu unterstützen.
+Föderalismus begrenzt Patientenpool
+«Ein Problem ist auch, dass viele Studien zu regional angelegt sind», sagt Peter Meier<annotation class="PER">-Abt<annotation class="PER">, Vizepräsident der SAMW<annotation class="ORG">.
+Viele Spitäler in der Schweiz<annotation class="LOC"> sind zu klein, um auf einen ausreichenden Patientenpool zurückgreifen zu können.
+Das föderalistisch organisierte Gesundheitssystem sehen die meisten Experten als Knackpunkt in der optimalen Organisation einer klinischen Studie.
+«Wir bräuchten einen Gesamtpool an Patienten», sagt Meier<annotation class="PER">-Abt<annotation class="PER">.
+Aber die gesamtschweizerische<annotation class="MISC"> Koordination sei anspruchsvoll.
+«Die regionale Begrenzung auf ein Schweizer<annotation class="MISC"> Spital muss nicht sein», sagt auch Briel<annotation class="PER">.
+Studien, die an mehreren Zentren laufen, könnten mit guter Vorbereitung und Koordination sehr wohl funktionieren.
+Auch in einem weiteren Kritikpunkt sind sich die Experten einig: Die Ärzte sind in der Schweiz<annotation class="LOC"> zu stark im klinischen Alltag eingespannt.
+«Wir bräuchten mehr geschützte Zeit für die Forschung», sagt Meier<annotation class="PER">-Abt<annotation class="PER">.
+Ärzte, die ohnehin schon Überstunden schieben, könnten nicht auch noch am Feierabend oder Wochenende forschen.
+Auch Magnin<annotation class="PER"> sagt: «Für klinisches Personal wird es in der Schweiz<annotation class="LOC"> je länger je schwieriger, neben dem Versorgungsauftrag, der den Spitälern Geld einbringt, Zeit in die Forschung zu stecken.»
+«Wir müssen aufpassen, dass wir international nicht abgehängt werden», sagt Meier<annotation class="PER">-Abt<annotation class="PER">.
+Dänemark<annotation class="LOC">, Schweden<annotation class="LOC"> oder die Niederlande<annotation class="LOC"> seien der Schweiz<annotation class="LOC"> in Sachen Forschungsinfrastruktur längst überlegen.
+Und auch im angelsächsischen<annotation class="MISC"> Raum habe die wissenschaftliche Arbeit viel mehr Gewicht.
+Es gibt erste Ansätze, dieser Entwicklung entgegenzuwirken.
+Vor zwei Jahren hat der SNF<annotation class="ORG"> das Programm Investigator Initiated Clinical Trials<annotation class="ORG"> (IICT<annotation class="ORG">) ins Leben gerufen.
+Damit will er die unabhängige klinische Forschung in der Schweiz<annotation class="LOC"> fördern.
+Für 2017 steht ein Budget von zehn Millionen Franken zur Verfügung.
+«Wir haben die Unterstützungsdauer für RCTs von drei auf vier Jahre verlängert», sagt Ayşim Yılmaz<annotation class="PER">, Leiterin der Abteilung Biologie und Medizin<annotation class="ORG"> beim SNF<annotation class="ORG">.
+Das soll den Forschern eine seriöse Vorbereitungszeit erleichtern.
+«Wir wollen auch in innovative Forschung investieren», sagt Yılmaz<annotation class="PER">.
+Scheitern sei da immer möglich, sollte aber nicht als Entschuldigung für schlechte Vorbereitung dienen.
+Gute Vorbereitung sei der beste Weg zum Erfolg, ist Studienautor Matthias Briel<annotation class="PER"> überzeugt: «Am besten ist es, eine konkrete Pilotstudie mit dem geplanten Studienprotokoll durchzuführen», sagt Briel<annotation class="PER">.
+Dieser Vorschlag stosse bei den Ärzten nicht immer auf Begeisterung, doch verschiedene internationale Untersuchungen hätten dieses Erfolgskonzept bestätigt.
+Entscheidend sei auch, den Rekrutierungsprozess im Studienprotokoll detailliert zu beschreiben.
+«Auch Was-wäre-wenn-Szenarien sollten die Forscher bereits im Vorfeld durchspielen», sagt Briel<annotation class="PER">: «So lässt sich der Schaden mindern, wenn die Suche nach Teilnehmenden nur schleppend vorankommt.»
+Um den möglichen Teilnehmerkreis zu vergrössern sieht Briel Social-Media<annotation class="ORG">-Plattformen als Chance.
+Erste Versuche hätten gezeigt, dass sich diese eignen, um Interesse für eine Studie zu wecken.
+Ganz allgemein müsse man bei der breiten Bevölkerung das Bewusstsein schärfen, dass klinische Forschung allen zugutekomme, sie jedoch nur möglich ist, wenn viele Menschen bereit sind, an Studien teilzunehmen.
+Auch die Ethikkommissionen könnten ihren Teil zu einer möglichst gelungenen Rekrutierung beitragen.
+«Bei der Prüfung der Studien müssten sie die Forschenden bereits auf allfällige Schwächen bei der Teilnehmersuche hinweisen.» Beklagt hatten die Ärzte in der Vergangenheit immer wieder, dass der administrative Aufwand für Studien eine grosse Hürde sei.
+Inzwischen ist das Verfahren etwas vereinfacht worden.
+Forschen will gelernt sein
+Ausserdem sollte mehr in die Ausbildung des Nachwuchses investiert werden, sind sich die Experten einig: «Die korrekte Planung und Durchführung klinischer Studien ist eine eigene Disziplin, die man erlernen muss», sagt SCTO<annotation class="ORG">-Geschäftsleiterin Magnin<annotation class="PER">.
+Die Clinical Trial Units<annotation class="ORG">, die es inzwischen an sechs Schweizer<annotation class="MISC"> Spitälern gibt, stehen den Forschenden zwar als Dienstleister zur Seite.
+Aber die Unterstützung kostet.
+Das Bundesamt für Gesundheit<annotation class="ORG"> hat letztes Jahr zudem eine Roadmap zur Nachwuchsförderung im klinischen Bereich lanciert.
+Teil dieses Pakets soll unter anderem die Schaffung eines Swiss Clinical Research Education Centre<annotation class="ORG"> sein.
+«Wir brauchen in der Schweiz<annotation class="LOC"> ein klares Bekenntnis zur klinischen Forschung», sagt Magnin<annotation class="PER">.
+Und Briel<annotation class="PER"> findet: «Alle wichtigen Stakeholder müssen sich an den Bemühungen beteiligen und ihre Verantwortung in diesem wichtigen Bereich übernehmen.»
+Bleibt noch die Frage, was mit jenen Daten geschehen soll, die aus unfertigen Studien übrig bleiben.
+«Sie sollten der Allgemeinheit für Meta-Analysen oder als Lessons learned für weitere Studien zur Verfügung stehen», sagt Briel<annotation class="PER">.
+Das britische<annotation class="MISC"> National Institute for Health Research<annotation class="ORG"> (NIHR<annotation class="ORG">) hat das Problem beispielsweise so gelöst, dass alle vom NIHR<annotation class="ORG"> unterstützten Studien publiziert werden müssen.
+Und wenn sie das nicht tun?
+Dann gibt es kein Geld.
+Alexandra Bröhm<annotation class="PER"> ist Journalistin beim Tages-Anzeiger<annotation class="ORG"> und bei der Sonntagszeitung.

@@ -1,0 +1,64 @@
+Sophie Gaitzsch	PERSON
+Valérie Chételat	PERSON
+Anna-Sapfo Malaspinas	PERSON
+the University of Lausanne	ORG
+French	LANGUAGE
+English	LANGUAGE
+Malaspinas	PERSON
+35 years old	DATE
+Africa	LOC
+Polynesia	LOC
+Americas	LOC
+Easter Island	LOC
+South America	LOC
+the National Museum	ORG
+Rio de Janeiro	GPE
+Brazil	GPE
+some several centuries before	DATE
+Polynesian	NORP
+last year	DATE
+Nature	WORK_OF_ART
+Australia	GPE
+Eurasian	NORP
+Africa	LOC
+some 72,000 years ago	DATE
+Malaspinas	PERSON
+Geneva	GPE
+three	CARDINAL
+Greek	NORP
+17	DATE
+three months	DATE
+Crete	GPE
+the University of Heraklion	ORG
+months	DATE
+one	CARDINAL
+California	GPE
+Ph.D.	WORK_OF_ART
+University of Berkeley	ORG
+Berkeley	ORG
+Los Angeles	GPE
+San Francisco	GPE
+Switzerland	GPE
+2015	DATE
+Denmark	GPE
+Malaspinas	PERSON
+Copenhagen	GPE
+Eske Willerslev	PERSON
+the University of Bern	ORG
+Laurent Excoffier	PERSON
+one	CARDINAL
+Australia	GPE
+the Ethnographic Museum of Geneva	ORG
+MEG	ORG
+the Musée de L’homme	FAC
+Paris	GPE
+Ludovic Payer	PERSON
+French	LANGUAGE
+Switzerland	GPE
+Dominique Ziegler	PERSON
+Joan Mompart	PERSON
+Africa	LOC
+Australia	GPE
+Sophie Gaitzsch	PERSON
+Swiss	NORP
+Paris	GPE

@@ -1,0 +1,18 @@
+Title: Kurz gesagt
+Author: Daniel Saraga<annotation class="PER">
+Abstract: Kurznachrichten über Wissenschaftspolitik und Forschungskultur
+
+Peer-Review: Die Praxis in Zahlen
+Rezept für gutes Abschneiden bei Hochschulrankings
+Grosse Universitäten schneiden bei Zitationen sowie bei gemeinsamen Publikationen mit internationalen Autoren und der Industrie überdurchschnittlich gut ab, so eine Studie auf der Grundlage des Leiden Ranking of Universities<annotation class="MISC">.
+Diese profitieren von Skaleneffekten und einer besseren Sichtbarkeit, vermuten die Autoren.
+Überraschenderweise beeinflussen das Alter der Einrichtung und die Grösse der lokalen Bevölkerung den Rang leicht negativ.
+Rein technische Hochschulen sind im Vorteil.
+«Kein einzelnes Land brilliert gleichzeitig bei allen drei Kriterien: Zitationen, internationale Ausrichtung und Zusammenarbeit mit der Industrie», schreiben die Autoren.
+«Mit Ausnahme vielleicht der Schweiz<annotation class="LOC">.»
+Sechs neue Preprint-Server online
+Ernährungs-, Sport-, und Bibliothekswissenschaft, Paläontologie, Meditation sowie indonesische<annotation class="MISC"> Forschung haben nun ihre eigene Plattform zur Publikation von Preprints, alle basierend auf dem Open Science Framework<annotation class="ORG"> (OSF<annotation class="ORG">).
+In Prozenten
+17%: Anteil ausländischer Studierender an Schweizer<annotation class="MISC"> Hochschulen – drei Mal höher als der Durchschnitt der OECD<annotation class="ORG">-Länder
+73%: ERC<annotation class="ORG">-Projekte erzielten einen «wissenschaftlichen Durchbruch oder wesentlichen Erkenntnisfortschritt», wie eine zufällige Stichprobe von 155 Projekten zeigte
+17%: tiefere Noten erhielten Wirtschaftsprofessorinnen im Vergleich zu ihren männlichen Kollegen bei Bewertungen durch Studierende, bei gleicher Wirksamkeit des Unterrichts

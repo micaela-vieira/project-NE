@@ -1,0 +1,37 @@
+Aerogels	PERSON
+Sven Titz	PERSON
+Swiss	NORP
+Nyström/Mezzenga	ORG
+Matthias Koebel	PERSON
+Empa	GPE
+Dübendorf	GPE
+Raffaele Mezzenga	PERSON
+Gustav Nyström	PERSON
+ETH Zurich	ORG
+just two percent	PERCENT
+Mezzenga	PERSON
+Nyström	PRODUCT
+2015	DATE
+Nyström	PERSON
+three	CARDINAL
+Nyström	PERSON
+Matthias Koebel	PERSON
+Empa	ORG
+Koebel	PERSON
+Koebel	PERSON
+Koebel	PERSON
+first	ORDINAL
+Koebel	ORG
+Koebel	PERSON
+one	CARDINAL
+roughly a hundred	CARDINAL
+over 50 degrees Celsius	QUANTITY
+Koebel	GPE
+One	CARDINAL
+Koebel	PERSON
+Empa	ORG
+Nexaero	ORG
+Koebel	PERSON
+Koebel	PERSON
+as early as 2020	DATE
+just two years	DATE

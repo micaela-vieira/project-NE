@@ -1,0 +1,11 @@
+Acta Biomaterialia	MISC
+Alexandra Uster	PER
+Anne Géraldine Guex	PER
+G. Guex	PER
+Géraldine Guex	PER
+Highly	MISC
+Imperial College London	ORG
+Les	LOC
+L’utilisation	LOC
+PEDOT:PSS	MISC
+PSS	LOC

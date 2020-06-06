@@ -1,0 +1,24 @@
+Method used: stanford
+----------------------------------------------
+Amount NEs: 21
+Amount nouns and numerals: 99
+----------------------------------------------
+Percentages:
+PERSON	5.1%
+NORP	1.0%
+FAC	0.0%
+ORG	4.0%
+GPE	2.0%
+LOC	0.0%
+PRODUCT	0.0%
+EVENT	0.0%
+WORK_OF_ART	2.0%
+LAW	0.0%
+LANGUAGE	0.0%
+DATE	1.0%
+TIME	0.0%
+PERCENT	0.0%
+MONEY	0.0%
+QUANTITY	0.0%
+ORDINAL	0.0%
+CARDINAL	6.1%

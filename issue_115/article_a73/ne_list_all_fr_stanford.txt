@@ -1,0 +1,60 @@
+Alexandra Bröhm	PER
+Keystone	ORG
+Science Photo Library	ORG
+Look at Sciences	ORG
+Massimo Brega	PER
+Fonds national suisse	ORG
+FNS	ORG
+Matthias Briel	PER
+British Medical Journal	ORG
+FNS	ORG
+Hôpital universitaire de Bâle	LOC
+Les	LOC
+Les	LOC
+Annette Magnin	PER
+Swiss Clinical Trial Organisation	ORG
+SCTO	ORG
+FNS	ORG
+Académie suisse des sciences médicales	ORG
+ASSM	ORG
+Peter Meier-Abt	PER
+ASSM	ORG
+Peter Meier-Abt	PER
+Matthias Briel	PER
+Les	LOC
+Les	LOC
+Peter Meier-Abt	PER
+Les	LOC
+Annette Magnin	PER
+Peter Meier-Abt	PER
+Danemark	LOC
+Suède	LOC
+Pays-Bas	LOC
+Les	LOC
+FNS	ORG
+Investigator Initiated Clinical Trials	MISC
+IICT	MISC
+Suisse	LOC
+Ayşim Yılmaz	PER
+Biologie et médecine du Secrétariat du FNS	ORG
+Les	LOC
+Ayşim Yılmaz	PER
+Matthias Briel	PER
+Cette	LOC
+Matthias Briel	PER
+Les	LOC
+Les	LOC
+SCTO	ORG
+Annette Magnin	PER
+Office fédéral de la santé	ORG
+Centre	LOC
+Matthias Briel	PER
+Royaume-Uni	LOC
+National Institute for Health Research	ORG
+Alexandra Bröhm	PER
+Tages-Anzeiger	LOC
+SonntagsZeitung	ORG
+Amstutz	PER
+Discontinuation	MISC
+Switzerland	LOC
+BMJ Open	MISC

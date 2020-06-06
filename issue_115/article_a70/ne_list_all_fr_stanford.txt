@@ -1,0 +1,13 @@
+Alexandra Uster	PER
+Géraldine Guex	PER
+Les	LOC
+PEDOT:PSS	MISC
+Anne Géraldine Guex	PER
+Imperial College London	ORG
+PEDOT:PSS	MISC
+Anne Géraldine Guex	PER
+L’utilisation	LOC
+G. Guex	PER
+Highly	MISC
+PSS	LOC
+Acta Biomaterialia	MISC

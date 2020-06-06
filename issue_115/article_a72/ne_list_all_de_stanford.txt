@@ -1,0 +1,26 @@
+This Rutishauer	PER
+Aar Massivs	MISC
+Grimselmassiv	LOC
+Marco Herwegh	PER
+Fritz Schlunegger	PER
+Nagra-	LOC
+Grimsel	LOC
+Aarmassiv	LOC
+Haslital	LOC
+Grimselmassiv	LOC
+Aarmassivs	LOC
+Grimselgebiet	LOC
+Europas	LOC
+Fritz Schlunegger	PER
+Marco Herwegh	PER
+Universität Bern	ORG
+Naturforschenden Gesellschaft	ORG
+Bern	LOC
+Massachusetts Institute of Technology	ORG
+Boston	LOC
+University of Western Australia	ORG
+Herwegh	PER
+Unesco- Welterbe	LOC
+Tektonikarena Sardona	LOC
+This Rutishauser	PER
+Neues vom Geothermiefeld Grimsel	MISC

@@ -1,0 +1,51 @@
+Title: The genomic traveller
+Author: Sophie Gaitzsch<annotation class="PERSON">
+Abstract: A genetics researcher brings ancestral DNA to life
+
+Image: Valérie Chételat<annotation class="PERSON">
+Anna-Sapfo Malaspinas<annotation class="PERSON"> is definitely a very busy woman.
+She has recently been appointed to the department of computational biology at the University of Lausanne<annotation class="ORG">, where she is still setting up her laboratory.
+“We are still right in the middle of the move… I hope you don’t mind if I eat whilst we talk?”.
+In the end, we sit in the campus park under a birch tree on a plastic bench.
+She speaks quickly and enthusiastically, peppering her French<annotation class="LANGUAGE"> with the English<annotation class="LANGUAGE"> words “cool” and “fun”.
+Malaspinas<annotation class="PERSON"> is 35 years old<annotation class="DATE"> and is studying how our ancestors populated the planet.
+In particular, she’s looking at how they left Africa<annotation class="LOC">, how they adapted to new environments and at which points in history those events occurred.
+To bear this out, she is turning to both contemporary and ancient DNA samples held in museums, and analysing them using mathematical and digital models.
+For example, her team is analysing the hypothesis of transpacific contact between Polynesia<annotation class="LOC"> and the Americas<annotation class="LOC">.
+This is the project that has led her to take ancient DNA samples from Easter Island<annotation class="LOC">.
+For another project, she travelled to South America<annotation class="LOC"> in response to a phone call from a researcher at the National Museum<annotation class="ORG"> in Rio de Janeiro<annotation class="GPE">, Brazil<annotation class="GPE">.
+Her correspondent had been studying human remains there and had noted that the genome of certain individuals from a local population, which had lived some several centuries before<annotation class="DATE">, was entirely Polynesian<annotation class="NORP">.
+Her work made waves in the media last year<annotation class="DATE"> following the publication of an article in Nature<annotation class="WORK_OF_ART"> on the population of Australia<annotation class="GPE">.
+This research shows that both aboriginal and Eurasian<annotation class="NORP"> populations arrived in the same wave of migration that had begun in Africa<annotation class="LOC"> some 72,000 years ago<annotation class="DATE">.
+It put her in the spotlight, which is something she’d rather have avoided.
+“Journalists intimidate me, but I think that communicating my results in an intelligible way is part of my duty.
+Society finances my research, so I should give something back”.
+No fear, no delay
+Malaspinas<annotation class="PERSON"> was born in Geneva<annotation class="GPE"> and grew up with three<annotation class="CARDINAL"> siblings and her parents: a physicist father and a Greek<annotation class="NORP"> artist mother.
+When she was 17<annotation class="DATE">, she spent three months<annotation class="DATE"> in Crete<annotation class="GPE"> with her godfather, a chemist at the University of Heraklion<annotation class="ORG">.
+“I would go to his laboratory, asking questions.
+I was fascinated by the freedom of his work: spending months<annotation class="DATE"> thinking about one<annotation class="CARDINAL"> question, discussing ideas, experimenting, beginning again.
+I realised it was what I wanted to do”.
+She thought about studying law or literature, but decided to go for medicine.
+She did not, however, meet the enrolment deadline and had to settle for biology and physics, which she studied simultaneously.
+During a class on evolution, she had a “life-changing moment”, at which point she realised she wanted to study population genetics.
+In the name of love, she set her bearings for California<annotation class="GPE">, where she began a Ph.D.<annotation class="WORK_OF_ART"> at the prestigious University of Berkeley<annotation class="ORG">.
+“I wasn’t afraid and I didn’t delay.
+I just threw my swimming costumes in a suitcase and left – thinking that Berkeley<annotation class="ORG"> was closer to Los Angeles<annotation class="GPE"> than to San Francisco<annotation class="GPE">!”.
+She returned to Switzerland<annotation class="GPE"> in 2015<annotation class="DATE"> after having also spent time in Denmark<annotation class="GPE">.
+Malaspinas<annotation class="PERSON"> describes her professional career as if she’d just had a long streak of good luck and owed her current position to her fairy godmother.
+Her postdoctoral supervisor in Copenhagen<annotation class="GPE">, Eske Willerslev<annotation class="PERSON">, sees things differently: “She’s built her career on the basis of a brilliant intelligence and an enormous work ethic”.
+At the University of Bern<annotation class="ORG">, the specialist in population genetics Laurent Excoffier<annotation class="PERSON"> applauds her capacity to link theoretical studies and empirical data.
+“She’s one<annotation class="CARDINAL"> of those rare people who can not only develop and implement models but also collect and analyse the samples she’s taken on the ground so as to verify her theories”.
+Throughout the interview, her mobile telephone rings incessantly; she also keeps an eye on her watch.
+Before leaving she discusses a project currently absorbing her attention: a theatre play inspired by her work on populations in Australia<annotation class="GPE">, which has already been staged at the Ethnographic Museum of Geneva<annotation class="ORG"> (MEG<annotation class="ORG">) and at the Musée de L’homme<annotation class="FAC"> in Paris<annotation class="GPE">.
+When asked how the idea came about, she says, “I was teaching statistics, and my students were falling asleep during class… which made me wonder if there was a better way to communicate science, and to reach a larger audience”.
+This led to the idea of a play for children.
+Following a meeting with the actor Ludovic Payer<annotation class="PERSON">, the project began to garner interest among French<annotation class="LANGUAGE">-speaking Switzerland<annotation class="GPE">’s theatre community, including the author of the script Dominique Ziegler<annotation class="PERSON"> and the director Joan Mompart<annotation class="PERSON">.
+The play is set in a museum, where a group of visitors is guided by a young scientist who introduces her work on DNA.
+The audience is taken on a journey starting with humans leaving Africa<annotation class="LOC"> and ending on arrival in Australia<annotation class="GPE">, where they encounter aboriginal populations.
+“We wanted to show that science careers are fun.
+But at the same time, we want to publicise our work, to explain how the genome contains the history of our ancestors and to underscore that we are all relatives and all migrants.
+In this way, we hope to draw people’s attention to the fate of indigenous populations”.
+This is another way to give back to society.
+Sophie Gaitzsch<annotation class="PERSON"> is a Swiss<annotation class="NORP"> journalist based in Paris<annotation class="GPE">.

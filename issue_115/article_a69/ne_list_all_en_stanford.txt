@@ -1,0 +1,26 @@
+Matthias Egger	PERSON
+Manu Friederich	PERSON
+today	DATE
+the International Journal of Research on Neuroscience	ORG
+Today	DATE
+some 8,000	CARDINAL
+more than 400,000	CARDINAL
+SNSF	ORG
+Africa	LOC
+China	GPE
+India	GPE
+Nature	ORG
+almost 2,000	CARDINAL
+over 200	CARDINAL
+quarter	CARDINAL
+USA	GPE
+Western	NORP
+the National Institutes of Health	ORG
+NIH	ORG
+Switzerland	GPE
+SNSF	ORG
+SNSF	ORG
+One	CARDINAL
+Matthias Egger	PERSON
+the National Research Council	ORG
+the University of Bern	ORG

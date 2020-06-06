@@ -1,0 +1,44 @@
+Aborigines	MISC
+Afrika	LOC
+Amerika	LOC
+Anna	PER
+Australien	LOC
+Australiens	LOC
+Berkeley	LOC
+Birchermüesli	LOC
+Campus-Park	LOC
+Dominique Ziegler	PER
+Dänemark	LOC
+Eske Willerslev	PER
+Genf	LOC
+Iraklio	LOC
+Joan Mompart	PER
+Kalifornien	LOC
+Kreta	LOC
+Laurent Excoffier	PER
+Los Angeles	LOC
+Ludovic Payer	PER
+Malaspinas	PER
+Musée de l’Homme	LOC
+Nature	LOC
+Osterinseln	LOC
+Paris	LOC
+Polynesien	LOC
+Rio de Janeiro	LOC
+San Francisco	LOC
+Sapfo Malaspinas	PER
+Schweiz	LOC
+Schweizer	MISC
+Sophie Gaitzsch	PER
+Südamerika	LOC
+University of California	ORG
+Universität Bern	ORG
+Universität Kopenhagen	ORG
+Universität Lausanne	ORG
+Valérie Chételat	PER
+Westschweizer	MISC
+australischen	MISC
+brasilianischer	MISC
+eurasische	MISC
+griechischen	MISC
+«Anna	MISC

@@ -1,0 +1,21 @@
+2017	DATE
+2018	DATE
+28	CARDINAL
+5G	CARDINAL
+Andreas Burg	PERSON
+Burg	PERSON
+EPFL	ORG
+EPFL’s Telecommunication Circuits Laboratory	ORG
+Emerging and Selected Topics in Circuits and Systems	WORK_OF_ART
+Giard et al	PERSON
+IEEE Journal	ORG
+Lionel Pousaz	PERSON
+TCL	ORG
+a little less than ten years	DATE
+a year	DATE
+first	ORDINAL
+more than twenty years	DATE
+second	ORDINAL
+the twenty years	DATE
+today	DATE
+two	CARDINAL

@@ -1,0 +1,19 @@
+Aargau	LOC
+Association between Body Composition and Motor Performance in Preschool Children	ORG
+BMI	ORG
+Bern	LOC
+Body-Mass-Index	ORG
+Deutschschweiz	LOC
+Florian Fisch	PER
+Freiburg	LOC
+Jardena Puder	PER
+Lausanne	LOC
+Mukis	PER
+Obesity Facts	ORG
+Puder	PER
+SPLASHY	MISC
+Schweizer	MISC
+T. H. Kakebeeke	PER
+Universitätsspital Lausanne	ORG
+Waadt	LOC
+Zürich	LOC

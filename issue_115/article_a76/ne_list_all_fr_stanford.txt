@@ -1,0 +1,15 @@
+Sylvia Wagner	PER
+Les	LOC
+Sandro Sieber	PER
+Dominik Witzigmann	PER
+Les	LOC
+Dominik Witzigmann	PER
+Sandro Sieber	PER
+Université de Bâle	ORG
+Les	LOC
+Les	LOC
+Les	LOC
+Dominik Witzigmann	PER
+Sieber	PER
+Zebrafish	MISC
+Journal of Controlled Release	MISC

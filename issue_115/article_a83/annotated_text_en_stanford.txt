@@ -1,0 +1,5 @@
+Title: Turbocharging<annotation class="PERSON"> evolution
+Author: Roland Fischer<annotation class="PERSON">
+Abstract: The startup ‘Epibreed<annotation class="PRODUCT">’ is using targeted evolution to bring innovation to plant cultivation – without any genetic engineering.
+It works by means of epigenetic tricks, and with an age-old mechanism hidden away in the genetic material.
+

@@ -1,0 +1,18 @@
+Title: In short
+Author: Daniel Saraga<annotation class="PERSON">
+Abstract: Briefings about science policy and research culture
+
+Peer-review practice in numbers
+The recipe for highly ranked universities
+A study based on the Leiden Ranking of universities<annotation class="ORG"> has shown that large universities systematically over-perform in citation performance as well as in international and university/industry co-publications.
+It surmises that they benefit from economies of scale and greater visibility.
+Surprisingly, the institution’s age and the population size of the surrounding metropolitan area slightly decrease performance.
+Purely technical universities enjoy a better ranking.
+“No single country excels in all three<annotation class="CARDINAL"> dimensions of citation impact, internationalization, and industry involvement”, write the authors, “with the possible exception of Switzerland<annotation class="GPE">”.
+doi.org/cdp9
+Six<annotation class="CARDINAL"> new preprint servers online
+Nutrition, sports, palaeontology, meditation practices, library sciences and Indonesia<annotation class="GPE">-based research now have dedicated platforms for publishing preprints, all based on the OSF<annotation class="ORG"> platform.
+In percent
+17%<annotation class="PERCENT">: the proportion of foreign students in Swiss<annotation class="NORP"> universities, three<annotation class="CARDINAL"> times the OECD<annotation class="ORG"> average.
+73%<annotation class="PERCENT">: the proportion of a random sample of 155<annotation class="CARDINAL"> ERC<annotation class="ORG"> projects having made “breakthroughs or major scientific advances”.
+17%<annotation class="PERCENT">: the decrease in the student evaluation grades received by female university teachers in economics compared to male staff, despite the same teaching Quality.

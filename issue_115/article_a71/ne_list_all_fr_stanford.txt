@@ -1,0 +1,15 @@
+Astrid Tomczak Plewka	PER
+Valérie Chételat	PER
+Les	LOC
+Université de Bâle	ORG
+Les	LOC
+Laura Helbling	PER
+S’agissant	LOC
+Laura Helbling	PER
+Laura Helbling	PER
+Les	LOC
+TREE	MISC
+PISA	MISC
+L. Helbling	PER
+Fixed-Term Jobs after Vocational Education and Training in Switzerland: Stepping Stone or Impediment	MISC
+Swiss Journal of Sociology	ORG

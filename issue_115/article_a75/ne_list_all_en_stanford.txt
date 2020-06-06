@@ -1,0 +1,18 @@
+Pierre Bratschi	PERSON
+Universe	LOC
+Stockernumber2	ORG
+Kyriakos Papadodimas	PERSON
+CERN	ORG
+Rik van Breukelen	PERSON
+the University of Geneva	ORG
+Einstein	PERSON
+van Breukelen	PERSON
+today	DATE
+van Breukelen	PERSON
+a billion kilometres	QUANTITY
+Earth	LOC
+a year	DATE
+two	CARDINAL
+another 15 years	DATE
+2,000 years	DATE
+van Breukelen	PERSON

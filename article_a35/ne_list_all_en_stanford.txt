@@ -1,0 +1,21 @@
+Daniel Saraga	PERSON
+Swiss	NORP
+the SNSF Scientific Image Competition	WORK_OF_ART
+Horizons	ORG
+Valérie Chételat	PERSON
+Jürg Sigrist	PERSON
+SNSF	ORG
+239	CARDINAL
+Switzerland	GPE
+437	CARDINAL
+60	CARDINAL
+four	CARDINAL
+Object of study’	WORK_OF_ART
+Pascal Hufschmid	PERSON
+the Musée de l’Elysée	ORG
+Lausanne	GPE
+one	CARDINAL
+four	CARDINAL
+Matthias Egger	PERSON
+the National Research Council of the SNSF	ORG
+today	DATE

@@ -1,0 +1,57 @@
+Sophie Gaitzsch	PER
+Anna	PER
+Sapfo Malaspinas	PER
+Australien	LOC
+Osterinseln	LOC
+Valérie Chételat	PER
+Universität Lausanne	ORG
+Anna	PER
+Sapfo Malaspinas	PER
+Campus-Park	LOC
+Birchermüesli	LOC
+Afrika	LOC
+Polynesien	LOC
+Amerika	LOC
+Südamerika	LOC
+Rio de Janeiro	LOC
+brasilianischer	MISC
+Australiens	LOC
+Nature	LOC
+Aborigines	MISC
+eurasische	MISC
+Afrika	LOC
+Anna	PER
+Sapfo Malaspinas	PER
+Genf	LOC
+griechischen	MISC
+Kreta	LOC
+Iraklio	LOC
+Kalifornien	LOC
+University of California	ORG
+Berkeley	LOC
+Berkeley	LOC
+Los Angeles	LOC
+San Francisco	LOC
+Dänemark	LOC
+Schweiz	LOC
+Eske Willerslev	PER
+Universität Kopenhagen	ORG
+Malaspinas	PER
+Anna	PER
+Laurent Excoffier	PER
+Universität Bern	ORG
+«Anna	MISC
+australischen	MISC
+Genf	LOC
+Musée de l’Homme	LOC
+Paris	LOC
+Ludovic Payer	PER
+Westschweizer	MISC
+Dominique Ziegler	PER
+Joan Mompart	PER
+Afrika	LOC
+Australien	LOC
+Aborigines	MISC
+Sophie Gaitzsch	PER
+Schweizer	MISC
+Paris	LOC

@@ -1,0 +1,70 @@
+Alexandra Bröhm	PER
+Schweiz	LOC
+Keystone/Science Photo Library/Look at Sciences/Massimo Brega	ORG
+RCT-	MISC
+Schweizerische Nationalfonds	ORG
+SNF	ORG
+Basler	MISC
+Matthias Briel	PER
+British Medical Journal	ORG
+SNF	ORG
+Briel	PER
+Universitätsspital Basel	LOC
+RCTs	MISC
+Briel	PER
+Annette Magnin	PER
+Swiss Clinical Trial Organisation	ORG
+SCTO	ORG
+SCTO	ORG
+SNF	ORG
+Schweizerischen Akademie für Medizinische Wissenschaften	ORG
+SAMW	ORG
+Peter Meier	PER
+Abt	PER
+SAMW	ORG
+Schweiz	LOC
+Meier	PER
+Abt	PER
+gesamtschweizerische	MISC
+Schweizer	MISC
+Briel	PER
+Schweiz	LOC
+Meier	PER
+Abt	PER
+Magnin	PER
+Schweiz	LOC
+Meier	PER
+Abt	PER
+Dänemark	LOC
+Schweden	LOC
+Niederlande	LOC
+Schweiz	LOC
+angelsächsischen	MISC
+SNF	ORG
+Investigator Initiated Clinical Trials	ORG
+IICT	ORG
+Schweiz	LOC
+Ayşim Yılmaz	PER
+Biologie und Medizin	ORG
+SNF	ORG
+Yılmaz	PER
+Matthias Briel	PER
+Briel	PER
+Briel	PER
+Briel Social-Media	ORG
+SCTO	ORG
+Magnin	PER
+Clinical Trial Units	ORG
+Schweizer	MISC
+Bundesamt für Gesundheit	ORG
+Swiss Clinical Research Education Centre	ORG
+Schweiz	LOC
+Magnin	PER
+Briel	PER
+Briel	PER
+britische	MISC
+National Institute for Health Research	ORG
+NIHR	ORG
+NIHR	ORG
+Alexandra Bröhm	PER
+Tages-Anzeiger	ORG

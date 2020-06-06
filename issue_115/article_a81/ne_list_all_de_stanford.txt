@@ -1,0 +1,54 @@
+Daniel Di Falco	PER
+Naturhistorischen Museum	LOC
+Basel	LOC
+Valérie Chételat	PER
+Naturforschende Gesellschaft Basel	ORG
+Feuerländern	MISC
+Santa Inés	LOC
+Südamerikas	LOC
+Chile	LOC
+Naturhistorischen Museums Basel	LOC
+Pierre	PER
+Louis Blanchard	PER
+Zürcher Museum Rietberg	ORG
+Collecting Humanity	ORG
+Uni Luzern	ORG
+Basler	MISC
+Muséum national d’histoire naturelle	MISC
+Paris	LOC
+Santa Inés	PER
+Blanchard	PER
+Fritz	PER
+Paul Sarasin	PER
+Basler	MISC
+Sri Lanka	LOC
+Sulawesi	LOC
+Deutschland	LOC
+Namibia	LOC
+Herero	MISC
+deutschen	MISC
+Völkermords	MISC
+Pierre	PER
+Louis Blanchard	PER
+Basler Naturforschende Gesellschaft	ORG
+Feuerländer	MISC
+Blanchard	PER
+Santa Inés	PER
+Basler	MISC
+Naturforschende Gesellschaft	ORG
+Blanchard	PER
+Blanchard	PER
+Naturhistorische Museum Basel	ORG
+Blanchards	PER
+Gerhard Hotz	PER
+Blanchard	PER
+Paris	LOC
+Mamadou	PER
+Französisch	MISC
+Sudan	LOC
+Mali	LOC
+Blanchard	PER
+Mali	LOC
+Daniel Di Falco	PER
+«Bund»	ORG
+Bern	LOC

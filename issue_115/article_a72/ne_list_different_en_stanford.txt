@@ -1,0 +1,38 @@
+1 December 2017	DATE
+300 million years	DATE
+Aarmassif	LOC/NORP/ORG/PRODUCT
+Alps	LOC
+Berne	GPE
+Boston	GPE
+Earth	LOC
+Europe	LOC
+Fritz Schlunegger	PERSON
+Grimsel	LOC
+Grünbergkette	PRODUCT
+Haslital	LOC
+Herwegh	PERSON
+Marco Herwegh	PERSON
+Nagra’s Grimsel	FAC
+This Rutishauer	PERSON
+This Rutishauser	PERSON
+Today	DATE
+UNESCO World Heritage	ORG
+about 20 million years ago	DATE
+first	ORDINAL
+four thousand metres	QUANTITY
+more than 30,000	CARDINAL
+roughly ten cubic metres	QUANTITY
+some 300 million years ago	DATE
+the Bern Society for Research	ORG
+the Grimsel Massif	LOC
+the Grimsel geothermal area’	LOC
+the Massachusetts Institute of Technology	ORG
+the Natural Sciences	ORG
+the Swiss Tectonic Arena Sardona	ORG
+the University of Bern	ORG
+the University of Western Australia	ORG
+the millions of years	DATE
+the past millennia	DATE
+third	ORDINAL
+today	DATE
+twelve years	DATE

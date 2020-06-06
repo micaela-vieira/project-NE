@@ -1,0 +1,52 @@
+This Rutishauer	PERSON
+Marco Herwegh	PERSON
+the millions of years	DATE
+Aarmassif	NORP
+Grünbergkette	PRODUCT
+the Grimsel Massif	LOC
+300 million years	DATE
+Marco Herwegh	PERSON
+Fritz Schlunegger	PERSON
+roughly ten cubic metres	QUANTITY
+Nagra’s Grimsel	FAC
+Aarmassif	PRODUCT
+Today	DATE
+300 million years	DATE
+twelve years	DATE
+Haslital	LOC
+some 300 million years ago	DATE
+Earth	LOC
+about 20 million years ago	DATE
+Alps	LOC
+Aarmassif	ORG
+today	DATE
+Earth	LOC
+today	DATE
+Earth	LOC
+the Grimsel Massif	LOC
+more than 30,000	CARDINAL
+Earth	LOC
+four thousand metres	QUANTITY
+Aarmassif	LOC
+the past millennia	DATE
+today	DATE
+third	ORDINAL
+Grimsel	LOC
+Europe	LOC
+first	ORDINAL
+This Rutishauser	PERSON
+the Grimsel geothermal area’	LOC
+1 December 2017	DATE
+Berne	GPE
+Fritz Schlunegger	PERSON
+Marco Herwegh	PERSON
+the University of Bern	ORG
+the Bern Society for Research	ORG
+the Natural Sciences	ORG
+the Massachusetts Institute of Technology	ORG
+Boston	GPE
+the University of Western Australia	ORG
+Today	DATE
+Herwegh	PERSON
+the Swiss Tectonic Arena Sardona	ORG
+UNESCO World Heritage	ORG

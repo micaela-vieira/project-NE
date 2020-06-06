@@ -1,0 +1,19 @@
+Jochen Paulus	PER
+Emilie Qiao	PER
+Tasserit	PER
+Alfred Hitchcock	PER
+Hitchcock	PER
+Swann Pichon	PER
+Universität Genf	ORG
+Emilie Qiao	PER
+Tasserit	PER
+Swann Pichon	PER
+Horrorklassiker «The Shining	MISC
+Harry und Sally	MISC
+Hitchcock	PER
+Pichon	PER
+Pichon	PER
+E. Qiao	PER
+Tasserit	PER
+Transient emotional events and individual affective traits affect emotion recognition in a perceptual decision-making task	ORG
+Plos One	MISC

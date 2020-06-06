@@ -1,0 +1,21 @@
+10 percent	PERCENT
+84 day	DATE
+Aargau	GPE
+Bern	GPE
+CHUV	ORG
+ESB	ORG
+Florian Fisch	PERSON
+French	LANGUAGE
+Fribourg	GPE
+German	LANGUAGE
+Jardena Puder	PERSON
+Lausanne	GPE
+Puder	PERSON
+SPLASHY	WORK_OF_ART
+Swiss	NORP
+Switzerland	GPE
+Vaud	GPE
+Zurich	GPE
+almost 500	CARDINAL
+the Lausanne University Hospital	ORG
+three-to-five-year-olds	DATE

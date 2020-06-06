@@ -1,0 +1,18 @@
+Afrika	LOC
+BMC Medicine	ORG
+China	LOC
+Indien	LOC
+International Journal of Research on Neuroscience	ORG
+Manu Friederich	PER
+Matthias Egger	PER
+NIH	ORG
+National Institutes of Health	ORG
+Nationalen Forschungsrats und Epidemiologe	ORG
+Nature 2017	MISC
+Predatory Journal	ORG
+Predatory Journals	MISC
+SNF	ORG
+Schweiz	LOC
+USA	LOC
+Universität Bern	ORG
+thinkchecksubmit.org	MISC

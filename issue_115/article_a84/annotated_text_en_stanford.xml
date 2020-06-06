@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Annotated_document>
+  <Title>
+    <text> Meet the chips behind 5G’s polar codes
+</text>
+  </Title>
+  <Author>
+    <text> Lionel Pousaz<annotation class="PERSON"/>
+</text>
+  </Author>
+  <Abstract>
+    <text>
+</text>
+  </Abstract>
+  <Main_text>
+    <text>Ready for your new cell phone?
+A chip with two<annotation class="CARDINAL"/> circuits will be standard in 5G<annotation class="CARDINAL"/>.
+| Image: TCL<annotation class="ORG"/> EPFL
+With the widespread acceptance of mobile telephony, data has left behind the cable in favour of travelling through the air.
+But this form of data transmission is not flawless.
+Interference occurs when there is signal noise.
+To overcome this, phone companies have long been using the data redundancy principle.
+Every smartphone contains computer code that sorts and compares the multiple versions of the original signal and uses them to patch any gaps.
+In 2018<annotation class="DATE"/> we’ll see 5G networks being rolled out featuring a new generation of corrector code, known as polar codes.
+This coding has been in the pipeline for a little less than ten years<annotation class="DATE"/> now, and EPFL<annotation class="ORG"/> researchers are just putting the finishing touches to two<annotation class="CARDINAL"/> integrated circuits that will run it quickly and efficiently.
+The first<annotation class="ORDINAL"/> chipset focuses on pure processing speed, the second<annotation class="ORDINAL"/> on saving energy.
+According to Andreas Burg<annotation class="PERSON"/>, the director of EPFL’s Telecommunication Circuits Laboratory<annotation class="ORG"/> (TCL<annotation class="ORG"/>) and lead researcher, this technology is crucial, as polar codes will be able to regulate the amount of redundancy needed on the fly.
+In other words, when there’s few gaps in the data signals being received, the number of redundant signals will be reduced and the speed of transmission increased.
+Consequently, there’s also a reduction in the need for processing on the device and hence also energy.
+All of which means better battery life.
+“The protocols in our devices today<annotation class="DATE"/> have been upgraded constantly for more than twenty years<annotation class="DATE"/>, but polar codes already match the performance of their predecessors with a year<annotation class="DATE"/> still to go before going industrial”, says Burg<annotation class="PERSON"/>.
+“But then, they’ll also be upgraded for the twenty years<annotation class="DATE"/> to come before reaching their full potential”.
+P. Giard et al<annotation class="PERSON"/>.
+: PolarBear: A 28<annotation class="CARDINAL"/>-nm FD-SOI ASIC for Decoding of Polar Codes.
+IEEE Journal<annotation class="ORG"/> on Emerging and Selected Topics in Circuits and Systems<annotation class="WORK_OF_ART"/> (2017<annotation class="DATE"/>)
+</text>
+  </Main_text>
+</Annotated_document>

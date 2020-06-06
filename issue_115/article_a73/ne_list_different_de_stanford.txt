@@ -1,0 +1,40 @@
+Abt	PER
+Alexandra Bröhm	PER
+Annette Magnin	PER
+Ayşim Yılmaz	PER
+Basler	MISC
+Biologie und Medizin	ORG
+Briel	PER
+Briel Social-Media	ORG
+British Medical Journal	ORG
+Bundesamt für Gesundheit	ORG
+Clinical Trial Units	ORG
+Dänemark	LOC
+IICT	ORG
+Investigator Initiated Clinical Trials	ORG
+Keystone/Science Photo Library/Look at Sciences/Massimo Brega	ORG
+Magnin	PER
+Matthias Briel	PER
+Meier	PER
+NIHR	ORG
+National Institute for Health Research	ORG
+Niederlande	LOC
+Peter Meier	PER
+RCT-	MISC
+RCTs	MISC
+SAMW	ORG
+SCTO	ORG
+SNF	ORG
+Schweden	LOC
+Schweiz	LOC
+Schweizer	MISC
+Schweizerische Nationalfonds	ORG
+Schweizerischen Akademie für Medizinische Wissenschaften	ORG
+Swiss Clinical Research Education Centre	ORG
+Swiss Clinical Trial Organisation	ORG
+Tages-Anzeiger	ORG
+Universitätsspital Basel	LOC
+Yılmaz	PER
+angelsächsischen	MISC
+britische	MISC
+gesamtschweizerische	MISC

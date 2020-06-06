@@ -1,0 +1,49 @@
+Title: Musées	LOC
+Daniel Di Falco	PER
+Pierre-Louis Blanchard	PER
+L’exhumation	LOC
+Schädel	PER
+Musée d’histoire naturelle de Bâle	LOC
+Valérie Chételat	PER
+Terre de Feu	LOC
+Alakulufs	PER
+île de Santa Inés	LOC
+Amérique du Sud	LOC
+Chili	LOC
+Le voyageur	MISC
+Musée d’histoire naturelle de Bâle	LOC
+Pierre-Louis Blanchard	PER
+Musée Rietberg	LOC
+Zurich	LOC
+Collecting Humanity	MISC
+Université de Lucerne	LOC
+Muséum national d’histoire naturelle	LOC
+Paris	LOC
+Santa Inés	PER
+Fritz	PER
+Paul Sarasin	PER
+Sri Lanka	LOC
+Sulawesi	LOC
+L’élément	LOC
+Les	LOC
+Allemagne	LOC
+Namibie	LOC
+Hereros	MISC
+Pierre-Louis Blanchard	PER
+Terre de Feu	LOC
+Bâlois	LOC
+Santa Inés	LOC
+Pierre-Louis Blanchard	PER
+«Maints	MISC
+Musée d’histoire naturelle de Bâle	LOC
+Gerhard Hotz	PER
+Paris	LOC
+Pierre-Louis Blanchard	PER
+Muséum national d’histoire naturelle	LOC
+Mamadou Lamine Dramé	PER
+Soudan français	LOC
+Mali	LOC
+Mali	LOC
+Daniel Di Falco	PER
+Bund	ORG
+Berne	LOC

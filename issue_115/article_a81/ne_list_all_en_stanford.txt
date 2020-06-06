@@ -1,0 +1,76 @@
+Daniel Di Falco	PERSON
+the Basel Natural History Museum	ORG
+100 years ago	DATE
+Today	DATE
+Valérie Chételat	PERSON
+the Basel Society for the Natural Sciences	ORG
+the year 1914	DATE
+that year	DATE
+Two	CARDINAL
+one	CARDINAL
+Alacalufe	NORP
+Tierra del Fuego	LOC
+Santa Inéz	GPE
+South America	LOC
+today	DATE
+Chile	GPE
+Basel	GPE
+today	DATE
+the Basel Natural History Museum	ORG
+Pierre-Louis Blanchard	PERSON
+Blanchard	PERSON
+the Rietberg Museum	ORG
+Zurich	GPE
+Collecting humanity’	WORK_OF_ART
+the Department of Cultural and Science Studies	ORG
+the University of Lucerne	ORG
+Basel	GPE
+the French National Museum of Natural History	ORG
+Paris	GPE
+100 years later	DATE
+Blanchard	PERSON
+1905 to 1918	DATE
+Santa Inéz	PERSON
+Fritz	PERSON
+Paul Sarasin	PERSON
+Basel	GPE
+Sri Lanka	GPE
+Sulawesi	GPE
+A hundred years later	DATE
+2011	DATE
+Germany	GPE
+Namibia	GPE
+German	NORP
+Herero	NORP
+German	NORP
+Pierre-Louis Blanchard	PERSON
+The Basel Society for the Natural Sciences	ORG
+two	CARDINAL
+Fueguians	ORG
+annual	DATE
+Blanchard	PERSON
+Santa Inéz	PERSON
+the Basel Society	ORG
+Society	ORG
+two	CARDINAL
+Blanchard	PERSON
+today	DATE
+Blanchard	PERSON
+first	ORDINAL
+The Natural History Museum	ORG
+Basel	GPE
+Blanchard	PERSON
+Gerhard Hotz	PERSON
+Paris	GPE
+Blanchard	PERSON
+1909	DATE
+the French National Museum of Natural History	ORG
+Paris	GPE
+Mahmadou-Lamine	NORP
+French	NORP
+Sudan	GPE
+Blanchard	PERSON
+Mali	GPE
+Daniel Di Falco	PERSON
+Bund	ORG
+Bern	GPE

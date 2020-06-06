@@ -1,0 +1,11 @@
+Sylvia Wagner	PERSON
+Zebrafish	GPE
+Sandro Sieber	PERSON
+Dominik Witzigmann	PERSON
+first	ORDINAL
+Dominik Witzigmann	PERSON
+Sandro Sieber	PERSON
+the University of Basel	ORG
+two	CARDINAL
+today	DATE
+Witzigmann	PERSON

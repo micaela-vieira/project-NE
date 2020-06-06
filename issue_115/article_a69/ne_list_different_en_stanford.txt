@@ -1,0 +1,23 @@
+Africa	LOC
+China	GPE
+India	GPE
+Manu Friederich	PERSON
+Matthias Egger	PERSON
+NIH	ORG
+Nature	ORG
+One	CARDINAL
+SNSF	ORG
+Switzerland	GPE
+Today	DATE
+USA	GPE
+Western	NORP
+almost 2,000	CARDINAL
+more than 400,000	CARDINAL
+over 200	CARDINAL
+quarter	CARDINAL
+some 8,000	CARDINAL
+the International Journal of Research on Neuroscience	ORG
+the National Institutes of Health	ORG
+the National Research Council	ORG
+the University of Bern	ORG
+today	DATE

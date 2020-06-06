@@ -1,0 +1,11 @@
+AILA	ORG
+Association internationale de linguistique appliquée	ORG
+Conradin Frei	PER
+Daniel Perrin	PER
+Daniel Saraga	PER
+Le monde	ORG
+Les	LOC
+Suisse	LOC
+Suisses	LOC
+Unesco	ORG
+ZHAW	PER

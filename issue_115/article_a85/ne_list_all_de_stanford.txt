@@ -1,0 +1,14 @@
+Brian McGowan	PER
+Valérie Chételat	PER
+Schweizer	MISC
+Peter Bieri	PER
+ETH Zürich	ORG
+Brian McGowan	PER
+Sensability	PER
+Zürcher Hochschule für Angewandte Wissenschaften	ORG
+Valérie Chételat	PER
+Schweiz	LOC
+Robert Riener	PER
+Departement für Gesundheitswissenschaften und Technologie	ORG
+ETH Zürich	ORG
+Universität Zürich	ORG

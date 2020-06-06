@@ -1,0 +1,8 @@
+Dominik Witzigmann	PER
+Journal of Controlled Release	ORG
+S. Sieber	PER
+Sandro Sieber	PER
+Sylvia Wagner	PER
+Universität Basel	ORG
+Witzigmann	PER
+Zebrafish as an early stage screening tool to study the systemic circulation of nanoparticulate drug delivery systems in vivo	ORG

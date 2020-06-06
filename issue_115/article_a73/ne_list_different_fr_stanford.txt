@@ -1,0 +1,36 @@
+ASSM	ORG
+Académie suisse des sciences médicales	ORG
+Alexandra Bröhm	PER
+Amstutz	PER
+Annette Magnin	PER
+Ayşim Yılmaz	PER
+BMJ Open	MISC
+Biologie et médecine du Secrétariat du FNS	ORG
+British Medical Journal	ORG
+Centre	LOC
+Cette	LOC
+Danemark	LOC
+Discontinuation	MISC
+FNS	ORG
+Fonds national suisse	ORG
+Hôpital universitaire de Bâle	LOC
+IICT	MISC
+Investigator Initiated Clinical Trials	MISC
+Keystone	ORG
+Les	LOC
+Look at Sciences	ORG
+Massimo Brega	PER
+Matthias Briel	PER
+National Institute for Health Research	ORG
+Office fédéral de la santé	ORG
+Pays-Bas	LOC
+Peter Meier-Abt	PER
+Royaume-Uni	LOC
+SCTO	ORG
+Science Photo Library	ORG
+SonntagsZeitung	ORG
+Suisse	LOC
+Suède	LOC
+Swiss Clinical Trial Organisation	ORG
+Switzerland	LOC
+Tages-Anzeiger	LOC

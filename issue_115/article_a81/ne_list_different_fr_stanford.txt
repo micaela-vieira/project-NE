@@ -1,0 +1,37 @@
+Alakulufs	PER
+Allemagne	LOC
+Amérique du Sud	LOC
+Berne	LOC
+Bund	ORG
+Bâlois	LOC
+Chili	LOC
+Collecting Humanity	MISC
+Daniel Di Falco	PER
+Fritz	PER
+Gerhard Hotz	PER
+Hereros	MISC
+Le voyageur	MISC
+Les	LOC
+L’exhumation	LOC
+L’élément	LOC
+Mali	LOC
+Mamadou Lamine Dramé	PER
+Musée Rietberg	LOC
+Musée d’histoire naturelle de Bâle	LOC
+Muséum national d’histoire naturelle	LOC
+Namibie	LOC
+Paris	LOC
+Paul Sarasin	PER
+Pierre-Louis Blanchard	PER
+Santa Inés	LOC/PER
+Schädel	PER
+Soudan français	LOC
+Sri Lanka	LOC
+Sulawesi	LOC
+Terre de Feu	LOC
+Title: Musées	LOC
+Université de Lucerne	LOC
+Valérie Chételat	PER
+Zurich	LOC
+«Maints	MISC
+île de Santa Inés	LOC

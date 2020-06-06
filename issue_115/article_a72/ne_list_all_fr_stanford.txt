@@ -1,0 +1,39 @@
+Alpes	LOC
+Author: This Rutishauer	MISC
+Marco Herwegh	PER
+Aar	LOC
+Ces	LOC
+chaîne du Grünberg	LOC
+massif du Grimsel	LOC
+Photos et graphique	MISC
+Marco Herwegh Portrait	PER
+Fritz Schlunegger	PER
+Nagra	ORG
+Société coopérative nationale pour le stockage des déchets radioactifs	ORG
+Grimsel	LOC
+Hasli	LOC
+Les	LOC
+Alpes	LOC
+Aar	LOC
+Les	LOC
+massif du Grimsel	LOC
+Ces	LOC
+Aar	LOC
+Les	LOC
+Les	LOC
+Europe	LOC
+Grimsel	LOC
+Fritz Schlunegger	PER
+Marco Herwegh	PER
+Université de Berne	ORG
+Marco Herwegh	PER
+Société bernoise des sciences naturelles	ORG
+MIT	ORG
+Boston	LOC
+Université d’Australie-Occidentale	ORG
+Perth	LOC
+«Haut lieu tectonique suisse Sardona	LOC
+Unesco	ORG
+This Rutishauser	PER
+«Neues vom Geothermiefeld Grimsel	LOC
+Berne	LOC

@@ -1,0 +1,17 @@
+Aerogele	MISC/PER
+Berlin	LOC
+Dübendorf	LOC
+ETH Zürich	ORG
+Empa	ORG
+Gustav Nyström	PER
+Koebel	PER
+Koebels	PER
+Matthias Koebel	PER
+Mezzenga	PER
+Nexaero	MISC
+Nyström	PER
+Nyström/Mezzenga	PER
+Nyströms	PER
+Raffaele Mezzenga	PER
+Schweizer	MISC
+Sven Titz	PER

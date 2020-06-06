@@ -1,0 +1,15 @@
+Astrid Tomczak Plewka	PERSON
+Valérie Chételat	PERSON
+the University of Basel	ORG
+eight percent	PERCENT
+Laura Helbling	PERSON
+14 percent	PERCENT
+Helbling	PERSON
+one	CARDINAL
+Helbling	PERSON
+1,500	CARDINAL
+26	DATE
+Transitions from Education to Employment’	WORK_OF_ART
+the year 2000	DATE
+the Programme for International Student Assessment	ORG
+PISA	ORG

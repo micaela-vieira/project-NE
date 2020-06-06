@@ -1,0 +1,8 @@
+Dominik Witzigmann	PER
+Journal of Controlled Release	MISC
+Les	LOC
+Sandro Sieber	PER
+Sieber	PER
+Sylvia Wagner	PER
+Université de Bâle	ORG
+Zebrafish	MISC

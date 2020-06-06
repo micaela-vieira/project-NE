@@ -1,0 +1,19 @@
+2016	DATE
+Brian McGowan	PERSON
+Cybathlon	PRODUCT
+ETH Zurich	ORG
+Peter Bieri	PERSON
+Robert Riener	PERSON
+Sensability	ORG
+Sensory-Motor Systems Lab	ORG
+Swiss	NORP
+Switzerland	GPE
+The ETH Cybathlon	ORG
+Today	DATE
+Valérie Chételat	PERSON
+Zurich	GPE
+the 1980s	DATE
+the Department of Health Sciences and Technology	ORG
+the University of Zurich	ORG
+the Zurich University of Applied Sciences	ORG
+today	DATE

@@ -1,0 +1,27 @@
+Title: Débat	MISC
+Brian McGowan	PER
+Prothèses	MISC
+Les	LOC
+Valérie Chételat	PER
+Cette	LOC
+Si	MISC
+Peter Bieri	PER
+Cybathlon	MISC
+ETH Zurich	ORG
+Les	LOC
+Brian McGowan	PER
+Haute école des sciences appliquées de Zurich	LOC
+ZHAW	LOC
+Valérie Chételat	PER
+Les	LOC
+Ces	LOC
+Les	LOC
+Par	LOC
+Suisse	LOC
+Les	LOC
+Etat	LOC
+Les	LOC
+Robert Riener	PER
+Département des sciences et technologies de la santé de l’ETH Zurich	ORG
+Laboratoire des systèmes sensorimoteurs de l’ETH Zurich	ORG
+Université de Zurich	LOC

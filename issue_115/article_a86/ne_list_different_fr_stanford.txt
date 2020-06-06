@@ -1,0 +1,15 @@
+Argovie	LOC
+Berne	LOC
+CHUV	LOC
+ESB Professional	ORG
+Florian Fisch	PER
+Fribourg	LOC
+IMC	MISC
+Jardena Puder	PER
+Lausanne	LOC
+Le tour de taille	MISC
+Les	LOC
+Splashy	MISC
+Trop gras	MISC
+Vaud	LOC
+Zurich	LOC

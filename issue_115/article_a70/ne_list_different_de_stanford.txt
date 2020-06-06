@@ -1,0 +1,10 @@
+A. G. Guex	PER
+Acta Biomaterialia	MISC
+Alexandra Uster	PER
+Anne Géraldine Guex	PER
+Guex	PER
+Géraldine Guex	PER
+Highly porous scaffolds of PEDOT:PSS for bone tissue engineering	ORG
+Imperial College	LOC
+London	LOC
+PEDOT:PSS	MISC

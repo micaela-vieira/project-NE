@@ -1,0 +1,14 @@
+Alfred Hitchcock	PER
+Emilie Qiao-Tasserit	PER
+Jochen Paulus	PER
+Les	LOC
+L’étude	MISC
+Plos One	MISC
+Pôle de recherche national en sciences affectives	ORG
+Qiao-Tasserit	PER
+Quand Harry rencontre Sally	MISC
+Swann Pichon	PER
+The Shining	MISC
+Transient	MISC
+Université de Genève	ORG
+la Tristesse	MISC

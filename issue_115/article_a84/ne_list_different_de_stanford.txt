@@ -1,0 +1,9 @@
+A 28-nm FD-SOI ASIC for Decoding of Polar Codes	ORG
+Andreas Burg	PER
+Burg	PER
+EPFL	ORG
+IEEE Journal on Emerging and Selected Topics in Circuits and Systems	ORG
+Lausanner Schaltkreis	ORG
+Lionel Pousaz	PER
+P. Giard	PER
+PolarBear	ORG

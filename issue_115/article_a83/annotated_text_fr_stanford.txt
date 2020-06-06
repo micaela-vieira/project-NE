@@ -1,0 +1,4 @@
+Title: Un turbo pour l’évolution
+Author: Roland Fischer<annotation class="PER">
+Abstract: Une<annotation class="LOC"> start-up bâloise tire parti de l’épigénétique pour accélérer les mutations des plantes et ainsi leur sélection.
+

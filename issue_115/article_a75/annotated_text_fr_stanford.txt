@@ -1,0 +1,20 @@
+Title: Voyager dans le temps<annotation class="MISC"> à travers un trou noir
+Author: Pierre Bratschi<annotation class="PER">
+Abstract:
+
+Il suffit de passer dans ce trou de ver pour se téléporter dans un autre endroit de l’Univers<annotation class="LOC">.
+| Image: Stockernumber2/Dreamstime<annotation class="MISC">
+Téléportation et voyage dans le futur sont envisageables à travers un trou de ver, un trou noir à deux pôles reliant deux régions distinctes de l’Univers<annotation class="LOC">.
+Telle est la conclusion d’un modèle développé par Kyriakos Papadodimas<annotation class="PER"> du CERN<annotation class="LOC"> et Rik van Breukelen<annotation class="PER"> de l’Université de Genève<annotation class="ORG">.
+Il serait possible de se déplacer instantanément ou de migrer vers le futur lors de la traversée du trou de ver, le tout sans éprouver la contraction du temps qui se manifeste dans la théorie de la relativité d’Einstein<annotation class="PER">.
+Mais «il s’agit d’une étude purement théorique qui ne concerne qu’une particule élémentaire telle qu’un photon», tempère Rik van Breukelen<annotation class="PER">.
+Les<annotation class="LOC"> physiciens ont développé une nouvelle catégorie de trous de ver et pu décrire théoriquement comment l’information véhiculée par une particule (par exemple sa charge) rejoint immédiatement un l’autre point de l’espace-temps.
+«Un trou de ver reste pour le moment un objet théorique, souligne Rik van Breukelen<annotation class="PER">.
+Mais en principe, il serait concevable de créer un trou noir artificiel, notamment avec un accélérateur de particules d’un milliard de kilomètres de long, soit la distance parcourue par la Terre<annotation class="LOC"> autour du Soleil<annotation class="LOC"> en une année.
+Théoriquement possible, mais pas avant quelques millénaires …»
+Pour aborder le phénomène, l’étude a utilisé deux approches: d’un côté, l’espace anti de Sitter<annotation class="MISC"> (AdS<annotation class="MISC">), basé sur une théorie quantique de la gravitation, et, de l’autre, la théorie conforme des champs (CFT), qui modélise les particules élémentaires comme étant des excitations de champs de force fondamentaux.
+Leur travail reste encore abstrait: les ordinateurs ne sont de loin pas assez puissants pour simuler en détail le comportement de particules traversant un trou de ver.
+«Cela nécessiterait des ordinateurs quantiques, qui pourraient apparaître d’ici une quinzaine d’années, poursuit Rik van Breukelen<annotation class="PER">.
+Certes, cela restera de la simulation, mais c’est quand même plus rapide que d’attendre deux mille ans!»
+R. van Breukelen and K. Papadodimas<annotation class="ORG">: Quantum teleportation through time-shifted AdS wormholes.
+Arxiv<annotation class="MISC"> (2017)

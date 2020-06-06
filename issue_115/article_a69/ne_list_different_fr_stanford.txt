@@ -1,0 +1,18 @@
+Afrique	LOC
+Aidez	MISC
+BMC Medicine	MISC
+Chine	LOC
+Conseil national de la recherche et épidémiologiste	ORG
+Etats-Unis	LOC
+FNS	ORG
+Inde	LOC
+International Journal of Research on Neuroscience	ORG
+Internet	MISC
+Manu Friederich	PER
+Matthias Egger	PER
+National Institutes of Health	ORG
+Nature	MISC
+Nature 2017	MISC
+Suisse	LOC
+Title: Think first	MISC
+Université de Berne	LOC

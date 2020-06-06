@@ -1,0 +1,22 @@
+Title: Horror films make faces look afraid
+Author: Jochen Paulus<annotation class="PERSON">
+Abstract: Horror films and comedies influence the faces we see.
+
+Joy<annotation class="PERSON"> or fear?
+| Image: Emilie Qiao-Tasserit<annotation class="PERSON">
+Alfred Hitchcock<annotation class="PERSON"> once carried out a little experiment.
+First<annotation class="ORDINAL"> he showed a mother with her child in a meadow, then his own face with a neutral expression.
+The audience saw Hitchcock<annotation class="PERSON"> as a well-meaning old man.
+Secondly<annotation class="ORDINAL">, he showed a dead child in its coffin, then the same photo of himself.
+This time, the audience saw sadness in his face, explains cognitive scientist Swann Pichon<annotation class="PERSON"> from the University of Geneva<annotation class="ORG">.
+Emilie Qiao-Tasserit<annotation class="PERSON">, Pichon<annotation class="PERSON"> and their colleagues have been investigating how filmic images alter our perception.
+First<annotation class="ORDINAL"> they showed their test subjects minute-long film excerpts from three<annotation class="CARDINAL"> genres: the horror classic The Shining, the comedy When Harry met Sally<annotation class="WORK_OF_ART">, and a neutral documentary film about the mysteries of space.
+Then they showed them photos of people with largely ambiguous facial expressions.
+To this end, they morphed and varied two<annotation class="CARDINAL"> photos of the same person, one with a fearful expression and the other happy.
+Sometimes they made the face happier, at other times more fearful.
+Their test subjects had to decide with each photo whether it showed a person who was happy or afraid.
+Hitchcock<annotation class="PERSON"> was right: the same photo looks happier to the audience when they’ve first<annotation class="ORDINAL"> seen a clip from a comedy.
+After seeing the horror clip, the same photo came across as more fearful.
+The study also showed that the impact can last at least one-and-a-half minutes<annotation class="TIME">.
+Now Pichon<annotation class="PERSON"> is investigating how computer games influence the feelings and social behaviour of their players.
+“Computer games often have a bad reputation – but our research shows that they can also have a positive impact”, says Pichon<annotation class="PERSON">.

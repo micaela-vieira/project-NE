@@ -1,0 +1,23 @@
+Title: Bergwiese profitiert von Trockenheit
+Author: Florence Rosier<annotation class="PER">
+Abstract: Trockenheit kann das Pflanzenwachstum fördern.
+
+Wenn die Mikroorganismen im Boden leiden, erhalten die Pflanzen mehr Nährstoffe.
+| Bild: Jean<annotation class="PER">-Christophe Clément<annotation class="PER">
+Trockenheit kann das Pflanzenwachstum fördern – zumindest kurzfristig.
+Zu diesem unerwarteten Ergebnis gelangte eine Studie, die an der Universität Grenoble<annotation class="ORG"> mit Unterstützung des Schweizerischen Nationalfonds<annotation class="ORG"> (SNF<annotation class="ORG">) durchgeführt wurde.
+Das Forschungsteam hatte zuvor die Auswirkungen von Trockenstress auf Bergwiesen untersucht.
+Nach einem Jahr Ruhe säten die Forschenden Englisches<annotation class="MISC"> Raygras (Lolium perenne<annotation class="MISC">) aus, eine Futterpflanze, die oft für die Heuproduktion verwendet wird.
+Ergebnis: Das Gras wuchs nach einer Trockenperiode besser, und die Biomasse war stickstoffreicher.
+«Durch die Trockenheit wurden die im Boden lebenden mikrobiellen Gemeinschaften geschwächt, weil sie den Stickstoff aus dem Boden weniger gut aufnehmen konnten», erklärt Nicolas Legay<annotation class="PER">, der Erstautor der Studie.
+Pflanzen benötigen für ihr Wachstum ebenfalls Stickstoff.
+«Da die Mikroorganismen im Boden weniger konkurrenzfähig sind, kann die Pflanze mehr Nährstoffe aufnehmen und besser wachsen.» Nach einer zweiten Trockenperiode fiel der Heuertrag abermals höher aus.
+«Das ist allerdings nur ein kurzfristiger Effekt», relativiert der Forscher.
+Denn die Mikroorganismen gerieten durch die Trockenperioden stark aus dem Gleichgewicht.
+Unter normalen Bedingungen gewährleisten sie die Rezyklierung der Nährstoffe im Boden.
+«Längerfristig könnte sich die Bodenqualität durch die beeinträchtigten Mikroorganismen daher verschlechtern, was sich negativ auf die Qualität und die Quantität des produzierten Futters auswirken würde.»
+Diese Arbeiten sind Teil eines europäischen<annotation class="MISC"> Projekts zum Vergleich von Bewirtschaftungsformen.
+Gemäss Legay<annotation class="PER"> dürfte es schwierig werden, die traditionellen Methoden ohne Nährstoffzufuhr beizubehalten, wenn die Häufigkeit klimatischer Extremereignisse zunimmt.
+N. Legay<annotation class="PER"> et al.
+: Soil legacy effects of climatic stress, management and plant functional composition on microbial communities influence the response of Lolium perenne to a new drought event<annotation class="ORG">.
+Plant and Soil<annotation class="ORG"> (2017)

@@ -1,0 +1,48 @@
+Title: “Learning to read the mountains”
+Author: This Rutishauer<annotation class="PERSON">
+Abstract: The geologist Marco Herwegh<annotation class="PERSON"> is using new methods and computer models to investigate the millions of years<annotation class="DATE"> of history of the Aarmassif<annotation class="NORP">.
+By examining the mountains from the inside, he has gained new insights into both natural hazards and new sources of energy.
+
+Steep valley walls and worn-down rock faces: the craggy, furrowed Grünbergkette<annotation class="PRODUCT"> in the Grimsel Massif<annotation class="LOC"> is the result of 300 million years<annotation class="DATE"> of history.
+| Photos: Marco Herwegh<annotation class="PERSON">.
+Portrait: Fritz Schlunegger<annotation class="PERSON">
+“We were able to travel for miles into the mountain through access tunnels, and saw small cracks and crevices in the tunnel walls from which water was dripping.
+We had a relatively clear task before us: we had to map the structure of an alcove roughly ten cubic metres<annotation class="QUANTITY"> in size at Nagra’s Grimsel<annotation class="FAC"> rock laboratory.
+On our journey there, we only had a vague idea of what exactly awaited us.
+I had no way of knowing that a small alcove deep inside the Aarmassif<annotation class="PRODUCT"> would lead me to new explanations for the origins of the whole massif.
+Today<annotation class="DATE">, we can link our knowledge acquired in the depths of the mountain with that of the natural hazards that occur close to the surface, and even with new findings about geothermal energy.
+A ‘rubbish heap’ 300 million years<annotation class="DATE"> in the making
+“I needed twelve years<annotation class="DATE"> of intensive collaborative work with my team in order to be able more or less to ‘read’ the mountains in the upper Haslital<annotation class="LOC">.
+These seemingly compact, giant rock formations were formed some 300 million years ago<annotation class="DATE"> in the middle of the Earth<annotation class="LOC">’s crust.
+It was only about 20 million years ago<annotation class="DATE"> that the Alps<annotation class="LOC"> began to form, and the Aarmassif<annotation class="ORG"> rose up because of increasing pressure and heat.
+The structures of today<annotation class="DATE">’s massif were preconditioned tectonically back then, deep in the Earth<annotation class="LOC">, and were permeated with a dense network of malleable fault zones.
+Much of what we see today<annotation class="DATE"> in the craggy rock faces was formed far below ground.
+But the behaviour of this malleability changed during its journey to the cool surface of the Earth<annotation class="LOC">.
+Granite that had formerly been hot and soft now became hard, and the puzzles it poses become more complicated.
+What remains is really only a giant ‘rubbish heap’ of blocks and plates.
+Links with natural hazards
+“All these factors have their biggest impact where the mountain is at its weakest: at fracture points and in crevasses.
+That is why we have been hunting for them with different methods.
+In the Grimsel Massif<annotation class="LOC">, we have found more than 30,000<annotation class="CARDINAL"> lineaments.
+These fissures can be seen on the surface, but their sheer number means you can barely comprehend them.
+So we have looked for their traces on aerial photos, checked them on the spot, and calculated high-resolution models of them using computers.
+These don’t just show the surface, but predict fractures that penetrate into the interior of the Earth<annotation class="LOC">.
+This information enables us to understand now why the mountains are up to four thousand metres<annotation class="QUANTITY"> high on the northern edge of the Aarmassif<annotation class="LOC">.
+Glaciers and water have played their part over the past millennia<annotation class="DATE">, ensuring that these mountain bastions rise up even more ruggedly into the skies today<annotation class="DATE">.
+The melting away of the glaciers has exposed the rough rock of the extremely steep valley flanks.
+At the same time, water and large temperature differences wore down the rock even more.
+These are ideal conditions for gravity to play its part, and can accelerate the onset of rock falls and landslides.
+A third<annotation class="ORDINAL"> natural hazard is mudslides, which thunder into the valley after strong rainfalls, and are also caused by the disappearance of the permafrost.
+“It’s very important to me that our research is able to provide a precise basis for the work of geological engineers.
+This helps them to better protect the population and the infrastructure in the mountains.
+It is fascinating how our fundamental research can find concrete applications.
+Modelling the crevices and the fissures also allows us to carry out far more precise calculations on subterranean water flows.
+It’s not by chance that the fissured region of the Grimsel<annotation class="LOC"> is where we find Europe<annotation class="LOC">’s highest-lying hot spring.
+Now we have to set about how to use this energy in the future.
+But for this, we first<annotation class="ORDINAL"> had to learn to read this mountain properly”.
+Recorded by This Rutishauser<annotation class="PERSON">
+‘News from the Grimsel geothermal area’<annotation class="LOC">, 1 December 2017<annotation class="DATE">, Berne<annotation class="GPE">
+Portrait: Fritz Schlunegger<annotation class="PERSON">
+Marco Herwegh<annotation class="PERSON"> is a professor of structural geology at the University of Bern<annotation class="ORG">.
+He is the President of the Bern Society for Research<annotation class="ORG"> into the Natural Sciences<annotation class="ORG"> and has conducted research at the Massachusetts Institute of Technology<annotation class="ORG"> in Boston<annotation class="GPE"> and at the University of Western Australia<annotation class="ORG">.
+Today<annotation class="DATE">, Herwegh<annotation class="PERSON"> also works with his group at the Swiss Tectonic Arena Sardona<annotation class="ORG">, a UNESCO World Heritage<annotation class="ORG"> site.

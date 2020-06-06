@@ -1,0 +1,53 @@
+17	DATE
+2015	DATE
+35 years old	DATE
+Africa	LOC
+Americas	LOC
+Anna-Sapfo Malaspinas	PERSON
+Australia	GPE
+Berkeley	ORG
+Brazil	GPE
+California	GPE
+Copenhagen	GPE
+Crete	GPE
+Denmark	GPE
+Dominique Ziegler	PERSON
+Easter Island	LOC
+English	LANGUAGE
+Eske Willerslev	PERSON
+Eurasian	NORP
+French	LANGUAGE
+Geneva	GPE
+Greek	NORP
+Joan Mompart	PERSON
+Laurent Excoffier	PERSON
+Los Angeles	GPE
+Ludovic Payer	PERSON
+MEG	ORG
+Malaspinas	PERSON
+Nature	WORK_OF_ART
+Paris	GPE
+Ph.D.	WORK_OF_ART
+Polynesia	LOC
+Polynesian	NORP
+Rio de Janeiro	GPE
+San Francisco	GPE
+Sophie Gaitzsch	PERSON
+South America	LOC
+Swiss	NORP
+Switzerland	GPE
+University of Berkeley	ORG
+Valérie Chételat	PERSON
+last year	DATE
+months	DATE
+one	CARDINAL
+some 72,000 years ago	DATE
+some several centuries before	DATE
+the Ethnographic Museum of Geneva	ORG
+the Musée de L’homme	FAC
+the National Museum	ORG
+the University of Bern	ORG
+the University of Heraklion	ORG
+the University of Lausanne	ORG
+three	CARDINAL
+three months	DATE

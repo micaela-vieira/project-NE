@@ -1,0 +1,14 @@
+Daniel Saraga	PER
+Die Frauen und Männer der Wissenschaft	MISC
+EAWAG	ORG
+Fotografie-Haus Musée de l'Elysée	ORG
+Jürg Sigrist	PER
+Lausanne	LOC
+Matthias Egger	PER
+Nationalen Forschungsrates	ORG
+Pascal Hufschmid	PER
+SNF	ORG
+SNF-	MISC
+Schweizer	MISC
+Valérie Chételat	PER
+www.snf.ch/bilder-wettbewerb	MISC

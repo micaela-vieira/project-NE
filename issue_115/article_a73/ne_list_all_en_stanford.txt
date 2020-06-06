@@ -1,0 +1,76 @@
+Alexandra Bröhm	PERSON
+Switzerland	GPE
+Keystone	ORG
+Massimo	PERSON
+RCT	WORK_OF_ART
+one	CARDINAL
+four	CARDINAL
+the Swiss National Science Foundation SNSF	ORG
+between 1986 and 2015	DATE
+Basel	GPE
+Matthias Briel	PERSON
+the British Medical Journal	ORG
+SNSF	ORG
+Briel	PERSON
+the Basel University Hospital	ORG
+Briel	PERSON
+Annette Magnin	PERSON
+the Swiss Clinical Trial Organisation	ORG
+SCTO	ORG
+some 50 percent	PERCENT
+SCTO	ORG
+SNSF	ORG
+the Swiss Academy of Medical Sciences	ORG
+SAMS	ORG
+Peter Meier-Abt	PERSON
+SAMS	ORG
+Switzerland	GPE
+Meier-Abt	PERSON
+Switzerland	GPE
+Briel	PERSON
+Swiss	NORP
+one	CARDINAL
+Switzerland	GPE
+Meier-Abt	PERSON
+Magnin	PERSON
+Meier-Abt	PERSON
+Denmark	GPE
+Sweden	GPE
+Netherlands	GPE
+Switzerland	GPE
+Anglo-Saxon	NORP
+first	ORDINAL
+Two years ago	DATE
+SNSF	ORG
+Investigator Initiated Clinical Trials	PRODUCT
+Switzerland	GPE
+CHF 10 million	MONEY
+2017	DATE
+three to four years	DATE
+Ayşim Yılmaz	PERSON
+the Biology and Medicine Division	ORG
+SNSF	ORG
+Yilmaz	PERSON
+Matthias Briel	PERSON
+Briel	PERSON
+Briel	PERSON
+Briel	ORG
+Briel	PERSON
+Magnin	PERSON
+Clinical Trial Units	ORG
+today	DATE
+six	CARDINAL
+Swiss	NORP
+Last year	DATE
+the Federal Office of Public Health	ORG
+One	CARDINAL
+a Swiss Clinical Research Education Centre	ORG
+Switzerland	GPE
+Magnin	PERSON
+Briel	PERSON
+Briel	PERSON
+The National Institute for Health Research (NIHR)	ORG
+Britain	GPE
+Alexandra Bröhm	PERSON
+the Tages-Anzeiger	FAC
+Sonntagszeitung	FAC

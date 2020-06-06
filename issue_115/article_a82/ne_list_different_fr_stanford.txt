@@ -1,0 +1,12 @@
+Conseil européen de la recherche	ORG
+Daniel Saraga	PER
+ERC	ORG
+Ecart	PER
+Indonésie	LOC
+Leiden	LOC
+Les	LOC
+OCDE	ORG
+Open Science Framework	MISC
+Son	LOC
+Suisse	LOC
+Universités	ORG

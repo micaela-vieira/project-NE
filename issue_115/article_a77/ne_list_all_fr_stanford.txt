@@ -1,0 +1,19 @@
+Jochen Paulus	PER
+Emilie Qiao-Tasserit	PER
+Université de Genève	ORG
+Alfred Hitchcock	PER
+Swann Pichon	PER
+Pôle de recherche national en sciences affectives	ORG
+Les	LOC
+la Tristesse	MISC
+The Shining	MISC
+Quand Harry rencontre Sally	MISC
+Swann Pichon	PER
+Les	LOC
+Les	LOC
+L’étude	MISC
+Swann Pichon	PER
+Swann Pichon	PER
+Qiao-Tasserit	PER
+Transient	MISC
+Plos One	MISC

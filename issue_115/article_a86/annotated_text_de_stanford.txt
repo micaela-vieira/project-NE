@@ -1,0 +1,21 @@
+Title: Der Fettbauch beginnt im Kindesalter
+Author: Florian Fisch<annotation class="PER">
+Abstract: Ein hoher BMI ist bei normalgewichtigen Kindern ein Zeichen für Mukis<annotation class="PER">
+
+Ein dicker Bauch vermindert die Beweglichkeit und die Popularität von Kindern.
+Der Body-Mass-Index<annotation class="ORG"> (BMI<annotation class="ORG">) ist ein einfaches Mass für Übergewicht.
+Dieser ist aber nicht immer ein zuverlässiger Indikator für die Fitness, wie eine Untersuchung bei fast 500 Schweizer<annotation class="MISC"> Kindern im Vorschulalter ergeben hat.
+Im Gegenteil: Je grösser der BMI<annotation class="ORG">, desto geschickter lösen die Mädchen und Buben grobmotorische Aufgaben wie rennen.
+Bei den Drei- bis Fünfjährigen vorwiegend normalgewichtigen Kindern steht der BMI<annotation class="ORG"> also eher für Muskelmasse.
+Der Bauchumfang und die Dicke von Hautfalten hingegen sind ein direkteres Mass für Körperfett.
+Die Kinder mit mehr Fett hatten eine schlechtere Grobmotorik.
+«Andere Studien haben gezeigt, dass die jungen Kinder diese Einschränkungen bemerken: Sie werden seltener in eine Gruppe gewählt und haben weniger Freude an der Bewegung», erklärt die Studienleiterin Jardena Puder<annotation class="PER"> vom Universitätsspital Lausanne<annotation class="ORG">.
+Weniger Bewegung, das bestätigen andere Studien, führt später zu mehr Fett.
+Die Daten sind von Kindern aus 84 Kindertagesstätten der Kantone Aargau<annotation class="LOC">, Bern<annotation class="LOC">, Freiburg<annotation class="LOC">, Waadt<annotation class="LOC"> und Zürich<annotation class="LOC">.
+Der Einfluss von Alter, Geschlecht, sozioökonomischem Status der Eltern und der Sprachregion und sogar die gemessene Bewegung im Alltag wurden herausgerechnet.
+Zum Beispiel bewegen sich diese Kinder in der Romandie täglich mehr als zehn Prozent weniger lang als in der Deutschschweiz<annotation class="LOC">.
+Die Untersuchung ist Teil einer nationalen Studie namens SPLASHY<annotation class="MISC">, in der Psychologinnen, Bewegungswissenschaftler und Kinderärztinnen der Universitäten Freiburg<annotation class="LOC">, Lausanne<annotation class="LOC"> und Zürich<annotation class="LOC"> den Einfluss von Stress und Bewegung auf Gesundheit und Entwicklung untersuchen.
+Das ergibt Sinn, sagt Puder<annotation class="PER">: «Das Vorschulalter ist ein wichtiger Zeitpunkt, um einzugreifen und dem Teufelskreis vorzubeugen.»
+T. H. Kakebeeke<annotation class="PER"> et al.
+: Association between Body Composition and Motor Performance in Preschool Children<annotation class="ORG">.
+Obesity Facts<annotation class="ORG"> (2017)

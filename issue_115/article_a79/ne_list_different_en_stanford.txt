@@ -1,0 +1,8 @@
+European	NORP
+Florence Rosier	PERSON
+Jean-Christophe Clément	PERSON
+Legay	PERSON
+Nicolas Legay	PERSON
+SNSF	ORG
+a year	DATE
+the University of Grenoble	ORG

@@ -1,0 +1,11 @@
+Lionel Pousaz	PER
+EPFL	ORG
+EPFL	ORG
+Lausanner Schaltkreis	ORG
+Andreas Burg	PER
+EPFL	ORG
+Burg	PER
+P. Giard	PER
+PolarBear	ORG
+A 28-nm FD-SOI ASIC for Decoding of Polar Codes	ORG
+IEEE Journal on Emerging and Selected Topics in Circuits and Systems	ORG

@@ -1,0 +1,14 @@
+Florence Rosier	PER
+Jean	PER
+Christophe Clément	PER
+Universität Grenoble	ORG
+Schweizerischen Nationalfonds	ORG
+SNF	ORG
+Englisches	MISC
+Lolium perenne	MISC
+Nicolas Legay	PER
+europäischen	MISC
+Legay	PER
+N. Legay	PER
+Soil legacy effects of climatic stress, management and plant functional composition on microbial communities influence the response of Lolium perenne to a new drought event	ORG
+Plant and Soil	ORG

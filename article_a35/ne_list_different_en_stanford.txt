@@ -1,0 +1,20 @@
+239	CARDINAL
+437	CARDINAL
+60	CARDINAL
+Daniel Saraga	PERSON
+Horizons	ORG
+Jürg Sigrist	PERSON
+Lausanne	GPE
+Matthias Egger	PERSON
+Object of study’	WORK_OF_ART
+Pascal Hufschmid	PERSON
+SNSF	ORG
+Swiss	NORP
+Switzerland	GPE
+Valérie Chételat	PERSON
+four	CARDINAL
+one	CARDINAL
+the Musée de l’Elysée	ORG
+the National Research Council of the SNSF	ORG
+the SNSF Scientific Image Competition	WORK_OF_ART
+today	DATE
