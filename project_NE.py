@@ -127,8 +127,8 @@ class named_entity_methods_sentence:
         doc = nlp(self.sent)
         #build the output list
         for sentence in doc.ents:
-            #avoid that 'Abstract' and 'title' are counted between NEs
-            if sentence.text != 'Abstract' and sentence.text != 'Title':
+            #avoid that 'Abstract', 'title' and 'Author' are counted between NEs
+            if sentence.text != 'Abstract' and sentence.text != 'Title' and sentence.text != 'Author':
                 self.named_entity_list.append((sentence.text, sentence.start_char, 
                                           sentence.end_char, sentence.type))
         return self.named_entity_list
@@ -162,8 +162,8 @@ class named_entity_methods_sentence:
         doc = nlp(self.sent)
         #build the output list
         for ent in doc.ents:
-            #avoid that 'Abstract' and 'title' are counted between NEs
-            if ent.text != 'Abstract' and ent.text != 'Title':
+            #avoid that 'Abstract', 'title' and 'Author' are counted between NEs
+            if ent.text != 'Abstract' and ent.text != 'Title' and ent.text != 'Author':
                 self.named_entity_list.append((ent.text, ent.start_char, ent.end_char, 
                                           ent.label_))
         return self.named_entity_list
