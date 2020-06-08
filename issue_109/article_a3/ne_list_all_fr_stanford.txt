@@ -1,0 +1,28 @@
+Roland Fischer	PER
+Robots tueurs	MISC
+Lockheed AC-130	MISC
+Raytheon	ORG
+Active Denial Systems	MISC
+Les	LOC
+Certains	LOC
+Canons laser	MISC
+USS Ponce	MISC
+Golfe persique	LOC
+Des	LOC
+Office of Naval Research	ORG
+Insectes cyborgs	MISC
+Hybrid Insect Micro-Electro-Mechanical Systems	MISC
+Defense Advanced Research Projects Agency	ORG
+Darpa	ORG
+Défense américain	MISC
+Les	LOC
+SALT II	MISC
+Jerry Pournelle	PER
+Thor:	MISC
+US Air Force	ORG
+Boston Dynamics	MISC
+Google –	MISC
+Stephen Hawking	PER
+Steve Wozniak	PER
+Noam Chomsky	PER
+Nations Unies	ORG

@@ -1,0 +1,27 @@
+Active Denial Systems	MISC
+Boston Dynamics	MISC
+Canons laser	MISC
+Certains	LOC
+Darpa	ORG
+Defense Advanced Research Projects Agency	ORG
+Des	LOC
+Défense américain	MISC
+Golfe persique	LOC
+Google –	MISC
+Hybrid Insect Micro-Electro-Mechanical Systems	MISC
+Insectes cyborgs	MISC
+Jerry Pournelle	PER
+Les	LOC
+Lockheed AC-130	MISC
+Nations Unies	ORG
+Noam Chomsky	PER
+Office of Naval Research	ORG
+Raytheon	ORG
+Robots tueurs	MISC
+Roland Fischer	PER
+SALT II	MISC
+Stephen Hawking	PER
+Steve Wozniak	PER
+Thor:	MISC
+US Air Force	ORG
+USS Ponce	MISC

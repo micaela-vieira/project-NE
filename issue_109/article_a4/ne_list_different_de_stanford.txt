@@ -1,0 +1,54 @@
+Armasuisse	LOC/ORG
+Bern	LOC
+Bevölkerungsschutz	ORG
+Bundesamts	ORG
+Bührle	PER
+Corina Liebi	PER
+Darpa	ORG
+David Gugerli	PER
+Deutschland	LOC
+EPFL	ORG
+ETH	ORG
+ETH Zürich	ORG
+ETHs	ORG
+Empa und Agroscope	ORG
+Franken	MISC
+Frankreich	LOC
+GSoA	ORG
+Gugerli	PER
+Güter	MISC
+Hochschule für Gestaltung Offenbach	ORG
+Janine Bächle	PER
+Japan	LOC
+Liebi	PER
+Manhattan Project	ORG
+Max Brück	PER
+Militär	MISC
+Militärs	LOC
+Neuenburg	LOC
+Pentagon	ORG
+Roland Fischer	PER
+Ruag	ORG
+Schweiz	LOC
+Schweizer	MISC
+Staatssekretariat für Wirtschaft	ORG
+TU	ORG
+TU Berlin	ORG
+Technische Universität Berlin	ORG
+Technische Universität Kaiserslautern	ORG
+Thomas Leibundgut	PER
+US Air Force	ORG
+USA	LOC
+UZH	ORG
+Uni	ORG
+Uni Basel	ORG
+University of Oxford	ORG
+Universität Bern	ORG
+Universitäten Zürich	ORG
+Zweiten Weltkrieg	MISC
+Zürich	LOC/PER
+amerikanische	MISC
+französischen	MISC
+schweizerisches	MISC
+ähnliches	PER
+–	MISC/ORG
