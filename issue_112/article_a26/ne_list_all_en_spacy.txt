@@ -1,0 +1,3 @@
+Florian Fisch	PERSON
+Zika	PERSON
+New Research	ORG

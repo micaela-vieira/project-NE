@@ -1,0 +1,39 @@
+A	LOC
+ATGC –	MISC
+Abkürzung	MISC
+Adenin	LOC
+Autonomie	ORG
+C	MISC
+Cytosin	LOC
+DOKA	ORG
+Desoxyribonukleinsäure	MISC
+Doppelhelix	LOC/PER
+Francis Crick	PER
+Friedrich Miescher	PER
+G	LOC
+Guanin	LOC
+Hochhäusern	LOC
+Horizon	MISC
+James Watson	PER
+Lebewesen	LOC/PER
+Maurice Campagna	PER
+Maurice Wilkins	PER
+Nobelpreis für Medizin	MISC
+Nuklein	LOC
+Schweiz	LOC
+Schweiz können	MISC
+Schweizer	MISC
+T	LOC
+Thymin	LOC
+Val�	ORG
+Wissenschaften Schweiz	ORG
+Wissenschaftlerinnen	LOC
+Wissenschaftlern	LOC
+Zöpfen	LOC
+act local�	PER
+erfolgreichem	MISC
+geläufig	MISC
+können	MISC
+unterstützt	MISC
+�	MISC
+–	MISC

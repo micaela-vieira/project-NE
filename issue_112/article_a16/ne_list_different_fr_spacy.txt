@@ -1,0 +1,9 @@
+Author	MISC
+Daniel Saraga	PER
+Title: Une th√	MISC
+am√	LOC
+id√	LOC
+liorer la r√	PER
+paralys√	ORG
+rapie	LOC
+th√	LOC

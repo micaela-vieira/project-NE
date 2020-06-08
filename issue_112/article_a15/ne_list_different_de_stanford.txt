@@ -1,0 +1,13 @@
+ATGC –	LOC
+Akademien der Wissenschaften Schweiz	ORG
+Author	PER
+DOKA	ORG
+Francis Crick	PER
+Friedrich Miescher	PER
+James Watson	PER
+Maurice Campagna	PER
+Maurice Wilkins	PER
+Schweiz	LOC
+Schweizer	MISC
+Valérie Chételat	PER
+europäischen	MISC

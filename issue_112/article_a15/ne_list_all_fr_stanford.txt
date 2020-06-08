@@ -1,0 +1,21 @@
+Maurice Campagna	PER
+Valérie Chételat	PER
+Acide désoxyribonucléique	MISC
+Friedrich Miescher	PER
+prix Nobel de médecine	MISC
+James Watson	PER
+Francis Crick	PER
+Maurice Wilkins	PER
+ATGC	ORG
+Les	LOC
+DOCA	MISC
+Suisse	LOC
+Une	LOC
+Horizon 2020	MISC
+Un	LOC
+DOCA	MISC
+Suisse	LOC
+«think	MISC
+Des	LOC
+Maurice Campagna	PER
+Académies suisses des sciences	ORG

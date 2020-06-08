@@ -1,0 +1,18 @@
+ATGC	ORG
+Académies suisses des sciences	ORG
+Acide désoxyribonucléique	MISC
+DOCA	MISC
+Des	LOC
+Francis Crick	PER
+Friedrich Miescher	PER
+Horizon 2020	MISC
+James Watson	PER
+Les	LOC
+Maurice Campagna	PER
+Maurice Wilkins	PER
+Suisse	LOC
+Un	LOC
+Une	LOC
+Valérie Chételat	PER
+prix Nobel de médecine	MISC
+«think	MISC
