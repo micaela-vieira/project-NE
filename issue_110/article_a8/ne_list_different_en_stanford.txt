@@ -1,0 +1,63 @@
+1967	DATE
+2.0	CARDINAL
+2013	DATE
+Alexandra	PERSON
+Benedikt Fecher	PERSON
+Berlin	GPE
+Big Science	ORG
+Boettiger	PERSON
+Brown	PERSON
+CERN	ORG
+Carl Boettiger	PERSON
+ETH Zurich	ORG
+Emmanuel Kowalski	PERSON
+English	LANGUAGE
+Europe	LOC
+FORS	ORG
+Fecher	PERSON
+Gassmann	PERSON
+Linux	PRODUCT
+Lorenz Meier	PERSON
+Meier	ORG/PERSON
+Michael Mann	PERSON
+Nature	ORG
+Oliver Gassmann	PERSON
+Open Source Malaria Project	ORG
+OpenSci	ORG
+PX4	PRODUCT
+Pennsylvania	GPE
+Scientific Data'	ORG
+Stam	PERSON
+State University	ORG
+Sven Titz	PERSON
+Switzerland	GPE
+T-PEN	ORG
+Tara Andrews	PERSON
+The Polymath Project	ORG
+Titus Brown	PERSON
+Today	DATE
+UK	GPE
+US Freedom of Information Act	LAW
+USA	GPE
+Valérie Chételat	PERSON
+Volker Heussler	PERSON
+a few years ago	DATE
+first	ORDINAL
+more than 380	CARDINAL
+one	CARDINAL
+recent years	DATE
+the 'Global Alliance for Genetic Health'	ORG
+the Alexander von Humboldt Institute for Internet and Society	ORG
+the Data Promotion	ORG
+the German Institute for Economic Research	ORG
+the Institute for Visual Computing	ORG
+the Institute of Technology Management	ORG
+the Social Sciences	ORG
+the Swiss Centre of Expertise	ORG
+the University of Bern	ORG
+the University of California in Davis	ORG
+the University of California, Berkeley	ORG
+the University of St. Gallen	ORG
+the day	DATE
+third	ORDINAL
+today	DATE

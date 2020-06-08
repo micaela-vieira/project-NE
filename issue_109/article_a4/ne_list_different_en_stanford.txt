@@ -1,0 +1,78 @@
+1942 onwards	DATE
+1946	DATE
+1991	DATE
+2014	DATE
+2015	DATE
+25	CARDINAL
+Agroscope	ORG
+American	NORP
+Armasuisse	ORG
+Bern	GPE
+Bührle	PERSON
+CHF 140 million	MONEY
+CHF 2.7 million	MONEY
+Corina Liebi	PERSON
+Darpa Program'	ORG
+David Gugerli	PERSON
+EMPA	ORG
+EPFL	ORG
+ETH Zurich	ORG
+European	NORP
+France	GPE
+French	NORP
+GSOA	ORG
+Germany	GPE
+Gugerli	PERSON
+Janine Bächle	PERSON
+Japan	GPE
+Last year	DATE
+Liebi	PERSON
+Max Brück�	PERSON
+Neuchâtel	ORG
+One	CARDINAL
+Pentagon	ORG
+Roland Fischer	PERSON
+Ruag	ORG
+SECO	ORG
+Sonntagszeitung	GPE
+Swiss	NORP
+Switzerland	GPE
+TU Berlin	GPE/ORG
+The Federal Office for Defence Procurement (Armasuisse)	ORG
+The Manhattan Project	ORG
+The TU Berlin	ORG
+The University of Basel	ORG
+The University of Zurich	ORG
+Thomas Leibundgut	PERSON
+Three years ago	DATE
+University	ORG
+Zurich	GPE
+between 2011 and 2013	DATE
+more than a million dollars	MONEY
+only one	CARDINAL
+roughly a dozen	CARDINAL
+some 150,000	CARDINAL
+some CHF 3.4 million	MONEY
+the 'Group for a Switzerland	ORG
+the Allied Control Council Act	LAW
+the Department of Biology	ORG
+the Industrial Revolution	EVENT
+the Institute for Infectious Diseases	ORG
+the Offenbach University of Art and Design	ORG
+the Second World War	EVENT
+the Spiez Laboratory	ORG
+the State Secretariat for Economic Affairs	ORG
+the Swiss Federal Office for Civil Protection	ORG
+the TU Berlin Research Department	ORG
+the Technical University of Berlin	ORG
+the Technical University of Kaiserslautern	ORG
+the US Air Force	ORG
+the Universities of Bern	ORG
+the Universities of Zurich	ORG
+the University of Bern	ORG
+the University of Bern"	ORG
+the University of Oxford	ORG
+third	ORDINAL
+this day	DATE
+today	DATE
+two	CARDINAL

@@ -1,0 +1,126 @@
+Alexander von Humboldt	PER
+Alexandra Stam	PER
+Anstoss	PER
+Bauplan	MISC
+Baupläne	MISC
+Benedikt Fecher	PER
+Berkeley	LOC
+Berlin	LOC
+Bern	LOC
+Big Science	MISC
+Boettiger	PER
+Brown	PER
+Carl Boettiger	PER
+Computerkenntnissen	LOC
+Datensätze	MISC
+Datenzugriff	MISC
+Deutschen Institut für Wirtschaftsforschung	ORG
+Die Forscher fänden	MISC
+Doktorand Fecher	PER
+ETH	ORG
+Einträge	MISC
+Emmanuel Kowalski	PER
+Europa	LOC
+FORS	MISC
+FORS-Gruppe	ORG
+Fachartikeln	LOC
+Fecher	PER
+Firmen	PER
+Forscherkreisen	LOC
+Forschungsdaten	MISC
+Freedom of Information Act	MISC
+Fällen	ORG
+Gassmann	PER
+Global Alliance for Genetic Health	ORG
+Glück	MISC
+Grundsätzlich beurteilt Gassmann	PER
+Gründe	MISC
+Ideendiebstahl	PER
+Ideenklau	LOC
+Institut für	ORG
+Institute for Visual Computing	ORG
+Klimaforscher –	MISC
+Koautor	PER
+Kräfte	MISC
+Labor-Notizbücher	MISC
+Labor-Notizbüchern	MISC
+Linux	MISC
+Lorenz Meier	PER
+Ländern	LOC
+Lösungen	MISC
+Mainstream-Klimaforschung	MISC
+Michael Mann	PER
+Misere	LOC
+Nature Publishing Group	ORG
+Natürlich	LOC
+Notizbuchs	LOC
+Notizbücher	ORG
+Offenlegung	MISC
+Oliver Gassmann	PER
+Online-Tools	LOC
+Online­	ORG
+Open Data	ORG
+Open Science	LOC/MISC/ORG
+Open-Access-Zeitschriften	LOC
+Open-Source-Bewegung	ORG
+Open-Source-Lösungen	ORG
+Open-Source-Projekten	LOC
+Open-Source-Software	MISC
+PX4	MISC
+Patentanmeldungen	MISC
+Pennsylvania State University	ORG
+Polymath	LOC
+Privatsphäre	MISC
+Problem	LOC
+Problem Privatsphäre	MISC
+Projekts	LOC
+Qualität	MISC
+Schaltpläne	MISC
+Schweiz	LOC
+Schweizer	MISC
+Sozialwissenschaftler	PER
+St. Gallen	LOC
+Stam	PER
+Sven Titz	PER
+Tara Andrews	PER
+Titus Brown	PER
+Transparenz	LOC
+USA	LOC
+University of California	ORG
+University of California in Davis	ORG
+Vereinigten Königreich	LOC
+Verfügung	MISC
+Vergleichsfälle	MISC
+Versuchspläne	MISC
+Wertschöpfung	MISC
+Widerstände	MISC
+Zeit	MISC
+Zentrum der Artikelpublikation	ORG
+Zurückhaltung	MISC
+bewährt	MISC
+bisschen	MISC
+für	MISC
+für Labor-Notizbücher	MISC
+fürchten	MISC
+gemäss	MISC
+genügt	MISC
+gläserne	MISC
+können	MISC
+könnte	MISC
+nötig	PER
+rOpenSci	MISC
+später	MISC
+ungestümer Offenheit	MISC
+würden	MISC
+zurückzuhalten	PER
+zusätzliche	MISC
+zögern	MISC
+�	MISC
+überhaupt	MISC
+überschätzt	MISC
+überzeugt	MISC
+Ökosystemforscher	MISC
+�	PER
+–	MISC
+– können	MISC
+�	MISC

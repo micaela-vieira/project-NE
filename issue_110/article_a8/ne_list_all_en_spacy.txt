@@ -1,0 +1,77 @@
+Sven Titz	PERSON
+daily	DATE
+first	ORDINAL
+Big Science	PERSON
+Benedikt Fecher	PERSON
+the German Institute for Economic Research	ORG
+Alexander von Humboldt Institute for Internet and Society	ORG
+Berlin	GPE
+USA	GPE
+Europe	LOC
+the Swiss Centre of Expertise	ORG
+the Social Sciences	ORG
+FORS	ORG
+Alexandra Stam	PERSON
+Data Promotion	ORG
+FORS	ORG
+today	DATE
+Stam	PERSON
+USA	GPE
+UK	GPE
+Switzerland	GPE
+Mathematicians	NORP
+Emmanuel Kowalski	PERSON
+ETH Zurich	ORG
+Polymath Project	ORG
+FORS	ORG
+Fecher	ORG
+Titus Brown	PERSON
+the University of California in Davis	ORG
+Brown	PERSON
+today	DATE
+Fecher	PERSON
+Today	DATE
+Fecher	PERSON
+recent years	DATE
+Scientific Data'	WORK_OF_ART
+Nature	ORG
+the day	DATE
+Carl Boettiger	PERSON
+the University of California, Berkeley	ORG
+today	DATE
+Boettiger	PERSON
+Boettiger	PERSON
+Boettiger	PERSON
+a few years ago	DATE
+2.0	CARDINAL
+the University of Bern	ORG
+Tara Andrews	PERSON
+T-PEN	ORG
+Lorenz Meier	PERSON
+the Institute for Visual Computing	ORG
+ETH Zurich	FAC
+Meier	ORG
+Meier	ORG
+PX4	WORK_OF_ART
+Meier	PERSON
+Oliver Gassmann	PERSON
+the Institute of Technology Management	ORG
+the University of St. Gallen	ORG
+Linux	PERSON
+Gassmann	PERSON
+Gassmann	PERSON
+Gassmann	PERSON
+one	CARDINAL
+Volker Heussler	PERSON
+the University of Bern	ORG
+English	LANGUAGE
+the 1967 US Freedom of Information Act	EVENT
+Michael Mann	PERSON
+Pennsylvania State University	ORG
+third	ORDINAL
+third	ORDINAL
+2013	DATE
+the 'Global Alliance for Genetic Health'	ORG
+more than 380	CARDINAL
+Sven Titz	PERSON
+Berlin	GPE

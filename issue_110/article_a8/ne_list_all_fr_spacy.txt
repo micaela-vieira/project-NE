@@ -1,0 +1,231 @@
+Title:	MISC
+Author	LOC
+Sven Titz	PER
+forc√	ORG
+id√	LOC
+difficult√	LOC
+l‚Äôopen science	MISC
+syst√	PER
+apr√®s	LOC
+mani√®re	LOC
+valu√	MISC
+mani√®re	LOC
+d√	MISC
+pos√	MISC
+donn√	LOC
+√	MISC
+comp√	PER
+n√	ORG
+cessaires	ORG
+mani√®re g√	ORG
+n√	ORG
+h√	ORG
+sitent √† 	MISC
+donn√	MISC
+id√	LOC
+comp√	PER
+Big Science ‚Ä	MISC
+CERN	LOC
+Human Genome Project ‚Ä	MISC
+donn√	MISC
+n√	ORG
+cessaires	MISC
+donn√	LOC
+comp√	PER
+donn√	PER
+Benedikt Fecher	PER
+√	MISC
+DIW	ORG
+Alexander von	PER
+Internet	MISC
+soci√	MISC
+HIIG	ORG
+tudi√	LOC
+√	MISC
+Etats-Unis	MISC
+Europe	LOC
+volont√	PER
+donn√	LOC
+√™tre	PER
+Centre	LOC
+comp√	LOC
+FORS	LOC
+pr√™te	MISC
+donn√	LOC
+n√	ORG
+der √† 	MISC
+donn√	MISC
+n√®re	MISC
+donn√	MISC
+n√	ORG
+mani√®re standardis√	MISC
+Alexandra Stam	PER
+Data Promotion	ORG
+FORS	ORG
+donn√	ORG
+√	MISC
+termin√	LOC
+donn√	MISC
+√	MISC
+Etats-Unis	MISC
+Royaume-Uni	LOC
+donn√	LOC
+Suisse	LOC
+Alexandra Stam	PER
+donn√	LOC
+termin√	ORG
+Emmanuel Kowalski	PER
+ETH Zurich	ORG
+Polymath Project	MISC
+post√	MISC
+mani√®re spontan√	PER
+e |	MISC
+Val√	LOC
+rie Ch√	PER
+Malgr√	ORG
+FORS	MISC
+mesur√	PER
+M√™me	MISC
+b√	MISC
+n√	ORG
+h√	MISC
+sitent √† 	MISC
+donn√	MISC
+Benedikt Fecher	PER
+foss√	ORG
+√	MISC
+g√	MISC
+n√	ORG
+√	MISC
+donn√	MISC
+id√	LOC
+M√™me	MISC
+surestim√	LOC
+Titus Brown	PER
+g√	ORG
+n√	ORG
+Universit√	ORG
+Californie √† Davis	MISC
+rapport√	PER
+utilis√	MISC
+invent√	MISC
+n√	ORG
+anmoins rest√	PER
+utilit√	MISC
+donn√	PER
+Benedikt Fecher	PER
+mani√®re g√	ORG
+n√	ORG
+syst√®me	ORG
+valu√	LOC
+s √† 	MISC
+qualit√	MISC
+quantit√	MISC
+acad√	ORG
+donn√	MISC
+Benedikt Fecher	PER
+utilit√	MISC
+donn√	MISC
+rench√	MISC
+Alexandra Stam	PER
+appara√	MISC
+cialis√	MISC
+donn√	MISC
+‚Ä	MISC
+Scientific Data	MISC
+Nature Publishing Group	ORG
+arch√	LOC
+cialis√	MISC
+√	MISC
+donn√	MISC
+Carl Boettiger	PER
+Universit√	MISC
+Californie √† Berkeley	MISC
+j√† commenc√	PER
+offusqu√	PER
+brid√	LOC
+m√™me	MISC
+judice √† 	MISC
+Carl Boettiger	PER
+√	MISC
+arriv√	PER
+id√	LOC
+senter	PER
+n√	ORG
+cessitent	ORG
+Carl Boettiger	PER
+cofond√	MISC
+rOpenSci	MISC
+Digitaliser	PER
+√	MISC
+Universit√	MISC
+Berne	LOC
+Tara Andrews	PER
+T	MISC
+Pen	PER
+Val√	LOC
+rie Ch√	PER
+donn√	LOC
+galement le mat√	PER
+mas de c√¢blage	PER
+Lorenz Meier	PER
+Institute for Visual Computing	ORG
+ETH Zurich	ORG
+PX4	LOC
+m√™me	MISC
+priv√	ORG
+collabor√	LOC
+√	MISC
+pr√™tes	MISC
+am√	MISC
+Lorenz Meier	PER
+m√™me	MISC
+plut√¥t	MISC
+Services	MISC
+Linux	MISC
+march√	LOC
+identifi√	MISC
+m√™me	MISC
+Oliver Gassmann	PER
+Universit√	MISC
+Saint	ORG
+Gall	PER
+cr√	LOC
+Oliver Gassmann	PER
+√	MISC
+suppl√	MISC
+√	MISC
+coop√	LOC
+priv√	ORG
+accentu√	LOC
+Essais	MISC
+Volker Heussler	PER
+Universit√	ORG
+Berne	LOC
+m√™mes	MISC
+Val√	LOC
+rie Ch√	PER
+divulgu√	LOC
+utilis√	MISC
+donn√	PER
+Freedom of Information Act	MISC
+exploit√	ORG
+pr√	LOC
+senter	PER
+Michael Mann de la	PER
+Pennsylvania State University	ORG
+l√®bres	MISC
+donn√	LOC
+particip√	MISC
+g√	ORG
+n√	ORG
+tiques	ORG
+cons√	LOC
+donn√	LOC
+m√™me	MISC
+Fond√	LOC
+Global Alliance for Genetic Health √	MISC
+donn√	LOC
+mani√®re s√ªre	LOC
+donn√	LOC
+Sven Titz	PER

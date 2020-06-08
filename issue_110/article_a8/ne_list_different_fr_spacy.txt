@@ -1,0 +1,135 @@
+Alexander von	PER
+Alexandra Stam	PER
+Author	LOC
+Benedikt Fecher	PER
+Berne	LOC
+Big Science ‚Ä	MISC
+CERN	LOC
+Californie √† Berkeley	MISC
+Californie √† Davis	MISC
+Carl Boettiger	PER
+Centre	LOC
+DIW	ORG
+Data Promotion	ORG
+Digitaliser	PER
+ETH Zurich	ORG
+Emmanuel Kowalski	PER
+Essais	MISC
+Etats-Unis	MISC
+Europe	LOC
+FORS	LOC/MISC/ORG
+Fond√	LOC
+Freedom of Information Act	MISC
+Gall	PER
+Global Alliance for Genetic Health √	MISC
+HIIG	ORG
+Human Genome Project ‚Ä	MISC
+Institute for Visual Computing	ORG
+Internet	MISC
+Linux	MISC
+Lorenz Meier	PER
+Malgr√	ORG
+Michael Mann de la	PER
+M√™me	MISC
+Nature Publishing Group	ORG
+Oliver Gassmann	PER
+PX4	LOC
+Pen	PER
+Pennsylvania State University	ORG
+Polymath Project	MISC
+Royaume-Uni	LOC
+Saint	ORG
+Scientific Data	MISC
+Services	MISC
+Suisse	LOC
+Sven Titz	PER
+T	MISC
+Tara Andrews	PER
+Title:	MISC
+Titus Brown	PER
+Universit√	MISC/ORG
+Val√	LOC
+Volker Heussler	PER
+acad√	ORG
+accentu√	LOC
+am√	MISC
+anmoins rest√	PER
+appara√	MISC
+apr√®s	LOC
+arch√	LOC
+arriv√	PER
+brid√	LOC
+b√	MISC
+cessaires	MISC/ORG
+cessitent	ORG
+cialis√	MISC
+cofond√	MISC
+collabor√	LOC
+comp√	LOC/PER
+cons√	LOC
+coop√	LOC
+cr√	LOC
+der √† 	MISC
+difficult√	LOC
+divulgu√	LOC
+donn√	LOC/MISC/ORG/PER
+d√	MISC
+e |	MISC
+exploit√	ORG
+forc√	ORG
+foss√	ORG
+galement le mat√	PER
+g√	MISC/ORG
+h√	MISC/ORG
+identifi√	MISC
+id√	LOC
+invent√	MISC
+judice √† 	MISC
+j√† commenc√	PER
+l√®bres	MISC
+l‚Äôopen science	MISC
+mani√®re	LOC
+mani√®re g√	ORG
+mani√®re spontan√	PER
+mani√®re standardis√	MISC
+mani√®re s√ªre	LOC
+march√	LOC
+mas de c√¢blage	PER
+mesur√	PER
+m√™me	MISC
+m√™mes	MISC
+n√	ORG
+n√®re	MISC
+offusqu√	PER
+particip√	MISC
+plut√¥t	MISC
+post√	MISC
+pos√	MISC
+priv√	ORG
+pr√	LOC
+pr√™te	MISC
+pr√™tes	MISC
+qualit√	MISC
+quantit√	MISC
+rOpenSci	MISC
+rapport√	PER
+rench√	MISC
+rie Ch√	PER
+s √† 	MISC
+senter	PER
+sitent √† 	MISC
+soci√	MISC
+suppl√	MISC
+surestim√	LOC
+syst√	PER
+syst√®me	ORG
+termin√	LOC/ORG
+tiques	ORG
+tudi√	LOC
+utilis√	MISC
+utilit√	MISC
+valu√	LOC/MISC
+volont√	PER
+√	MISC
+√™tre	PER
+‚Ä	MISC

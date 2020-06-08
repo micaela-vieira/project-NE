@@ -1,0 +1,39 @@
+Roland Fischer	PERSON
+1k	QUANTITY
+The American Air Force	ORG
+Lockheed	ORG
+AC-130 gunship	PRODUCT
+several years	DATE
+a few years ago	DATE
+US	GPE
+USS Ponce	PRODUCT
+the Persian Gulf	LOC
+2014	DATE
+30 kilowatt	QUANTITY
+one kilometre	QUANTITY
+One	CARDINAL
+the Defense Advanced Research Projects Agency	ORG
+DARPA	ORG
+the US Defense Department	ORG
+Hybrid Insect Micro-Electro- Mechanical Systems'	ORG
+1979	DATE
+SALT II	EVENT
+Treaty	LAW
+Jerry Pournelle	PERSON
+the 1950s	DATE
+Thor	PERSON
+A few years ago	DATE
+the US Air Force	ORG
+ten metres	QUANTITY
+over 3,000 metres	QUANTITY
+tomorrow	DATE
+four	CARDINAL
+Boston Dynamics	ORG
+Google	ORG
+2013	DATE
+the United Nations	ORG
+two thousand	CARDINAL
+Stephen Hawking	PERSON
+Steve Wozniak	PERSON
+Noam Chomsky	PERSON
+last year	DATE

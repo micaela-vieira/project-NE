@@ -1,0 +1,27 @@
+Roland Fischer	PER
+Science-Fiction	MISC
+amerikanische	MISC
+AC-130	MISC
+US	ORG
+USS Ponce	ORG
+Persischen Golf	LOC
+Office of Naval Research	ORG
+Navy	ORG
+Defense Advanced Research Projects Agency	ORG
+DARPA	ORG
+US-amerikanischen	MISC
+Verteidigungsministeriums	ORG
+Hybrid Insect Micro-Electro-Mechanical Systems	MISC
+SALT-II	MISC
+Jerry Pournelle	PER
+Thor	MISC
+US Air Force	ORG
+Stäben	MISC
+Wolfram	LOC
+Erdoberfläche	MISC
+Boston Dynamics – 2013	ORG
+Google aufgekauft –	ORG
+Stephen Hawking	PER
+Steve Wozniak	PER
+Noam Chomsky	PER
+Uno	ORG

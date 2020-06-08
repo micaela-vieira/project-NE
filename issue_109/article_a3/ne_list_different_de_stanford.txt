@@ -1,0 +1,27 @@
+AC-130	MISC
+Boston Dynamics – 2013	ORG
+DARPA	ORG
+Defense Advanced Research Projects Agency	ORG
+Erdoberfläche	MISC
+Google aufgekauft –	ORG
+Hybrid Insect Micro-Electro-Mechanical Systems	MISC
+Jerry Pournelle	PER
+Navy	ORG
+Noam Chomsky	PER
+Office of Naval Research	ORG
+Persischen Golf	LOC
+Roland Fischer	PER
+SALT-II	MISC
+Science-Fiction	MISC
+Stephen Hawking	PER
+Steve Wozniak	PER
+Stäben	MISC
+Thor	MISC
+US	ORG
+US Air Force	ORG
+US-amerikanischen	MISC
+USS Ponce	ORG
+Uno	ORG
+Verteidigungsministeriums	ORG
+Wolfram	LOC
+amerikanische	MISC

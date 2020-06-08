@@ -1,0 +1,91 @@
+Roland Fischer	PER
+Schweizer	MISC
+Max Brück	PER
+Hochschule für Gestaltung Offenbach	ORG
+Janine Bächle	PER
+Schweizer	MISC
+ETH Zürich	ORG
+ETH	ORG
+Uni Basel	ORG
+Uni Basel	ORG
+EPFL	ORG
+Staatssekretariat für Wirtschaft	ORG
+Güter	MISC
+Schweiz	LOC
+Armasuisse	LOC
+Franken	MISC
+Schweizer	MISC
+Armasuisse	ORG
+Franken	MISC
+Bern	LOC
+Zürich	LOC
+ETHs	ORG
+Empa und Agroscope	ORG
+University of Oxford	ORG
+Technische Universität Kaiserslautern	ORG
+Universität Bern	ORG
+Bundesamts	ORG
+Bevölkerungsschutz	ORG
+Uni	ORG
+Universität Bern	ORG
+Pentagon	ORG
+Darpa	ORG
+Schweiz	LOC
+amerikanische	MISC
+ETH Zürich	ORG
+Universitäten Zürich	ORG
+Bern	LOC
+Neuenburg	LOC
+Zürich	PER
+UZH	ORG
+Militär	MISC
+USA	LOC
+Universität Bern	ORG
+US Air Force	ORG
+Technische Universität Berlin	ORG
+TU Berlin	ORG
+TU Berlin	ORG
+Zweiten Weltkrieg	MISC
+Deutschland	LOC
+TU Berlin	ORG
+TU	ORG
+–	MISC
+Japan	LOC
+Schweiz	LOC
+Ruag	ORG
+–	ORG
+Deutschland	LOC
+TU Berlin	ORG
+Schweiz	LOC
+Schweiz	LOC
+Schweiz	LOC
+Thomas Leibundgut	PER
+Schweiz	LOC
+Schweizer	MISC
+GSoA	ORG
+Bern	LOC
+Universität Bern	ORG
+Corina Liebi	PER
+GSoA	ORG
+Liebi	PER
+Schweizer	MISC
+David Gugerli	PER
+ETH	ORG
+Militärs	LOC
+Gugerli	PER
+Gugerli	PER
+ETH	ORG
+französischen	MISC
+schweizerisches	MISC
+Schweiz	LOC
+Gugerli	PER
+Schweizer	MISC
+Bührle	PER
+Frankreich	LOC
+Schweiz	LOC
+ähnliches	PER
+Schweiz	LOC
+Zweiten Weltkrieg	MISC
+Manhattan Project	ORG
+Roland Fischer	PER
+Bern	LOC

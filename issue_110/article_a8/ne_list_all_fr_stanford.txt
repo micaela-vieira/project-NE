@@ -1,0 +1,86 @@
+Sven Titz	PER
+Les	LOC
+Crainte	MISC
+Big Science –	MISC
+CERN	LOC
+Human Genome Project –	MISC
+Benedikt Fecher	PER
+DIW	ORG
+Alexander von Humboldt	PER
+Internet	MISC
+Berlin	LOC
+Etats-Unis	LOC
+Europe	LOC
+Les	LOC
+Centre de compétences suisse en sciences sociales	ORG
+FORS	ORG
+Cette	LOC
+Les	LOC
+Alexandra Stam	PER
+Data Promotion	ORG
+FORS	ORG
+Des	LOC
+Les	LOC
+Etats-Unis	LOC
+Royaume-Uni	LOC
+Suisse	LOC
+Alexandra Stam	PER
+Emmanuel Kowalski	PER
+ETH Zurich	ORG
+Polymath Project	MISC
+Photo	MISC
+Valérie Chételat	PER
+FORS	ORG
+Même	PER
+Benedikt Fecher	PER
+Même	LOC
+Titus Brown	PER
+Université de Californie à Davis	LOC
+Une	LOC
+Benedikt Fecher	PER
+Benedikt Fecher	PER
+Alexandra Stam	PER
+Scientific Data	MISC
+Nature Publishing Group	ORG
+Terre	LOC
+Ces	LOC
+Carl Boettiger	PER
+Université de Californie à Berkeley	ORG
+Carl Boettiger	PER
+Carl Boettiger	PER
+rOpenSci	MISC
+Parchemins 2.0: Digitaliser	MISC
+Université de Berne	MISC
+Tara Andrews	PER
+T-Pen	MISC
+Valérie Chételat	MISC
+Lorenz Meier	PER
+Institute for Visual Computing	ORG
+ETH Zurich	ORG
+PX4	MISC
+privée	MISC
+Lorenz Meier	PER
+Pour désamorcer	MISC
+Services	MISC
+Linux	MISC
+Oliver Gassmann	PER
+Université de Saint-Gall	ORG
+Oliver Gassmann	PER
+Essais	MISC
+Open Source Malaria	MISC
+Volker Heussler	PER
+Université de Berne	LOC
+Valérie Chételat	MISC
+Transparence	MISC
+Certains	LOC
+Freedom of Information Act	MISC
+Souvent	MISC
+Michael Mann	PER
+Pennsylvania State University	ORG
+La	LOC
+Une	LOC
+La vie privée	MISC
+Mais	LOC
+Global Alliance for Genetic Health	ORG
+Sven Titz	PER
+Berlin	LOC

@@ -1,0 +1,18 @@
+Matthias Egger	PERSON
+Prinsengracht	GPE
+Amsterdam	GPE
+Manu Friederich	PERSON
+Bouwersgracht	PRODUCT
+Russian	NORP
+millions	CARDINAL
+Sonarweg 31	ORG
+the Greed Elsegier Concern	ORG
+A few days later	DATE
+over 30 percent	PERCENT
+Reed Elsevier	ORG
+16 million	CARDINAL
+2015	DATE
+Open Access movement	ORG
+Matthias Egger	PERSON
+the National Research Council	ORG
+January 2017	DATE

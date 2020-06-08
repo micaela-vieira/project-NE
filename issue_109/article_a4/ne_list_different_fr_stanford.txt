@@ -1,0 +1,5 @@
+C’	MISC
+Les	LOC
+Leur	LOC
+Roland Fischer	PER
+«double	MISC

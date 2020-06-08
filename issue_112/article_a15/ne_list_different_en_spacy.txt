@@ -1,0 +1,19 @@
+1962	DATE
+DOCA	ORG
+European	NORP
+Francis Crick	PERSON
+Friedrich Miescher	PERSON
+Horizon 2020	DATE
+James Watson	PERSON
+Maurice Campagna	PERSON
+Maurice Wilkins	PERSON
+Swiss	NORP
+Switzerland	GPE
+Two	CARDINAL
+four	CARDINAL
+local’	DATE
+only four	CARDINAL
+the 1860s	DATE
+the Nobel Prize for Medicine	WORK_OF_ART
+the Swiss Academies of Arts and Science	ORG
+twenty	CARDINAL
