@@ -1,0 +1,53 @@
+Alexander von Humboldt	PER
+Alexandra Stam	PER
+Benedikt Fecher	PER
+Berkeley	LOC
+Berlin	LOC
+Big Science	ORG
+Boettiger	PER
+Brown	PER
+Carl Boettiger	PER
+Data Promotion	ORG
+Davis	LOC
+Deutschen Institut für Wirtschaftsforschung	ORG
+Doktorand	ORG
+ETH Zürich	ORG
+Emmanuel Kowalski	PER
+Europa	LOC
+FORS	LOC/ORG
+Fecher	PER
+Freedom of Information Act	MISC
+Gassmann	PER
+Global Alliance for Genetic Health	ORG
+Glück	PER
+Institut für Internet und Gesellschaft	ORG
+Institut für Technologiemanagement der Universität St. Gallen	ORG
+Institute for Visual Computing	ORG
+Labor-Notizbüchern	MISC
+Lorenz Meier	PER
+Meier	PER
+Michael Mann	PER
+Nature Publishing Group	ORG
+Notizbücher	MISC
+Oliver Gassmann	PER
+Open Data	ORG
+Open Peer Review	ORG
+Open Science	ORG
+Open-Source	MISC
+PX4	MISC
+Pennsylvania State University	ORG
+Schweiz	LOC
+Schweizer Kompetenzzentrum Sozialwissenschaften	ORG
+Scientific Data	ORG
+Stam	PER
+Sven Titz	PER
+T-Pen	MISC
+Tara Andrews	PER
+Titus Brown	PER
+USA	LOC
+University of California	ORG
+Universität Bern	ORG
+Valérie Chételat	PER
+Vereinigten Königreich	LOC
+angelsächsischen	MISC
+rOpenSci	MISC
