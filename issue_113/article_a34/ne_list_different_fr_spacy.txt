@@ -1,0 +1,36 @@
+Amsterdam	LOC
+Author	MISC
+Brouwersgracht	LOC
+Conseil national de la recherche	ORG
+FNS	ORG
+Greed Elsegier	PER
+Internet	MISC
+Manu Friederich	PER
+Matthias Egger	PER
+Reed Elsevier	ORG
+Sonarweg	LOC
+Soudain	MISC
+Title: Fake news	MISC
+acad√	ORG
+alit√	LOC
+arr√™ter	ORG
+canal des Princes	LOC
+collectivit√	MISC
+domin√	LOC
+financ√	ORG
+gr√¢ce √† 	MISC
+g√	ORG
+march√	LOC
+ndlr	LOC
+n√	ORG
+pisode de Tatort	PER
+rer	ORG
+retrouv√	ORG
+rie polici√®re allemande	PER
+r√®gles	MISC
+soci√	ORG
+sup√	MISC
+touch√	MISC
+universit√	MISC
+√	MISC
+√™tre tourn√	PER

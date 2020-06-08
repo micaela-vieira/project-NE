@@ -1,0 +1,13 @@
+Matthias Egger	PER
+Manu Friederich	PER
+Prinsengracht	LOC
+Amsterdam	LOC
+Bouwersgracht	LOC
+russischer	MISC
+Greed-Elsegier-Konzerns	ORG
+CEO	ORG
+Bürostuhl	LOC
+CEO	ORG
+Reed Elsevier	ORG
+Matthias Egger	PER
+Nationalen Forschungsrates	ORG

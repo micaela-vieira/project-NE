@@ -1,0 +1,17 @@
+Amsterdam	LOC
+Brouwersgracht	LOC
+CEO	ORG
+Conseil national de la recherche du FNS	ORG
+Greed Elsegier	MISC
+Internet	MISC
+Le marché	MISC
+Leur	LOC
+Leurs	LOC
+Manu Friederich	PER
+Matthias Egger	PER
+Reed Elsevier	ORG
+Son	LOC
+Sonarweg 31	MISC
+Tatort	LOC/MISC
+Title: Fake news	MISC
+canal des Princes	LOC

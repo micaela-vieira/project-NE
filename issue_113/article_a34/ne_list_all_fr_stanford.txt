@@ -1,0 +1,19 @@
+Title: Fake news	MISC
+Matthias Egger	PER
+Manu Friederich	PER
+Amsterdam	LOC
+canal des Princes	LOC
+Brouwersgracht	LOC
+Internet	MISC
+Sonarweg 31	MISC
+Greed Elsegier	MISC
+CEO	ORG
+Tatort	LOC
+Leur	LOC
+Le marché	MISC
+Leurs	LOC
+Reed Elsevier	ORG
+Tatort	MISC
+Son	LOC
+Matthias Egger	PER
+Conseil national de la recherche du FNS	ORG
