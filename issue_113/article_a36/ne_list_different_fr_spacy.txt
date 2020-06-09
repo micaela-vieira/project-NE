@@ -1,5 +1,0 @@
-Author	MISC
-Daniel Saraga	PER
-Title: Authentifier	MISC
-g√	MISC
-n√	ORG
