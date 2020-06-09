@@ -1,4 +1,0 @@
-Authentizitätsnachweis	MISC
-Daniel Saraga	PER
-Lausanner	LOC
-Lebensmitteln	LOC
