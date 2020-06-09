@@ -1,9 +1,0 @@
-Title: Une th√	MISC
-Author	MISC
-Daniel Saraga	PER
-am√	LOC
-liorer la r√	PER
-paralys√	ORG
-id√	LOC
-th√	LOC
-rapie	LOC
