@@ -1,5 +1,0 @@
-Daniel Saraga	PER
-Start­up	LOC
-gelähmten	MISC
-Körperglieds	MISC
-Patient erhält	MISC
