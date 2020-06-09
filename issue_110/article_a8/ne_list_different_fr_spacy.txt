@@ -1,0 +1,52 @@
+Alexander von	PER
+Alexandra Stam	PER
+Benedikt Fecher	PER
+Berkeley	LOC
+Berlin	LOC
+Big Science	MISC
+CERN	LOC
+Carl Boettiger	PER
+Centre	LOC
+DIW	ORG
+Data Promotion	ORG
+Davis	LOC
+Digitaliser	PER
+ETH Zurich	ORG
+Emmanuel Kowalski	PER
+Etats-Unis	MISC
+Europe	LOC
+FORS	MISC/ORG
+Freedom of Information Act	MISC
+Gall	PER
+Global Alliance for Genetic Health	MISC
+HIIG	ORG
+Human Genome Project	MISC
+Institute for Visual Computing	ORG
+Internet	MISC
+Linux	MISC
+Lorenz Meier	PER
+Michael Mann de la	PER
+Nature Publishing Group	ORG
+Oliver Gassmann	PER
+PX4	LOC
+Pen	PER
+Pennsylvania State University	ORG
+Photo	PER
+Polymath Project	MISC
+Royaume-Uni	LOC
+Scientific Data	MISC
+Services	ORG
+Suisse	LOC
+Sven Titz	PER
+T	MISC
+Tara Andrews	PER
+Terre	LOC
+Title:	MISC
+Titus Brown	PER
+Transparence	LOC
+Université de Berne	ORG
+Université de Californie	ORG
+Université de Saint	ORG
+Valérie Chételat	PER
+Volker Heussler	PER
+rOpenSci	MISC

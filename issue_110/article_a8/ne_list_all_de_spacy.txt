@@ -1,0 +1,109 @@
+Sven Titz	PER
+Ideenklau	LOC
+Open-Access-Zeitschriften	LOC
+Open Science	MISC
+Unterschätzter Aufwand	LOC
+Forschungsdaten	MISC
+Big Science	MISC
+Cern	LOC
+Zeit	MISC
+Benedikt Fecher	PER
+Deutschen Institut für Wirtschaftsforschung	ORG
+Alexander von Humboldt	PER
+Berlin	LOC
+USA	LOC
+Europa	LOC
+Open-Science-Standards	MISC
+Schweizer	MISC
+FORS	MISC
+Online-Tools	LOC
+Open Data	ORG
+Sozialwissenschaftler	PER
+Alexandra Stam	PER
+FORS-Gruppe	ORG
+Projekts	MISC
+USA	LOC
+Vereinigten Königreich	LOC
+Schweiz	LOC
+Stam	PER
+Online­	MISC
+Emmanuel Kowalski	PER
+ETH	ORG
+Polymath	LOC
+Valérie Chételat	PER
+Open Data	ORG
+FORS	MISC
+Fecher	PER
+Forscherkreisen	LOC
+Ideendiebstahl	PER
+Titus Brown	PER
+University of California in Davis	ORG
+Fachartikel	PER
+Offenlegung	MISC
+Brown	PER
+Koautor	PER
+Datensätze	PER
+Die Forscher	MISC
+Doktorand Fecher	PER
+Stam	PER
+Datenteilens	LOC
+Zentrum der Artikelpublikation	ORG
+Scientific Data	ORG
+Nature Publishing Group	ORG
+Forschungsdaten	MISC
+bisschen	MISC
+Carl Boettiger	PER
+University of California	ORG
+Berkeley	LOC
+Anstoss	PER
+Boettiger	PER
+Fachartikeln	LOC
+Notizbuchs	LOC
+Labor-Notizbücher	LOC
+Boettiger	PER
+Computerkenntnissen	LOC
+Ökosystemforscher	LOC
+Herzen	LOC
+Open Science	LOC
+rOpenSci	MISC
+Universität Bern	ORG
+Tara Andrews	PER
+Valérie Chételat	PER
+Open Science	PER
+Open-Source-Projekten	LOC
+Open-Source-Software	MISC
+Lorenz Meier	PER
+Institute for Visual Computing	ORG
+ETH Zürich	ORG
+Open-Source-Software	MISC
+PX4	MISC
+Open-Source-Lösungen	LOC
+Firmen	PER
+Bauplan	MISC
+Linux	MISC
+Oliver Gassmann	PER
+Institut für Technologiemanagement	ORG
+Universität St. Gallen	ORG
+Open-Source-Bewegung	ORG
+Gassmann	PER
+Gassmann	PER
+Open Science	PER
+Gassmann	PER
+Open Science	ORG
+Emmanuel Kowalski	PER
+ETH	ORG
+Polymath	LOC
+Valérie Chételat	PER
+Problem Privatsphäre	LOC
+Transparenz	LOC
+Freedom of Information Act	MISC
+Mainstream-Klimaforschung	MISC
+Michael Mann	PER
+Pennsylvania State University	ORG
+Open Science	ORG
+genetischen	MISC
+Problem	LOC
+Global Alliance for Genetic Health	ORG
+Datenzugriff	MISC
+Sven Titz	PER
+Berlin	LOC

@@ -1,0 +1,88 @@
+Alexander von Humboldt	PER
+Alexandra Stam	PER
+Anstoss	PER
+Bauplan	MISC
+Benedikt Fecher	PER
+Berkeley	LOC
+Berlin	LOC
+Big Science	MISC
+Boettiger	PER
+Brown	PER
+Carl Boettiger	PER
+Cern	LOC
+Computerkenntnissen	LOC
+Datensätze	PER
+Datenteilens	LOC
+Datenzugriff	MISC
+Deutschen Institut für Wirtschaftsforschung	ORG
+Die Forscher	MISC
+Doktorand Fecher	PER
+ETH	ORG
+ETH Zürich	ORG
+Emmanuel Kowalski	PER
+Europa	LOC
+FORS	MISC
+FORS-Gruppe	ORG
+Fachartikel	PER
+Fachartikeln	LOC
+Fecher	PER
+Firmen	PER
+Forscherkreisen	LOC
+Forschungsdaten	MISC
+Freedom of Information Act	MISC
+Gassmann	PER
+Global Alliance for Genetic Health	ORG
+Herzen	LOC
+Ideendiebstahl	PER
+Ideenklau	LOC
+Institut für Technologiemanagement	ORG
+Institute for Visual Computing	ORG
+Koautor	PER
+Labor-Notizbücher	LOC
+Linux	MISC
+Lorenz Meier	PER
+Mainstream-Klimaforschung	MISC
+Michael Mann	PER
+Nature Publishing Group	ORG
+Notizbuchs	LOC
+Offenlegung	MISC
+Oliver Gassmann	PER
+Online-Tools	LOC
+Online­	MISC
+Open Data	ORG
+Open Science	LOC/MISC/ORG/PER
+Open-Access-Zeitschriften	LOC
+Open-Science-Standards	MISC
+Open-Source-Bewegung	ORG
+Open-Source-Lösungen	LOC
+Open-Source-Projekten	LOC
+Open-Source-Software	MISC
+PX4	MISC
+Pennsylvania State University	ORG
+Polymath	LOC
+Problem	LOC
+Problem Privatsphäre	LOC
+Projekts	MISC
+Schweiz	LOC
+Schweizer	MISC
+Scientific Data	ORG
+Sozialwissenschaftler	PER
+Stam	PER
+Sven Titz	PER
+Tara Andrews	PER
+Titus Brown	PER
+Transparenz	LOC
+USA	LOC
+University of California	ORG
+University of California in Davis	ORG
+Universität Bern	ORG
+Universität St. Gallen	ORG
+Unterschätzter Aufwand	LOC
+Valérie Chételat	PER
+Vereinigten Königreich	LOC
+Zeit	MISC
+Zentrum der Artikelpublikation	ORG
+bisschen	MISC
+genetischen	MISC
+rOpenSci	MISC
+Ökosystemforscher	LOC
