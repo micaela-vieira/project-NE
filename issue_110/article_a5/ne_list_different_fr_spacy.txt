@@ -1,4 +1,0 @@
-Author	MISC
-Compar√	LOC
-Daniel Saraga	PER
-Title: In vitro	MISC
