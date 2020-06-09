@@ -1,5 +1,0 @@
-Kleine Mücke	LOC
-Florian Fisch	PER
-Dengue	LOC
-Malaria	LOC
-Stechmücken übertragen	MISC
