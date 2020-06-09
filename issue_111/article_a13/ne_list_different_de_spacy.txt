@@ -1,0 +1,46 @@
+Absolut	LOC
+Afrika	LOC
+Asien	LOC
+BDP	ORG
+Basel	LOC
+Busch Diesel	LOC
+Codes 	PER
+Consultants	LOC
+Diesel	PER
+Feel-me-touch-me-Workshops	MISC
+Franken pro Kopf	ORG
+Geldgebern	LOC
+Grossen!	ORG
+H-Index-Selbstglorifizierungen	MISC
+Impact	LOC
+Impact Factors …	ORG
+Ja	PER
+Jahr 15 Franken	MISC
+Kamerun	LOC
+Kulturkreis	MISC
+Lernens	LOC
+Lützeltal	LOC
+MARCEL TANNER	MISC
+Marcel Hänggi	PER
+Marcel Tanner	PER
+Marcel Tanners Bleistifthalter	PER
+Parlamentarier	LOC
+Partnerschaften Grundlagen	MISC
+Problem	LOC
+Public Health	MISC
+Rudolf Geigy	PER
+Schweiz	LOC
+Schweizer	MISC
+Swiss TPH	MISC
+Swiss Tropical and Public Health Institute	MISC
+Tansania	LOC
+Theoretisch	LOC
+Tschad	LOC
+Umständen	MISC
+Unser Ansatz	PER
+Valérie Chételat	PER
+Vorgehens	LOC
+Zürich	LOC
+afrikanische	MISC
+comparing and sharing	ORG
+langfristiges	PER

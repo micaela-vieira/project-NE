@@ -1,0 +1,59 @@
+1944	DATE
+2007	DATE
+2008	DATE
+2015	DATE
+225	CARDINAL
+41	CARDINAL
+42	CARDINAL
+50 million	CARDINAL
+51.3 million	CARDINAL
+76.7 million	CARDINAL
+98 million	CARDINAL
+Africa	LOC
+Asia	LOC
+Basel	GPE
+Between 2012 and 2022	DATE
+CHF	ORG
+EPFL	ORG
+ETH Zurich	ORG
+Europe	LOC
+Federal Institutes of Technology	ORG
+Geneva	GPE
+Just under half	CARDINAL
+KFPE	ORG
+KFPE (Commission	ORG
+Latin America	LOC
+NADEL	ORG
+NCCR	ORG
+National Centre of Competence in Research	ORG
+North-South	GPE/LOC
+Public Health Institute	ORG
+SCNAT	ORG
+SDC	ORG
+SFIAR	ORG
+SNSF	ORG
+Swiss	NORP
+Switzerland	GPE
+TPH	ORG
+Technologies for Development	ORG
+The UNESCO Chair	ORG
+annual	DATE
+more than 60	CARDINAL
+over 100	CARDINAL
+over 700	CARDINAL
+rd4	ORG
+the Center for Development and Cooperation	ORG
+the Center for Development and Environment	ORG
+the Commission for Research Partnerships	ORG
+the Cooperation and Development Center	ORG
+the Development and Cooperation Network	ORG
+the Global South	LOC
+the Graduate Institute of International and Development Studies	ORG
+the International Graduate School North- South	ORG
+the Mobile Health Systems Laboratory	ORG
+the Swiss Agency for Development and Cooperation (SDC	ORG
+the Swiss Forum for International Agricultural Research	ORG
+the Swiss Network for International Studies	ORG
+the Swiss Programme for Research on Global Issues for Development	ORG
+the United Nations	ORG
+the University of Bern	ORG

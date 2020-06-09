@@ -1,0 +1,81 @@
+Swiss	NORP
+Pascale Hofmeier	PERSON
+2015	DATE
+the Swiss Agency for Development and Cooperation (SDC)	ORG
+some CHF 51.3 million	MONEY
+annual	DATE
+50 million	CARDINAL
+Switzerland	GPE
+SDC	ORG
+the Swiss Programme for Research on Global Issues for Development	ORG
+the Swiss Agency for Development and Cooperation (SDC)	ORG
+SNSF	ORG
+Africa	LOC
+Asia	LOC
+Latin America	LOC
+North-South	LOC
+Between 2012 and 2022	DATE
+almost CHF 98 million	MONEY
+225	CARDINAL
+41	CARDINAL
+42	CARDINAL
+Swiss	NORP
+The Swiss Tropical and Public Health Institute	ORG
+Basel	GPE
+Swiss TPH)	ORG
+1944	DATE
+TPH	ORG
+TPH	ORG
+700	CARDINAL
+more than 60	CARDINAL
+Just under half	CARDINAL
+2015	DATE
+CHF 76.7 million	MONEY
+Swiss	NORP
+the Graduate Institute of International and Development Studies	ORG
+IHEID	ORG
+Geneva	GPE
+the United Nations	ORG
+the International Graduate School North- South (IGS	ORG
+the Center for Development and Environment	ORG
+the University of Bern	ORG
+National Centre of Competence in Research (NCCR	ORG
+North-South	LOC
+100	CARDINAL
+Asia	LOC
+Africa	LOC
+Latin America	LOC
+Europe	LOC
+IGS	ORG
+two	CARDINAL
+Federal Institutes of Technology	ORG
+ETH Zurich	ORG
+EPFL	ORG
+UNESCO	ORG
+Chair in Technologies for Development	ORG
+the Cooperation and Development Center	ORG
+CODEV	ORG
+EPFL	ORG
+2007	DATE
+the Global South	LOC
+EPFL	ORG
+ETH Zurich	ORG
+the Mobile Health Systems Laboratory	ORG
+NADEL	ORG
+the Center for Development and Cooperation	ORG
+KFPE (Commission	ORG
+Switzerland	GPE
+the Commission for Research Partnerships with Developing Countries	ORG
+KFPE	ORG
+KFPE	ORG
+SDC	ORG
+SNSF	ORG
+SCNAT	ORG
+SFIAR	ORG
+the Swiss Forum for International Agricultural Research	ORG
+SNIS	ORG
+the Swiss Network for International Studies	ORG
+2008	DATE
+the Development and Cooperation Network of swissuniversities	ORG
+SUDAC	ORG
+the Global South	LOC

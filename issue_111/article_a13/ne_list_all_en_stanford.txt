@@ -1,0 +1,55 @@
+Marcel Hänggi	PERSON
+Marcel Tanner	PERSON
+more than 35 years	DATE
+the Global South	LOC
+Valérie Chételat	PERSON
+Marcel Tanner	PERSON
+Land Rover	PRODUCT
+Tanzania	GPE
+April 1982	DATE
+the beginning of this year	DATE
+Swiss	NORP
+Tropical and Public Health Institute	ORG
+Basel	GPE
+Africa	LOC
+Asia	LOC
+Latin America	LOC
+Tanner	PERSON
+Institute	ORG
+Rudolf Geigy	PERSON
+Tanzania	GPE
+1944	DATE
+first	ORDINAL
+Africa	LOC
+1979	DATE
+Cameroon	GPE
+one	CARDINAL
+Africa	LOC
+Africa	LOC
+Lützeltal	GPE
+Basel	GPE
+Africa	LOC
+a million	CARDINAL
+a third	DATE
+a whole day	DATE
+Switzerland	GPE
+Today	DATE
+Swiss	NORP
+Africa	LOC
+African	NORP
+Chad	GPE
+eight years	DATE
+Western	NORP
+Switzerland	GPE
+a Tropical Institute	ORG
+Federal Message on Education, Research and Innovation	ORG
+2008-2011	DATE
+first	ORDINAL
+15	CARDINAL
+7,000	MONEY
+Tanzania	GPE
+Greens	NORP
+the Conservative Democratic Party	ORG
+BDP	ORG
+Marcel Hänggi	PERSON
+Zurich	GPE

@@ -1,0 +1,26 @@
+Afrika	LOC
+Asien	LOC
+BDP	ORG
+Basel	LOC
+Grossen	LOC
+Grünen	ORG
+Kamerun	LOC
+Lateinamerika	LOC
+Lützeltal	LOC
+MARCEL TANNER	PER
+Marcel Hänggi	PER
+Marcel Tanner	PER
+Marcel Tanners	PER
+Peer-Review	ORG
+Rudolf Geigy	PER
+Schweiz	LOC
+Schweizer	MISC
+Swiss TPH	ORG
+Swiss Tropical and Public Health Institute	ORG
+Südens	LOC
+Tanner	PER
+Tansania	LOC
+Tschad	LOC
+Valérie Chételat	PER
+Zürich	LOC
+afrikanische	MISC

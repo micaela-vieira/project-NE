@@ -1,0 +1,32 @@
+Académie suisse des sciences naturelles	ORG
+Afrique	LOC
+Amérique	LOC
+Asie	LOC
+Bâle	LOC
+Cameroun	LOC
+Garder la joie	MISC
+Jura	LOC
+Land Rover	MISC
+Le	LOC
+Les	LOC
+Lorsque	LOC
+Lucelle	LOC
+MARCEL TANNER	PER
+Marcel Hänggi	PER
+Marcel Tanner	PER
+Message relatif à l’encouragement de la formation, de la recherche et de l’innovation	ORG
+Même	LOC
+Nos	LOC
+Notre	LOC
+Occident	LOC
+Rudolf Geigy	PER
+Si	MISC
+Sud	LOC
+Suisse	LOC
+Suisses	LOC
+Swiss Tropical and Public Health Institute	ORG
+Tanzanie	LOC
+Tchad	LOC
+Valérie Chételat	PER
+Zurich	LOC
+l’Afrique	LOC

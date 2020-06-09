@@ -1,0 +1,41 @@
+Title:	MISC
+Author: Theodora Peter	MISC
+IT	ORG
+Cameroun	LOC
+Center for Global Development	MISC
+Washington	LOC
+When Will We Ever Learn	MISC
+Improving Lives Through Impact Evaluation	MISC
+Esther Duflo	PER
+MIT	ORG
+Poverty Action Lab	ORG
+Inde	LOC
+International Initiative for Impact Evaluation	ORG
+Eviter	ORG
+Déclaration de Paris	MISC
+Comité	ORG
+OCDE	ORG
+OCDE	ORG
+Allemagne	LOC
+Deval	LOC
+Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit	PER
+Jörg Faust	PER
+Deval	PER
+heterogenes 	PER
+Jörg Faust	PER
+Deval	PER
+Jörg Faust	PER
+Micro	MISC
+Isabel Günther	PER
+Center for Development and Cooperation	ORG
+ETH Zurich	LOC
+»	MISC
+Isabel Günther	PER
+Jörg Faust de Deval	PER
+OCDE	ORG
+Etats	LOC
+ONU	ORG
+Isabel Günther	PER
+Est	LOC
+Theodora Peter	MISC
+Berne	LOC

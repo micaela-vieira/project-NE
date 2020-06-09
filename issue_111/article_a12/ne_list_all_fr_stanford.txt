@@ -1,0 +1,48 @@
+Theodora Peter	PER
+Abstract: Lancer	MISC
+Les	LOC
+IT	MISC
+Cameroun	LOC
+Aucun	LOC
+Center for Global Development	ORG
+Washington	LOC
+When Will We Ever Learn	MISC
+Improving Lives Through Impact Evaluation	MISC
+Les	LOC
+Esther Duflo	PER
+MIT	ORG
+Poverty Action Lab	ORG
+Inde	LOC
+Les	LOC
+International Initiative for Impact Evaluation	MISC
+ONG	ORG
+Ces	LOC
+Déclaration de Paris	MISC
+Comité d’aide au développement	ORG
+OCDE	ORG
+OCDE	ORG
+Ses	LOC
+Les	LOC
+Les	LOC
+Allemagne	LOC
+Deval	LOC
+Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit	ORG
+Jörg Faust	PER
+Deval	PER
+Jörg Faust	PER
+Deval	PER
+Jörg Faust	PER
+Micro	MISC
+Isabel Günther	PER
+Center for Development and Cooperation	ORG
+ETH Zurich	LOC
+Isabel Günther	PER
+Les	LOC
+Jörg Faust de Deval	PER
+OCDE	ORG
+Etats fragiles	MISC
+l’ONU	ORG
+Ces	LOC
+Isabel Günther	PER
+Theodora Peter	PER
+Berne	LOC

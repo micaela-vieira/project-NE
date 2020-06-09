@@ -1,0 +1,68 @@
+AAS	ORG
+Africa	LOC
+Africa Team	ORG
+African Academy of Sciences	ORG
+Afrika	LOC
+Alliance for Accelerating Excellence in Science	ORG
+Amerika	LOC
+Ayo Ajayi	PER
+Benjamin Apraku Gyampoh	PER
+Bill and Melinda Gates Foundation	ORG
+CHF	ORG
+CODEV	ORG
+Carbonnier	PER
+Departement für Internationale Entwicklung	ORG
+EPFL	ORG
+Europa	LOC
+Gates Foundation für Policy, Advocacy	ORG
+Genfer Graduate Institute of International and Development Studies	ORG
+Ghana	LOC
+Gilles Carbonnier	PER
+Global Grand Challenges	ORG
+Goetschel	PER
+Gyampoh	PER
+IDRC	ORG
+Indonesien	LOC
+International Development Research Centre	ORG
+KFPE	ORG
+Kameruns	LOC
+Kanada	LOC
+Kenia-Schilling	LOC
+Kenya Medical Research	ORG
+Kommission für Forschungspartnerschaften mit Entwicklungsländern	ORG
+Laurent Goetschel	PER
+Lefebvre	PER
+London	LOC
+Makurdi	LOC
+Nairobi	LOC
+News	ORG
+News Editor	ORG
+Ngozi Ifeoma Odiaka	PER
+Nigeria	LOC
+Ochieng	PER
+Ochieng’ Ogodo	PER
+Odiaka	ORG
+Ogodo	PER
+Peru	LOC
+Pélagie Lefebvre	PER
+Schweizer	MISC
+SciDev.Net	ORG
+Subsahara	LOC
+Sylvain Liechti	PER
+Südafrika	LOC
+Tiina Kontinen	PER
+Universität Basel	ORG
+Universität Oxford	ORG
+Universität für Landwirtschaft	ORG
+Wellcome Trust	ORG
+Wellcome Trust Research	ORG
+Wissenschaft trifft Entwicklung?	MISC
+Zentrum für Zusammenarbeit und Entwicklung	ORG
+afrikanische	MISC
+britisch-kenianischen	MISC
+britischen	MISC
+englischen	MISC
+englischsprachigen	MISC
+kenianischen	MISC
+kenianischen Kilifi	LOC
+schweizerischen Nationalen Forschungsschwerpunkts «Nord-Süd	ORG

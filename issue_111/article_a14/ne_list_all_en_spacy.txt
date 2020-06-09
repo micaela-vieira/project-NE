@@ -1,0 +1,110 @@
+Ochieng	PERSON
+South	LOC
+West	LOC
+Swiss	NORP
+Sylvain Liechti	PERSON
+Cameroon	GPE
+2015	DATE
+the Global South	LOC
+EssentialTech Programmes	ORG
+the Cooperation & Development Center CODEV	ORG
+GlobalDiagnostix	ORG
+GlobalNeonat	ORG
+today	DATE
+West	LOC
+South	LOC
+the past 15 years	DATE
+Gilles Carbonnier	PERSON
+the Graduate Institute of International and Development Studies	ORG
+Geneva	GPE
+Ghana	GPE
+Indonesia	GPE
+Peru	GPE
+South Africa	GPE
+the Global South	LOC
+Carbonnier	PERSON
+Carbonnier	PERSON
+Anglo-Saxon	ORG
+North	LOC
+South	LOC
+Laurent Goetschel	PERSON
+the University of Basel	ORG
+the Swiss Commission for Research Partnerships	ORG
+the Swiss Academy of Sciences	ORG
+One	CARDINAL
+first	ORDINAL
+many years	DATE
+Benjamin Apraku Gyampoh	PERSON
+Nairobi	GPE
+African Academy of Sciences	ORG
+AAS	ORG
+One	CARDINAL
+Ngozi Ifeoma Odiaka	PERSON
+the University of Agriculture	ORG
+Nigeria	GPE
+2015	DATE
+AAS	ORG
+the Alliance for Accelerating Excellence	ORG
+Science	GPE
+Africa	LOC
+UK	GPE
+Department for International Development	ORG
+the Wellcome Trust	ORG
+Bill	PERSON
+Melinda Gates Foundation	ORG
+Europe	LOC
+America	GPE
+Africa	LOC
+Goetschel	PERSON
+the Global North	LOC
+Northern	NORP
+Southern	NORP
+Gympoh	PERSON
+African	NORP
+the Global North	LOC
+South	LOC
+Goetschel	PERSON
+Melinda Gates Foundation	ORG
+Ayo Ajayi	PERSON
+the Africa Team	ORG
+the Gates Foundation	ORG
+Africa	LOC
+Foundation	ORG
+Roger	PERSON
+Pélagie Lefebvre	PERSON
+Canada	GPE
+International Development Research Centre	ORG
+One	CARDINAL
+the University of Agriculture	ORG
+Makurdi	GPE
+Odiaka	GPE
+Canada	GPE
+Joint	PRODUCT
+Lefebvre	ORG
+IDRC	PERSON
+two	CARDINAL
+one	CARDINAL
+Canada	GPE
+18 July 2014	DATE
+Kenya	GPE
+six	CARDINAL
+Kenyan	NORP
+30 million	CARDINAL
+Kenyan	NORP
+USD 341,000	CARDINAL
+UK	GPE
+the Kenya Medical Research Institute	ORG
+Wellcome Trust Research Programme	ORG
+Kenya	GPE
+Kilifi	GPE
+six	CARDINAL
+the University of Oxford	ORG
+Gilles Carbonnier	PERSON
+Tiina Kontinen	PERSON
+2014	DATE
+Academia Meets Development	WORK_OF_ART
+North-South	LOC
+the past decades	DATE
+African English	NORP
+London	GPE
+Nairobi	GPE

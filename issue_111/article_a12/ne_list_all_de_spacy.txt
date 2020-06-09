@@ -1,0 +1,62 @@
+Theodora Peter	PER
+Jedes Jahr	MISC
+Methodenmix	MISC
+Patientendossiers	LOC
+Medikamente	PER
+sozialen	MISC
+Washingtoner Center for Global Development	LOC
+When Will We Ever Learn	MISC
+Improving Lives	PER
+Washingtoner	LOC
+Esther Duflo	PER
+Poverty Action Lab J-PAL	ORG
+Massachusetts Institute of Technology	ORG
+Duflo	PER
+Indien	LOC
+OECD-Kriterien	MISC
+International Initiative for Impact Evaluation	ORG
+NGO	ORG
+total	LOC
+Paris	LOC
+OECD	ORG
+OECD	ORG
+Länderberichten	LOC
+Armuts-bekämpfung	MISC
+Skeptiker	PER
+Deutschland	LOC
+Deutsche Evaluierungsinstitut der Entwicklungs-zusammenarbeit	ORG
+Jörg Faust	PER
+methodische	MISC
+Faust	MISC
+Institut quantitative	ORG
+Eine aufgeklärte Debatte	MISC
+Kam	PER
+Faust	MISC
+Center for Development and Cooperation	ORG
+ETH Zürich	ORG
+Mikro-Ebene	MISC
+Makro- Ebene	LOC
+Steuerpolitiken	LOC
+Günther	PER
+Jörg Faust	PER
+OECD	ORG
+Themenfeldern	LOC
+Staaten	LOC
+Nachhaltigkeitsziele	PER
+Uno-Ziele der Agenda 2030	MISC
+Klimawandels	LOC
+Evaluierer	ORG
+Theodora Peter	PER
+der Schweiz	LOC
+Entwicklungshilfegelder	LOC
+Dollar pro Jahr	MISC
+Schweizerischen Nationalfonds	ORG
+Health Aid	MISC
+What does it	MISC
+Manfred Max Bergman	PER
+Kristen Jafflin	PER
+Universität Basel	ORG
+Kontext	PER
+Bergman	PER
+Jafflin	PER
+soziale	MISC

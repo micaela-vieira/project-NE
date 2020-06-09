@@ -1,0 +1,50 @@
+Académie suisse des sciences naturelles	ORG
+Afrique	LOC
+Amérique	LOC
+Amérique latine	ORG
+Asie	LOC
+CODEV	LOC
+Centre	LOC
+Centre coopération & développement	ORG
+Centre for Development and Environment	ORG
+Chaire UNESCO	ORG
+Commission pour le partenariat scientifique avec les pays en développement	MISC
+DDC	ORG
+Direction du développement et de la coopération	ORG
+EPF	ORG
+EPFL	ORG
+ETH Zurich	LOC
+Europe	LOC
+FNS	ORG
+Genève	ORG
+IGS	ORG
+IHEID	ORG
+Institut de hautes études internationales et du développement	ORG
+Institut tropical et de santé publique à Bâle	ORG
+International Graduate School North- South	ORG
+KFPE	MISC/ORG
+Le	LOC
+Les	LOC
+Mobile Health Systems Laboratory	ORG
+NADEL	ORG
+Nations Unies	ORG
+Nord-Sud	MISC
+Pascale Hofmeier	PER
+Programme r4d	MISC
+Près	MISC
+Pôle de recherche national Nord-Sud	MISC
+Réseaux	MISC
+SFIAR	ORG
+SNIS	ORG
+SUDAC	ORG
+Son	LOC
+Sud	LOC
+Suisse	LOC
+Swiss Forum for International Agricultural Research	ORG
+Swiss Network for International Studies	ORG
+Swiss Programme for Research on Global Issues for Development	ORG
+Swiss TPH	MISC/ORG
+Swissuniversities Development and Cooperation Network	ORG
+Title: Who’s Who	MISC
+Université de Berne	LOC
+Universités	LOC

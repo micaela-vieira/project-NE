@@ -1,0 +1,97 @@
+Author: Ochieng' Ogodo	MISC
+du Nord	LOC
+du Sud	LOC
+EPFL	ORG
+Sylvain Liechti	PER
+Cameroun	LOC
+Sud	LOC
+EssentialTech	MISC
+Centre coopération & développement	ORG
+CODEV	ORG
+EPFL	ORG
+X	MISC
+GlobalNeonat	MISC
+Occident	LOC
+Nord	LOC
+Sud	LOC
+Sud	LOC
+Gilles Carbonnier	PER
+Institut de hautes études internationales et du développement de Genève	ORG
+Ghana	LOC
+Indonésie	LOC
+Pérou	LOC
+Afrique du Sud	LOC
+Gilles Carbonnier	PER
+Gilles Carbonnier	PER
+Développer des partenariats de recherche équitables	MISC
+Nord	LOC
+Nord	LOC
+Sud	LOC
+Nord	LOC
+Nord	LOC
+Sud	LOC
+Laurent Goetschel	PER
+Université de Bâle	ORG
+Commission suisse	ORG
+KFPE	ORG
+Pôle de recherche national	LOC
+PNR	ORG
+Nord	LOC
+Sud	LOC
+Benjamin Apraku Gyampoh	PER
+Académie africaine des sciences de Nairobi	ORG
+AAS	ORG
+Ngozi Ifeoma Odiaka	PER
+Université agricole de Makurdi	LOC
+Nigeria	LOC
+AAS	MISC
+Alliance	MISC
+Afrique	LOC
+Département britannique	ORG
+Wellcome Trust	ORG
+Fondation Bill & Melinda Gates	ORG
+Benjamin Apraku Gyampoh	PER
+Afrique	LOC
+Laurent Goetschel	PER
+du Sud	LOC
+Nord	LOC
+Nord	LOC
+du Sud	LOC
+Benjamin Apraku Gyampoh	PER
+AAS	MISC
+Relations 	MISC
+Nord	LOC
+Sud	LOC
+du Sud	LOC
+du Nord	LOC
+Benjamin Apraku Gyampoh	PER
+Laurent Goetschel	PER
+Fondation Bill & Melinda Gates	MISC
+Ayo Ajayi	PER
+Programme Afrique	LOC
+Roger	PER
+Benjamin Apraku Gyampoh	PER
+AAS	PER
+Canada	LOC
+Centre	LOC
+CRDI	ORG
+Pélagie Lefebvre	PER
+CRDI	ORG
+CRDI	ORG
+Pélagie Lefebvre	PER
+CRDI	ORG
+Canada	LOC
+Cour industrielle du Kenya	LOC
+Institut de recherche médicale	ORG
+Kenya	LOC
+Wellcome Trust	ORG
+Université d’Oxford	ORG
+Gilles Carbonnier	PER
+Tiina Kontinen	PER
+North	MISC
+Academia Academia Meets Development	ORG
+Nairobi	LOC
+Ochieng’ Ogodo	LOC
+SciDev	MISC
+Net	MISC
+Afrique subsaharienne	LOC

@@ -1,0 +1,35 @@
+Bergman	PER
+Best Practice”- Denken	MISC
+Center for Development and Cooperation	ORG
+Deutsche Evaluierungsinstitut der Entwicklungs-zusammenarbeit	ORG
+Deutschland	LOC
+Deval	ORG/PER
+Duflo	PER
+ETH Zürich	ORG
+Esther Duflo	PER
+Faust	PER
+Günther	PER
+Health Aid	ORG
+Improving Lives Through Impact Evaluation	MISC
+Indien	LOC
+International Initiative for Impact Evaluation	ORG
+Isabel Günther	PER
+Jafflin	PER
+Jörg Faust	PER
+Kristen Jafflin	PER
+Manfred Max Bergman	PER
+Massachusetts Institute of Technology	ORG
+NGO	ORG
+OECD	ORG
+OECD-Kriterien	MISC
+Paris	LOC
+Poverty Action Lab J-PAL	ORG
+Schweiz	LOC
+Schweizerischen Nationalfonds	ORG
+Theodora Peter	PER
+Universität Basel	ORG
+Washingtoner Center for Global Development	ORG
+Washingtoner Report	MISC
+Weltgemeinschaft 2015	ORG
+What does it do and how can countries make it more effective	MISC
+When Will We Ever Learn	MISC

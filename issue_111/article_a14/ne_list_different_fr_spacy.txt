@@ -1,0 +1,59 @@
+AAS	MISC/ORG/PER
+Academia Academia Meets Development	ORG
+Académie africaine des sciences de Nairobi	ORG
+Afrique	LOC
+Afrique du Sud	LOC
+Afrique subsaharienne	LOC
+Alliance	MISC
+Author: Ochieng' Ogodo	MISC
+Ayo Ajayi	PER
+Benjamin Apraku Gyampoh	PER
+CODEV	ORG
+CRDI	ORG
+Cameroun	LOC
+Canada	LOC
+Centre	LOC
+Centre coopération & développement	ORG
+Commission suisse	ORG
+Cour industrielle du Kenya	LOC
+Département britannique	ORG
+Développer des partenariats de recherche équitables	MISC
+EPFL	ORG
+EssentialTech	MISC
+Fondation Bill & Melinda Gates	MISC/ORG
+Ghana	LOC
+Gilles Carbonnier	PER
+GlobalNeonat	MISC
+Indonésie	LOC
+Institut de hautes études internationales et du développement de Genève	ORG
+Institut de recherche médicale	ORG
+KFPE	ORG
+Kenya	LOC
+Laurent Goetschel	PER
+Laurent Goetschel	PER
+Nairobi	LOC
+Net	MISC
+Ngozi Ifeoma Odiaka	PER
+Nigeria	LOC
+Nord	LOC
+North	MISC
+Occident	LOC
+Ochieng’ Ogodo	LOC
+PNR	ORG
+Programme Afrique	LOC
+Pélagie Lefebvre	PER
+Pérou	LOC
+Pôle de recherche national	LOC
+Relations 	MISC
+Roger	PER
+SciDev	MISC
+Sud	LOC
+Sylvain Liechti	PER
+Tiina Kontinen	PER
+Université agricole de Makurdi	LOC
+Université de Bâle	ORG
+Université d’Oxford	ORG
+Wellcome Trust	ORG
+X	MISC
+du Nord	LOC
+du Sud	LOC

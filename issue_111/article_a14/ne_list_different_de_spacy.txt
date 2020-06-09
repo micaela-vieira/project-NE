@@ -1,0 +1,111 @@
+AAS	ORG
+Advocacy	ORG
+Africa	LOC
+Africa Team	ORG
+African Academy of Sciences	ORG
+Afrika	LOC
+Alliance for Accelerating Excellence	ORG
+Amerika	LOC
+Arm	LOC
+Ayo Ajayi	PER
+Beförderungen	LOC
+Benjamin Apraku Gyampoh	PER
+Beteiligten	LOC
+Bill and Melinda Gates Foundation	MISC
+CHF	MISC
+CODEV	ORG
+Carbonnier	MISC/PER
+Departement für Internationale Entwicklung	ORG
+Der Geber	MISC
+EADI-Strategiepapier 2014	MISC
+EPFL	ORG
+EPFL-EssentialTech-Programms	MISC
+Empfängern	LOC
+Ergebnissen	LOC
+Europa	LOC
+Faire Forschungspartnerschaften	PER
+Forschende	LOC
+Forschenden	LOC/ORG
+Forschung	MISC
+Forschungsdaten	MISC
+Forschungspartner	PER
+Forschungspartnerschaften	PER
+Forschungsprojekten	ORG
+Förderbeiträgen	LOC
+Gates Foundation für Policy	ORG
+Geber	LOC/PER
+Geber-Empfänger-Beziehungen	MISC
+Gebern	LOC
+Genfer Graduate Institute of International and Development Studies	ORG
+Ghana	LOC
+Gilles Carbonnier	PER
+GlobalDiagnostiX	MISC
+GlobalNeoNat	MISC
+Goetschel	PER
+Gyampoh	PER
+IDRC	MISC/ORG
+IDRC-Beiträge	MISC
+Ideal	LOC
+Indonesien	LOC
+Institutionen	LOC
+International Development Research Centre	ORG
+KFPE	ORG
+Kanada	LOC
+Kenya Medical Research Institute Wellcome Trust Research	ORG
+Klimawandel	PER
+Kommission für Forschungspartnerschaften mit Entwicklungsländern	ORG
+Lange Jahre	MISC
+Laurent Goetschel	PER
+Lefebvre	PER
+London	LOC
+Makurdi	LOC
+Medizintechnik	LOC
+Nairobi	LOC
+Natürlich	LOC
+News	LOC
+News Editor	ORG
+Ngozi Ifeoma Odiaka	PER
+Nigeria	LOC
+Ochieng' Ogodo	MISC
+Ochieng’ Ogodo	PER
+Odiaka	MISC
+Open Access	PER
+Partner	LOC
+Partnerprojekten	LOC
+Partnerschaftsnetzes Global Grand Challenges	LOC
+Peer-Review-Journals	LOC
+Peer-Review-Verfahren	MISC
+Peru	LOC
+Programm-Manager	PER
+Pélagie Lefebvre	PER
+Regierungskontakte	LOC
+Reich	LOC
+Ressourcen	PER
+Richtlinien	LOC
+Schlüsselfragen	LOC
+Schweizer	MISC
+SciDev	ORG
+Science	LOC
+Spitälern Kameruns	ORG
+Stiftungsgelder	PER
+Subsahara-Afrika	LOC
+Sylvain Liechti	PER
+Südafrika	LOC
+Südens	LOC
+Tiina Kontinen	PER
+Universität Basel	ORG
+Universität Oxford	ORG
+Universität für Landwirtschaft	ORG
+Wellcome Trust und der Bill and Melinda Gates Foundation	MISC
+Wem	LOC
+Wissenschaftsteams	LOC
+Zeit	PER
+Zentrum der Debatte	LOC
+Zentrum für Zusammenarbeit und Entwicklung	ORG
+afrikanische	MISC
+britischen	MISC
+englischen	MISC
+kenianischen	MISC
+kenianischen Arbeitsgerichts	LOC
+lokalem Wissen	PER
+schweizerischen	MISC

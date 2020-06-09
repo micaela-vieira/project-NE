@@ -1,0 +1,86 @@
+18 July 2014	DATE
+2014	DATE
+2015	DATE
+30 million	CARDINAL
+AAS	ORG
+Academia Meets Development	WORK_OF_ART
+Africa	LOC
+African	NORP
+African Academy of Sciences	ORG
+African English	NORP
+America	GPE
+Anglo-Saxon	ORG
+Ayo Ajayi	PERSON
+Benjamin Apraku Gyampoh	PERSON
+Bill	PERSON
+Cameroon	GPE
+Canada	GPE
+Carbonnier	PERSON
+Department for International Development	ORG
+EssentialTech Programmes	ORG
+Europe	LOC
+Foundation	ORG
+Geneva	GPE
+Ghana	GPE
+Gilles Carbonnier	PERSON
+GlobalDiagnostix	ORG
+GlobalNeonat	ORG
+Goetschel	PERSON
+Gympoh	PERSON
+IDRC	PERSON
+Indonesia	GPE
+International Development Research Centre	ORG
+Joint	PRODUCT
+Kenya	GPE
+Kenyan	NORP
+Kilifi	GPE
+Laurent Goetschel	PERSON
+Lefebvre	ORG
+London	GPE
+Makurdi	GPE
+Melinda Gates Foundation	ORG
+Nairobi	GPE
+Ngozi Ifeoma Odiaka	PERSON
+Nigeria	GPE
+North	LOC
+North-South	LOC
+Northern	NORP
+Ochieng	PERSON
+Odiaka	GPE
+One	CARDINAL
+Peru	GPE
+Pélagie Lefebvre	PERSON
+Roger	PERSON
+Science	GPE
+South	LOC
+South Africa	GPE
+Southern	NORP
+Swiss	NORP
+Sylvain Liechti	PERSON
+Tiina Kontinen	PERSON
+UK	GPE
+USD 341,000	CARDINAL
+Wellcome Trust Research Programme	ORG
+West	LOC
+first	ORDINAL
+many years	DATE
+one	CARDINAL
+six	CARDINAL
+the Africa Team	ORG
+the Alliance for Accelerating Excellence	ORG
+the Cooperation & Development Center CODEV	ORG
+the Gates Foundation	ORG
+the Global North	LOC
+the Global South	LOC
+the Graduate Institute of International and Development Studies	ORG
+the Kenya Medical Research Institute	ORG
+the Swiss Academy of Sciences	ORG
+the Swiss Commission for Research Partnerships	ORG
+the University of Agriculture	ORG
+the University of Basel	ORG
+the University of Oxford	ORG
+the Wellcome Trust	ORG
+the past 15 years	DATE
+the past decades	DATE
+today	DATE
+two	CARDINAL

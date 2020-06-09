@@ -1,0 +1,66 @@
+Theodora Peter	PERSON
+hundreds of billions of dollars	MONEY
+2006	DATE
+the Washington Center for Global Development	ORG
+Esther Duflo	PERSON
+one	CARDINAL
+the Washington Report	ORG
+the Poverty Action Lab J-PAL	ORG
+2003	DATE
+the Massachusetts Institute of Technology	ORG
+J-PAL	ORG
+Duflo	PERSON
+India	GPE
+One	CARDINAL
+2008	DATE
+the independent International Initiative for Impact Evaluation	LAW
+NGO	ORG
+more than 200	CARDINAL
+50	CARDINAL
+USD 85 million	MONEY
+OECD	ORG
+the last decade	DATE
+The Declaration of Paris	LAW
+2005	DATE
+The OECD Development Assistance Committee	ORG
+five	CARDINAL
+OECD	ORG
+Germany	GPE
+2012	DATE
+the German Institute for Development Evaluation	ORG
+DEval	ORG
+DEval	PERSON
+Jörg Faust	PERSON
+Faust	PERSON
+Institute	ORG
+Faust	PERSON
+A few years ago	DATE
+today	DATE
+Faust	PERSON
+sabel Günther	PERSON
+the Center for Development and Cooperation	ORG
+ETH Zurich	ORG
+one	CARDINAL
+Günther	PERSON
+Jörg Faust	PERSON
+DEval	GPE
+more than one to two percent	PERCENT
+OECD	ORG
+Jörg Faust	PERSON
+DEval	GPE
+more than one to two percent	PERCENT
+OECD	ORG
+Günther	PERSON
+Faust	PERSON
+UN	ORG
+2030	DATE
+Agenda for Sustainable Development	ORG
+Millennium Development Goals	ORG
+Agenda	ORG
+UN	ORG
+2015	DATE
+seventeen	CARDINAL
+169	CARDINAL
+Isabel Günther	PERSON
+Theodora	PERSON
+Peter	PERSON

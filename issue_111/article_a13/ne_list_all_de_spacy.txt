@@ -1,0 +1,56 @@
+Marcel Hänggi	PER
+Marcel Tanner	PER
+Valérie Chételat	PER
+Marcel Tanners Bleistifthalter	PER
+Tansania	LOC
+Theoretisch	LOC
+Swiss Tropical and Public Health Institute	MISC
+Swiss TPH	MISC
+Basel	LOC
+Afrika	LOC
+Asien	LOC
+MARCEL TANNER	MISC
+Rudolf Geigy	PER
+Tansania	LOC
+Unser Ansatz	PER
+Afrika	LOC
+Kamerun	LOC
+Afrika	LOC
+Public Health	MISC
+Partnerschaften Grundlagen	MISC
+Lernens	LOC
+Afrika	LOC
+Lützeltal	LOC
+Umständen	MISC
+Geldgebern	LOC
+Afrika	LOC
+Lützeltal	LOC
+Feel-me-touch-me-Workshops	MISC
+Diesel	PER
+Busch Diesel	LOC
+Schweiz	LOC
+Schweizer	MISC
+Afrika	LOC
+Grossen!	ORG
+afrikanische	MISC
+Tschad	LOC
+Problem	LOC
+Impact	LOC
+H-Index-Selbstglorifizierungen	MISC
+Kulturkreis	MISC
+Absolut	LOC
+Impact Factors …	ORG
+Codes 	PER
+langfristiges	PER
+Consultants	LOC
+Schweiz	LOC
+Jahr 15 Franken	MISC
+Franken pro Kopf	ORG
+comparing and sharing	ORG
+Ja	PER
+Parlamentarier	LOC
+Tansania	LOC
+BDP	ORG
+Vorgehens	LOC
+Marcel Hänggi	PER
+Zürich	LOC

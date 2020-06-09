@@ -1,0 +1,24 @@
+Académie suisse des sciences naturelles	ORG
+Afrique	LOC
+Amérique	LOC
+Asie	LOC
+Bâle	LOC
+Cameroun	LOC
+Jura	LOC
+Land Rover	MISC
+Le Message relatif	MISC
+Lucelle	LOC
+MARCEL TANNER	MISC
+Marcel Hänggi	PER
+Marcel Tanner	PER
+No roots	ORG
+Occident	LOC
+Rudolf Geigy	PER
+Sud	LOC
+Suisse	LOC
+Suisses	LOC
+Swiss Tropical and Public Health Institute	ORG
+Tanzanie	LOC
+Tchad	LOC
+Valérie Chételat	PER
+Zurich	LOC

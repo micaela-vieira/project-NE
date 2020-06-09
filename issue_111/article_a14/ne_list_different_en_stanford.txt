@@ -1,0 +1,92 @@
+18 July 2014	DATE
+2014	DATE
+2015	DATE
+30 million Kenyan shillings	MONEY
+AAS	ORG
+Academia Meets Development	WORK_OF_ART
+Africa	LOC
+African	NORP
+African Academy of Sciences	ORG
+America	GPE
+Anglo-Saxon	ORG
+Ayo Ajayi	PERSON
+Benjamin Apraku Gyampoh	PERSON
+Cameroon	GPE
+Canada	GPE
+Carbonnier	PERSON
+Department for International Development	ORG
+Developing Countries	ORG
+EPFL	ORG
+Europe	LOC
+Foundation	ORG
+Geneva	GPE
+Ghana	GPE
+Gilles Carbonnier	PERSON
+Global Grand Challenges	ORG
+GlobalDiagnostix	ORG
+GlobalNeonat	ORG
+Goetschel	PERSON
+Gyampoh	PERSON
+Gympoh	PERSON
+IDRC	ORG
+Indonesia	GPE
+International Development Research Centre	ORG
+Kenya	GPE
+Kenyan	NORP
+Kilifi	GPE
+Laurent Goetschel	PERSON
+Lefebvre	PERSON
+London	GPE
+Makurdi	GPE
+Nairobi	GPE
+Ngozi Ifeoma Odiaka	PERSON
+Nigeria	GPE
+North	LOC
+North-South	LOC
+Ochieng	PERSON
+Odiaka	PERSON
+Ogodo	PERSON
+One	CARDINAL
+Peru	GPE
+Programme Manager	ORG
+Pélagie Lefebvre	PERSON
+Roger	PERSON
+SciDev.net	ORG
+South	LOC
+South Africa	GPE
+Southern	NORP
+Sub-Saharan African English Edition Regional Coordinator	ORG
+Swiss	NORP
+Sylvain Liechti	PERSON
+Tech Programmes	ORG
+The Bill and Melinda Gates Foundation	ORG
+Tiina Kontinen	PERSON
+UK	GPE
+USD 341,000	MONEY
+Wellcome Trust Research Programme	ORG
+West	LOC
+X-ray	PRODUCT
+first	ORDINAL
+many years	DATE
+one	CARDINAL
+six	CARDINAL
+the Africa Team	ORG
+the Alliance for Accelerating Excellence in Science in Africa	ORG
+the Bill and Melinda Gates Foundation	ORG
+the Cooperation & Development Center CODEV	ORG
+the Gates Foundation	ORG
+the Global North	LOC/ORG
+the Global South	LOC
+the Graduate Institute of International and Development Studies	ORG
+the Kenya Medical Research Institute	ORG
+the Swiss Academy of Sciences	ORG
+the Swiss Commission for Research Partnerships	ORG
+the University of Agriculture	ORG
+the University of Basel	ORG
+the University of Oxford	ORG
+the Wellcome Trust	ORG
+the West ca	LOC
+the past 15 years	DATE
+the past decades	DATE
+today	DATE
+two	CARDINAL

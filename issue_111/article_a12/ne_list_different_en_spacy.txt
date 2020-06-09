@@ -1,0 +1,46 @@
+169	CARDINAL
+2003	DATE
+2005	DATE
+2006	DATE
+2008	DATE
+2012	DATE
+2015	DATE
+2030	CARDINAL
+3ie	ORDINAL
+50	CARDINAL
+A few years ago	DATE
+Agenda for Sustainable Development	WORK_OF_ART
+DEval	PERSON
+ETH Zurich	ORG
+Esther Duflo	PERSON
+Every year	DATE
+Faust	DATE/ORG
+Germany	GPE
+Günther	PERSON
+India	GPE
+Institute	ORG
+Isabel Günther	PERSON
+Jörg Faust	PERSON
+OECD	ORG
+One	CARDINAL
+Paris	GPE
+The OECD Development Assistance Committee	ORG
+Theodora Peter	PERSON
+UN	ORG
+When Will We Ever Learn	WORK_OF_ART
+five	CARDINAL
+hundreds of billions of dollars	MONEY
+microloans	NORP
+more than 200	CARDINAL
+one	CARDINAL
+one to two percent	PERCENT
+sabel Günther	PERSON
+seventeen	CARDINAL
+the Center for Development and Cooperation	ORG
+the German Institute for Development Evaluation	ORG
+the Massachusetts Institute of Technology	ORG
+the Poverty Action Lab J-PAL	LAW
+the Washington Center for Global Development	ORG
+the Washington Report	ORG
+the last decade	DATE
+today	DATE

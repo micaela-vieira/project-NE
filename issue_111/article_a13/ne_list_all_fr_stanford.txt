@@ -1,0 +1,45 @@
+Marcel Hänggi	PER
+Sud	LOC
+Marcel Tanner	PER
+Valérie Chételat	PER
+Afrique	LOC
+Asie	LOC
+Amérique	LOC
+Land Rover	MISC
+Tanzanie	LOC
+Marcel Tanner	PER
+Swiss Tropical and Public Health Institute	ORG
+Bâle	LOC
+Académie suisse des sciences naturelles	ORG
+MARCEL TANNER	PER
+Rudolf Geigy	PER
+Tanzanie	LOC
+Notre	LOC
+Afrique	LOC
+Cameroun	LOC
+Afrique	LOC
+Les	LOC
+Afrique	LOC
+Lucelle	LOC
+Jura	LOC
+Si	MISC
+l’Afrique	LOC
+Garder la joie	MISC
+Suisse	LOC
+Si	MISC
+Suisses	LOC
+l’Afrique	LOC
+Tchad	LOC
+Si	MISC
+Occident	LOC
+Nos	LOC
+Le	LOC
+Suisse	LOC
+Les	LOC
+Message relatif à l’encouragement de la formation, de la recherche et de l’innovation	ORG
+Les	LOC
+Lorsque	LOC
+Tanzanie	LOC
+Même	LOC
+Marcel Hänggi	PER
+Zurich	LOC

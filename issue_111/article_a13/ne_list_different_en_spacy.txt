@@ -1,0 +1,39 @@
+15	CARDINAL
+1944	DATE
+1979	DATE
+2008-2011	DATE
+Africa	LOC
+African	NORP
+April 1982	DATE
+Asia	LOC
+Basel	GPE
+Cameroon	GPE
+Chad	GPE
+Federal Message on Education	ORG
+Greens	NORP
+Institute	ORG
+Latin America	LOC
+Lützeltal	ORG
+Marcel Hänggi	PERSON
+Marcel Tanner	PERSON
+Public Health Institute	ORG
+Research and Innovation	ORG
+Rudolf Geigy	PERSON
+Swiss	NORP
+Switzerland	GPE
+Tanner	PERSON
+Tanzania	GPE
+Today	DATE
+Tropical Institute	ORG
+Valérie Chételat	ORG
+Zurich	GPE
+a third	CARDINAL
+bush	PERSON
+eight years	DATE
+first	ORDINAL
+million	CARDINAL
+more than 35 years	DATE
+one	CARDINAL
+the Conservative Democratic Party	ORG
+the Global South	LOC
+the beginning of this year	DATE

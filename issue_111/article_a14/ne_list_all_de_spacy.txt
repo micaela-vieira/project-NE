@@ -1,0 +1,129 @@
+Ochieng' Ogodo	MISC
+Medizintechnik	LOC
+Schweizer	MISC
+Sylvain Liechti	PER
+Spitälern Kameruns	ORG
+EPFL	ORG
+EPFL-EssentialTech-Programms	MISC
+Zentrum für Zusammenarbeit und Entwicklung	ORG
+CODEV	ORG
+GlobalDiagnostiX	MISC
+GlobalNeoNat	MISC
+Forschung	MISC
+Klimawandel	PER
+Institutionen	LOC
+Gilles Carbonnier	PER
+Genfer Graduate Institute of International and Development Studies	ORG
+Ghana	LOC
+Indonesien	LOC
+Peru	LOC
+Südafrika	LOC
+Südens	LOC
+Reich	LOC
+Arm	LOC
+Gebern	LOC
+Empfängern	LOC
+Carbonnier	MISC
+Schlüsselfragen	LOC
+Faire Forschungspartnerschaften	PER
+Zeit	PER
+Ressourcen	PER
+Zentrum der Debatte	LOC
+Partner	LOC
+lokalem Wissen	PER
+Carbonnier	PER
+Laurent Goetschel	PER
+Universität Basel	ORG
+schweizerischen	MISC
+Kommission für Forschungspartnerschaften mit Entwicklungsländern	ORG
+KFPE	ORG
+Forschungspartnerschaften	PER
+Forschungsprojekten	ORG
+Lange Jahre	MISC
+Benjamin Apraku Gyampoh	PER
+Programm-Manager	PER
+African Academy of Sciences	ORG
+AAS	ORG
+Nairobi	LOC
+Geber-Empfänger-Beziehungen	MISC
+Geber	PER
+Forschungspartner	PER
+Gyampoh	PER
+Ngozi Ifeoma Odiaka	PER
+Universität für Landwirtschaft	ORG
+Makurdi	LOC
+Nigeria	LOC
+AAS	ORG
+Alliance for Accelerating Excellence	ORG
+Science	LOC
+Africa	LOC
+britischen	MISC
+Departement für Internationale Entwicklung	ORG
+Wellcome Trust und der Bill and Melinda Gates Foundation	MISC
+Gyampoh	PER
+Europa	LOC
+Amerika	LOC
+Afrika	LOC
+Goetschel	PER
+Ideal	LOC
+Forschenden	LOC
+Richtlinien	LOC
+Partnerprojekten	LOC
+Gyampoh	PER
+afrikanische	MISC
+Gyampoh	PER
+Geber	LOC
+Forschende	LOC
+Wissenschaftsteams	LOC
+Forschende	LOC
+Beteiligten	LOC
+Der Geber	MISC
+Gyampoh	PER
+Open Access	PER
+Ergebnissen	LOC
+Wem	LOC
+Bill and Melinda Gates Foundation	MISC
+Partnerschaftsnetzes Global Grand Challenges	LOC
+Stiftungsgelder	PER
+Ayo Ajayi	PER
+Africa Team	ORG
+Gates Foundation für Policy	ORG
+Advocacy	ORG
+Regierungskontakte	LOC
+Peer-Review-Verfahren	MISC
+Gyampoh	PER
+Natürlich	LOC
+Pélagie Lefebvre	PER
+International Development Research Centre	ORG
+IDRC	ORG
+Kanada	LOC
+Forschungsdaten	MISC
+IDRC	MISC
+Odiaka	MISC
+Peer-Review-Journals	LOC
+IDRC-Beiträge	MISC
+Kanada	LOC
+Lefebvre	PER
+IDRC	MISC
+Kanada	LOC
+Forschenden	ORG
+Forschenden	ORG
+kenianischen Arbeitsgerichts	LOC
+kenianischen	MISC
+CHF	MISC
+Kenya Medical Research Institute Wellcome Trust Research	ORG
+kenianischen	MISC
+Beförderungen	LOC
+Förderbeiträgen	LOC
+Universität Oxford	ORG
+Gilles Carbonnier	PER
+Tiina Kontinen	PER
+EADI-Strategiepapier 2014	MISC
+Ochieng’ Ogodo	PER
+englischen	MISC
+Subsahara-Afrika	LOC
+News Editor	ORG
+SciDev	ORG
+London	LOC
+News	LOC
+Nairobi	LOC

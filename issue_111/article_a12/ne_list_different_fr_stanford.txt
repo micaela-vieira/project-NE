@@ -1,0 +1,33 @@
+Abstract: Lancer	MISC
+Allemagne	LOC
+Aucun	LOC
+Berne	LOC
+Cameroun	LOC
+Center for Development and Cooperation	ORG
+Center for Global Development	ORG
+Ces	LOC
+Comité d’aide au développement	ORG
+Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit	ORG
+Deval	LOC/PER
+Déclaration de Paris	MISC
+ETH Zurich	LOC
+Esther Duflo	PER
+Etats fragiles	MISC
+IT	MISC
+Improving Lives Through Impact Evaluation	MISC
+Inde	LOC
+International Initiative for Impact Evaluation	MISC
+Isabel Günther	PER
+Jörg Faust	PER
+Jörg Faust de Deval	PER
+Les	LOC
+MIT	ORG
+Micro	MISC
+OCDE	ORG
+ONG	ORG
+Poverty Action Lab	ORG
+Ses	LOC
+Theodora Peter	PER
+Washington	LOC
+When Will We Ever Learn	MISC
+l’ONU	ORG

@@ -1,0 +1,65 @@
+Schweizer	MISC
+Pascale Hofmeier	PER
+Entwicklungs-forschung	MISC
+Deza	LOC
+Deza	LOC
+Swiss Programme for Research on Global Issues for Development	ORG
+Deza	ORG
+Schweizerische Nationalfonds	ORG
+SNF	ORG
+Afrika	LOC
+Asien	LOC
+Franken	LOC
+Forschungspartner	PER
+Swiss TPH	MISC
+Schweizerische Tropen- und Public- Health-Institut	ORG
+Basel	LOC
+Swiss TPH	ORG
+Public Health	MISC
+Swiss TPH	MISC
+Institut regelmässig gegen Consulting-Firmen	ORG
+Swiss TPH	MISC
+Schweizer	MISC
+Hochschulinstitut für Internationale Studien und Entwicklung	ORG
+IHEID	ORG
+Genf	LOC
+Bereichen Peacebuilding	ORG
+Auftrag der Vereinten Nationen	MISC
+Interdisziplinäre Zentrum für Nachhaltige Entwicklung und Umwelt	ORG
+International Graduate School North-South	ORG
+IGS	ORG
+Universität Bern	ORG
+Asien	LOC
+Afrika	LOC
+Lateinamerika	LOC
+Europa	LOC
+IGS	ORG
+ETHs	MISC
+Cooperation and Development Center	ORG
+CODEV	ORG
+EPFL	ORG
+Unesco Chair	ORG
+Technologies for Development	ORG
+Südens	LOC
+Massive Open Online Course	MISC
+MOOCs	MISC
+ETH	ORG
+Zürich	LOC
+NADEL	ORG
+Zentrum für Entwicklung und Zusammenarbeit	ORG
+KFPE	MISC
+Kommission für Forschungspartnerschaften mit Entwicklungsländern	ORG
+KFPE	ORG
+KFPE	ORG
+Deza	ORG
+SNF	ORG
+Akademie der Naturwissenschaften Schweiz	ORG
+SCNAT	ORG
+Forschungszusammenarbeit	MISC
+SFIAR	ORG
+Swiss Forum for International Agricultural Research	ORG
+SNIS	ORG
+Swiss Network for International Studies	ORG
+SUDAC	ORG
+Swissuniversities Development and Cooperation Network	ORG
+NGOs	ORG

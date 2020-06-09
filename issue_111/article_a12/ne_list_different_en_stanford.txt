@@ -1,0 +1,51 @@
+169	CARDINAL
+2003	DATE
+2005	DATE
+2006	DATE
+2008	DATE
+2012	DATE
+2015	DATE
+2030	DATE
+50	CARDINAL
+A few years ago	DATE
+Agenda	ORG
+Agenda for Sustainable Development	ORG
+DEval	GPE/ORG/PERSON
+Duflo	PERSON
+ETH Zurich	ORG
+Esther Duflo	PERSON
+Faust	PERSON
+Germany	GPE
+Günther	PERSON
+India	GPE
+Institute	ORG
+Isabel Günther	PERSON
+J-PAL	ORG
+Jörg Faust	PERSON
+Millennium Development Goals	ORG
+NGO	ORG
+OECD	ORG
+One	CARDINAL
+Peter	PERSON
+The Declaration of Paris	LAW
+The OECD Development Assistance Committee	ORG
+Theodora	PERSON
+Theodora Peter	PERSON
+UN	ORG
+USD 85 million	MONEY
+five	CARDINAL
+hundreds of billions of dollars	MONEY
+more than 200	CARDINAL
+more than one to two percent	PERCENT
+one	CARDINAL
+sabel Günther	PERSON
+seventeen	CARDINAL
+the Center for Development and Cooperation	ORG
+the German Institute for Development Evaluation	ORG
+the Massachusetts Institute of Technology	ORG
+the Poverty Action Lab J-PAL	ORG
+the Washington Center for Global Development	ORG
+the Washington Report	ORG
+the independent International Initiative for Impact Evaluation	LAW
+the last decade	DATE
+today	DATE

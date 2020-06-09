@@ -1,0 +1,43 @@
+Theodora Peter	PER
+Washingtoner Center for Global Development	ORG
+When Will We Ever Learn	MISC
+Improving Lives Through Impact Evaluation	MISC
+Washingtoner Report	MISC
+Esther Duflo	PER
+Poverty Action Lab J-PAL	ORG
+Massachusetts Institute of Technology	ORG
+Duflo	PER
+Indien	LOC
+OECD-Kriterien	MISC
+International Initiative for Impact Evaluation	ORG
+NGO	ORG
+Paris	LOC
+OECD	ORG
+OECD	ORG
+Deutschland	LOC
+Deutsche Evaluierungsinstitut der Entwicklungs-zusammenarbeit	ORG
+Deval	ORG
+Deval	PER
+Jörg Faust	PER
+Faust	PER
+Faust	PER
+Isabel Günther	PER
+Center for Development and Cooperation	ORG
+ETH Zürich	ORG
+Günther	PER
+Deval	ORG
+Jörg Faust	PER
+OECD	ORG
+Weltgemeinschaft 2015	ORG
+Isabel Günther	PER
+Theodora Peter	PER
+Schweiz	LOC
+Schweizerischen Nationalfonds	ORG
+Health Aid	ORG
+What does it do and how can countries make it more effective	MISC
+Manfred Max Bergman	PER
+Kristen Jafflin	PER
+Universität Basel	ORG
+Bergman	PER
+Jafflin	PER
+Best Practice”- Denken	MISC

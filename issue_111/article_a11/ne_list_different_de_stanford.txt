@@ -1,0 +1,46 @@
+Afrika	LOC
+Akademie der Naturwissenschaften Schweiz	ORG
+Am Cooperation and Development Center	ORG
+Asien	LOC
+Basel	LOC
+CODEV	ORG
+Deza	ORG
+Direktion für Entwicklung und Zusammenarbeit	ORG
+EPFL	ORG
+ETH Zürich	ORG
+Europa	LOC
+Franken	MISC
+Genf	LOC
+Hochschulinstitut für Internationale Studien und Entwicklung	ORG
+IGS	ORG
+IHEID	ORG
+Interdisziplinäre Zentrum für Nachhaltige Entwicklung und Umwelt	ORG
+International Graduate School North-South	ORG
+KFPE	ORG
+Lateinamerika	LOC
+Ländern	MISC
+MOOCs	ORG
+Massive Open Online Course	ORG
+Mobile Health Systems Laboratory	ORG
+NADEL	LOC
+Nationalen Forschungsschwerpunkt «Nord-Süd�	MISC
+Pascale Hofmeier	PER
+SCNAT	ORG
+SFIAR	ORG
+SNF	ORG
+SNIS	ORG
+SUDAC	ORG
+Schweiz	LOC
+Schweizer	MISC
+Schweizerische Nationalfonds	ORG
+Schweizerische Tropen- und Public- Health-Institut	ORG
+Swiss Forum for International Agricultural Research	ORG
+Swiss Network for International Studies	ORG
+Swiss Programme for Research on Global Issues for Development	ORG
+Swiss TPH	ORG
+Swissuniversities Development and Cooperation Network	ORG
+Technologies for Development	ORG
+Unesco Chair	ORG
+Universität Bern	ORG
+Vereinten Nationen	ORG
+öffentlichen	MISC

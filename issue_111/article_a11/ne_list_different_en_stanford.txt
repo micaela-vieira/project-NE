@@ -1,0 +1,64 @@
+100	CARDINAL
+1944	DATE
+2007	DATE
+2008	DATE
+2015	DATE
+225	CARDINAL
+41	CARDINAL
+42	CARDINAL
+50 million	CARDINAL
+700	CARDINAL
+Africa	LOC
+Asia	LOC
+Basel	GPE
+Between 2012 and 2022	DATE
+CHF 76.7 million	MONEY
+CODEV	ORG
+Chair in Technologies for Development	ORG
+EPFL	ORG
+ETH Zurich	ORG
+Europe	LOC
+Federal Institutes of Technology	ORG
+Geneva	GPE
+IGS	ORG
+IHEID	ORG
+Just under half	CARDINAL
+KFPE	ORG
+KFPE (Commission	ORG
+Latin America	LOC
+NADEL	ORG
+National Centre of Competence in Research (NCCR	ORG
+North-South	LOC
+Pascale Hofmeier	PERSON
+SCNAT	ORG
+SDC	ORG
+SFIAR	ORG
+SNIS	ORG
+SNSF	ORG
+SUDAC	ORG
+Swiss	NORP
+Swiss TPH)	ORG
+Switzerland	GPE
+TPH	ORG
+The Swiss Tropical and Public Health Institute	ORG
+UNESCO	ORG
+almost CHF 98 million	MONEY
+annual	DATE
+more than 60	CARDINAL
+some CHF 51.3 million	MONEY
+the Center for Development and Cooperation	ORG
+the Center for Development and Environment	ORG
+the Commission for Research Partnerships with Developing Countries	ORG
+the Cooperation and Development Center	ORG
+the Development and Cooperation Network of swissuniversities	ORG
+the Global South	LOC
+the Graduate Institute of International and Development Studies	ORG
+the International Graduate School North- South (IGS	ORG
+the Mobile Health Systems Laboratory	ORG
+the Swiss Agency for Development and Cooperation (SDC)	ORG
+the Swiss Forum for International Agricultural Research	ORG
+the Swiss Network for International Studies	ORG
+the Swiss Programme for Research on Global Issues for Development	ORG
+the United Nations	ORG
+the University of Bern	ORG
+two	CARDINAL

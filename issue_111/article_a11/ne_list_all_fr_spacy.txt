@@ -1,0 +1,60 @@
+Title: Who’s Who helvétique	MISC
+Author:	MISC
+Pascale Hofmeier	PER
+La Direction du développement	MISC
+DDC	MISC
+Suisse	LOC
+DDC	MISC
+Programme r4d	MISC
+DDC	MISC
+FNS	ORG
+Afrique	LOC
+Asie	LOC
+Amérique	LOC
+Swiss Programme for Research on Global Issues for Development	ORG
+Nord	LOC
+Sud	LOC
+Swiss TPH	MISC
+Institut tropical	ORG
+Bâle	LOC
+Swiss TPH	MISC
+Suisse	LOC
+Institut de hautes études internationales et du développement	ORG
+IHEID	ORG
+Genève	LOC
+Nations Unies	ORG
+Université de Berne	ORG
+Centre for Development and Environment	ORG
+International Graduate School North- South	ORG
+IGS	ORG
+Pôle de recherche national Nord	LOC
+Sud	LOC
+Asie	LOC
+Afrique	LOC
+Amérique	LOC
+Europe	LOC
+IGS	ORG
+EPF	LOC
+Centre coopération & développement	ORG
+CODEV	ORG
+EPFL	ORG
+Chaire UNESCO	ORG
+Sud	LOC
+MOOCS	ORG
+ETH Zurich	LOC
+Mobile Health Systems Laboratory	ORG
+NADEL	LOC
+Centre	LOC
+KFPE	MISC
+Commission pour le partenariat scientifique	ORG
+KFPE	ORG
+DDC	MISC
+FNS	ORG
+Académie suisse des sciences naturelles	ORG
+Swiss Forum for International Agricultural Research	ORG
+SFIAR	ORG
+Swiss Network for International Studies	ORG
+SNIS	ORG
+Swissuniversities Development and Cooperation Network	ORG
+SUDAC	ORG
+Sud	LOC

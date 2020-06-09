@@ -1,0 +1,57 @@
+Armuts-bekämpfung	MISC
+Bergman	PER
+Center for Development and Cooperation	ORG
+Deutsche Evaluierungsinstitut der Entwicklungs-zusammenarbeit	ORG
+Deutschland	LOC
+Dollar pro Jahr	MISC
+Duflo	PER
+ETH Zürich	ORG
+Eine aufgeklärte Debatte	MISC
+Entwicklungshilfegelder	LOC
+Esther Duflo	PER
+Evaluierer	ORG
+Faust	MISC
+Günther	PER
+Health Aid	MISC
+Improving Lives	PER
+Indien	LOC
+Institut quantitative	ORG
+International Initiative for Impact Evaluation	ORG
+Jafflin	PER
+Jedes Jahr	MISC
+Jörg Faust	PER
+Kam	PER
+Klimawandels	LOC
+Kontext	PER
+Kristen Jafflin	PER
+Länderberichten	LOC
+Makro- Ebene	LOC
+Manfred Max Bergman	PER
+Massachusetts Institute of Technology	ORG
+Medikamente	PER
+Methodenmix	MISC
+Mikro-Ebene	MISC
+NGO	ORG
+Nachhaltigkeitsziele	PER
+OECD	ORG
+OECD-Kriterien	MISC
+Paris	LOC
+Patientendossiers	LOC
+Poverty Action Lab J-PAL	ORG
+Schweizerischen Nationalfonds	ORG
+Skeptiker	PER
+Staaten	LOC
+Steuerpolitiken	LOC
+Themenfeldern	LOC
+Theodora Peter	PER
+Universität Basel	ORG
+Uno-Ziele der Agenda 2030	MISC
+Washingtoner	LOC
+Washingtoner Center for Global Development	LOC
+What does it	MISC
+When Will We Ever Learn	MISC
+der Schweiz	LOC
+methodische	MISC
+soziale	MISC
+sozialen	MISC
+total	LOC

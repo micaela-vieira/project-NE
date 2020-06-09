@@ -1,0 +1,60 @@
+Theodora Peter	PERSON
+Every year	DATE
+hundreds of billions of dollars	MONEY
+2006	DATE
+the Washington Center for Global Development	ORG
+When Will We Ever Learn	WORK_OF_ART
+Esther Duflo	PERSON
+the Washington Report	ORG
+the Poverty Action Lab J-PAL	LAW
+2003	DATE
+the Massachusetts Institute of Technology	ORG
+microloans	NORP
+India	GPE
+One	CARDINAL
+2008	DATE
+3ie	ORDINAL
+more than 200	CARDINAL
+50	CARDINAL
+OECD	ORG
+the last decade	DATE
+Paris	GPE
+2005	DATE
+The OECD Development Assistance Committee	ORG
+five	CARDINAL
+OECD	ORG
+Germany	GPE
+2012	DATE
+the German Institute for Development Evaluation	ORG
+DEval	PERSON
+DEval	PERSON
+Jörg Faust	PERSON
+Faust	DATE
+Institute	ORG
+Faust	DATE
+A few years ago	DATE
+today	DATE
+sabel Günther	PERSON
+the Center for Development and Cooperation	ORG
+ETH Zurich	ORG
+one	CARDINAL
+Günther	PERSON
+Jörg Faust	PERSON
+DEval	PERSON
+one to two percent	PERCENT
+OECD	ORG
+Jörg Faust	PERSON
+DEval	PERSON
+one to two percent	PERCENT
+OECD	ORG
+Günther	PERSON
+Faust	ORG
+UN	ORG
+2030	CARDINAL
+Agenda for Sustainable Development	WORK_OF_ART
+UN	ORG
+2015	DATE
+seventeen	CARDINAL
+169	CARDINAL
+Isabel Günther	PERSON
+Theodora Peter	PERSON

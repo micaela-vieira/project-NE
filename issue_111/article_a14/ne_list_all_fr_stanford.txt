@@ -1,0 +1,102 @@
+Author: Ochieng' Ogodo	PER
+Nord	LOC
+Sud	LOC
+Cette	LOC
+EPFL	ORG
+Sylvain Liechti	PER
+Cameroun	LOC
+Sud	LOC
+EssentialTech	MISC
+Centre coopération & développement	ORG
+CODEV	ORG
+EPFL	ORG
+X GlobalDiagnostixou	MISC
+GlobalNeonat	MISC
+Occident	LOC
+Nord	LOC
+Sud	LOC
+Sud	LOC
+Gilles Carbonnier	PER
+Institut de hautes études internationales et du développement de Genève	ORG
+Ghana	LOC
+Indonésie	LOC
+Pérou	LOC
+Afrique du Sud	LOC
+Les	LOC
+Gilles Carbonnier	PER
+Les	LOC
+Gilles Carbonnier	PER
+Nord	LOC
+Nord	LOC
+Sud	LOC
+Sud	LOC
+Nord	LOC
+Nord-Sud	LOC
+Laurent Goetschel	PER
+Université de Bâle	ORG
+Commission suisse pour le partenariat scientifique avec les pays en développement	ORG
+KFPE	ORG
+Pôle de recherche national	ORG
+PNR	ORG
+Nord-Sud	ORG
+Benjamin Apraku Gyampoh	PER
+Académie africaine des sciences de Nairobi	ORG
+AAS	ORG
+A	LOC
+Les	LOC
+Ngozi Ifeoma Odiaka	PER
+Université agricole de Makurdi	LOC
+Nigeria	LOC
+AAS	ORG
+Alliance pour l’accélération de l’excellence dans le domaine des sciences en Afrique	ORG
+Département britannique pour le développement international	ORG
+Wellcome Trust	ORG
+Fondation Bill & Melinda Gates	ORG
+Benjamin Apraku Gyampoh	PER
+Afrique	LOC
+Laurent Goetschel	PER
+Sud	LOC
+Nord	LOC
+Nord	LOC
+Sud	LOC
+Benjamin Apraku Gyampoh	PER
+Les	LOC
+Ces	LOC
+AAS	ORG
+Relations et des partenariats adéquats	MISC
+Nord	LOC
+Sud	LOC
+Sud	LOC
+Nord	LOC
+Benjamin Apraku Gyampoh	PER
+Laurent Goetschel	PER
+Fondation Bill & Melinda Gates	ORG
+Global Grand Challenges	ORG
+Ayo Ajayi	PER
+Programme Afrique de la fondation	ORG
+Roger	PER
+Benjamin Apraku Gyampoh	PER
+AAS	ORG
+Canada	LOC
+Centre de recherches pour le développement international	ORG
+CRDI	ORG
+Pélagie Lefebvre	PER
+Les	LOC
+CRDI	ORG
+CRDI	ORG
+Pélagie Lefebvre	PER
+CRDI	ORG
+Canada	LOC
+Les	LOC
+Cour industrielle du Kenya	LOC
+Institut de recherche médicale du Kenya	LOC
+Wellcome Trust	ORG
+Université d’Oxford	ORG
+Gilles Carbonnier	PER
+Tiina Kontinen	PER
+North-South Research Partnership: Academia Academia Meets Development	MISC
+Les	LOC
+Nairobi	LOC
+Ochieng’ Ogodo	PER
+SciDev.Net	ORG
+Afrique subsaharienne	LOC

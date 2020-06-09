@@ -1,0 +1,42 @@
+15	CARDINAL
+1944	DATE
+1979	DATE
+2008-2011	DATE
+7,000	MONEY
+Africa	LOC
+African	NORP
+April 1982	DATE
+Asia	LOC
+BDP	ORG
+Basel	GPE
+Cameroon	GPE
+Chad	GPE
+Federal Message on Education, Research and Innovation	ORG
+Greens	NORP
+Institute	ORG
+Land Rover	PRODUCT
+Latin America	LOC
+Lützeltal	GPE
+Marcel Hänggi	PERSON
+Marcel Tanner	PERSON
+Rudolf Geigy	PERSON
+Swiss	NORP
+Switzerland	GPE
+Tanner	PERSON
+Tanzania	GPE
+Today	DATE
+Tropical and Public Health Institute	ORG
+Valérie Chételat	PERSON
+Western	NORP
+Zurich	GPE
+a Tropical Institute	ORG
+a million	CARDINAL
+a third	DATE
+a whole day	DATE
+eight years	DATE
+first	ORDINAL
+more than 35 years	DATE
+one	CARDINAL
+the Conservative Democratic Party	ORG
+the Global South	LOC
+the beginning of this year	DATE

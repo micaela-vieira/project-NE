@@ -1,0 +1,85 @@
+Ochieng	PER
+Ogodo	PER
+Schweizer	MISC
+Sylvain Liechti	PER
+Kameruns	LOC
+EPFL	ORG
+EPFL	ORG
+Zentrum für Zusammenarbeit und Entwicklung	ORG
+CODEV	ORG
+Gilles Carbonnier	PER
+Genfer Graduate Institute of International and Development Studies	ORG
+Ghana	LOC
+Indonesien	LOC
+Peru	LOC
+Südafrika	LOC
+Carbonnier	PER
+englischsprachigen	MISC
+Carbonnier	PER
+Laurent Goetschel	PER
+Universität Basel	ORG
+schweizerischen Nationalen Forschungsschwerpunkts «Nord-Süd	ORG
+Kommission für Forschungspartnerschaften mit Entwicklungsländern	ORG
+KFPE	ORG
+Benjamin Apraku Gyampoh	PER
+African Academy of Sciences	ORG
+AAS	ORG
+Nairobi	LOC
+Gyampoh	PER
+Ngozi Ifeoma Odiaka	PER
+Universität für Landwirtschaft	ORG
+Makurdi	LOC
+Nigeria	LOC
+AAS	ORG
+Alliance for Accelerating Excellence in Science	ORG
+Africa	LOC
+britischen	MISC
+Departement für Internationale Entwicklung	ORG
+Wellcome Trust	ORG
+Bill and Melinda Gates Foundation	ORG
+Gyampoh	PER
+Europa	LOC
+Amerika	LOC
+Afrika	LOC
+Goetschel	PER
+Gyampoh	PER
+afrikanische	MISC
+Gyampoh	PER
+Gyampoh	PER
+Bill and Melinda Gates Foundation	ORG
+Global Grand Challenges	ORG
+Ayo Ajayi	PER
+Africa Team	ORG
+Gates Foundation für Policy, Advocacy	ORG
+Gyampoh	PER
+Pélagie Lefebvre	PER
+International Development Research Centre	ORG
+IDRC	ORG
+Kanada	LOC
+IDRC	ORG
+Odiaka	ORG
+Kanada	LOC
+Lefebvre	PER
+IDRC	ORG
+Kanada	LOC
+kenianischen	MISC
+kenianischen	MISC
+Kenia-Schilling	LOC
+CHF	ORG
+britisch-kenianischen	MISC
+Kenya Medical Research	ORG
+Wellcome Trust Research	ORG
+kenianischen Kilifi	LOC
+Universität Oxford	ORG
+Gilles Carbonnier	PER
+Tiina Kontinen	PER
+Wissenschaft trifft Entwicklung?	MISC
+Ochieng’ Ogodo	PER
+englischen	MISC
+Subsahara	LOC
+Afrika	LOC
+News Editor	ORG
+SciDev.Net	ORG
+London	LOC
+News	ORG
+Nairobi	LOC
