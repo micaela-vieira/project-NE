@@ -1,0 +1,58 @@
+Roland Fischer	PER
+Malte Elson	PER
+Open Science	ORG
+Open Science	ORG
+Elson	PER
+journalreviewer.org	MISC
+flexiblemeasures.com	MISC
+Elson	PER
+Open Science Framework	ORG
+Alice Williamson	PER
+Sydney	LOC
+EPFL	ORG
+Twitter	ORG
+Williamson	PER
+Deep-Learning	ORG
+Oliver Dürr	PER
+Zürcher Hochschule für angewandte Wissenschaften	ORG
+ZHAW	ORG
+Dürr Reddit	ORG
+Ask me anything	MISC
+Peers	PER
+Dürr	PER
+Andrej Karpathy	PER
+Francesco Mondada	PER
+EPFL	ORG
+Computer CAD- Software	ORG
+Computer Aided Design	MISC
+Microsoft	ORG
+Mondada	PER
+Malte Elson	PER
+Open Science	ORG
+Open Science	ORG
+Elson	PER
+journalreviewer.org	MISC
+flexiblemeasures.com	MISC
+Elson	PER
+Open Science Framework	ORG
+Open-Source	MISC
+Alice Williamson	PER
+Sydney	LOC
+EPFL	ORG
+Twitter	ORG
+Williamson	PER
+Deep-Learning	ORG
+Oliver Dürr	PER
+Zürcher Hochschule für angewandte Wissenschaften	ORG
+ZHAW	ORG
+Dürr Reddit	ORG
+Ask me anything	MISC
+Peers	PER
+Dürr	PER
+Andrej Karpathy	PER
+Francesco Mondada	PER
+EPFL	ORG
+Computer CAD- Software	ORG
+Computer Aided Design	MISC
+Microsoft	ORG
+Mondada	PER

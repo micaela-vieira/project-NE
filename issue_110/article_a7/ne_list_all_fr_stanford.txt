@@ -1,0 +1,63 @@
+Portraits	PER
+Malte Elson	PER
+Malte Elson	PER
+Malte Elson	PER
+Open Science Framework	MISC
+Structure	MISC
+Open Source Malaria	MISC
+Internet	MISC
+Alice Williamson	PER
+Sydney	LOC
+EPFL	ORG
+Toutes	LOC
+Github	MISC
+Twitter	MISC
+Alice Williamson	PER
+Reddit	MISC
+Arxiv	MISC
+Oliver Dürr	PER
+Haute école des sciences appliquées de Zurich	LOC
+ZHAW	LOC
+Arxiv	MISC
+Reddit	MISC
+Des	LOC
+Ask Me Anything	MISC
+Les	LOC
+Oliver Dürr	PER
+Andrej Karpathy	PER
+Francesco Mondada	PER
+EPFL	ORG
+Microsoft	ORG
+Word	MISC
+Francesco Mondada	PER
+3D	MISC
+Malte Elson	PER
+Malte Elson	PER
+Malte Elson	PER
+Open Science Framework	MISC
+Open Source Malaria	MISC
+Internet	MISC
+Alice Williamson	PER
+Sydney	LOC
+EPFL	ORG
+Toutes	LOC
+Github	MISC
+Twitter	MISC
+Alice Williamson	PER
+Arxiv	MISC
+Oliver Dürr	PER
+Haute école des sciences appliquées de Zurich	LOC
+ZHAW	LOC
+Arxiv	MISC
+Reddit	MISC
+Des	LOC
+Ask Me Anything	MISC
+Les	LOC
+Oliver Dürr	PER
+Andrej Karpathy	PER
+Francesco Mondada	PER
+EPFL	ORG
+Microsoft	ORG
+Word	MISC
+Francesco Mondada	PER
+3D	MISC

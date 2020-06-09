@@ -1,0 +1,65 @@
+Title:	MISC
+Author: sasa	MISC
+Malte Elson	PER
+»	ORG
+Malte Elson	PER
+»	ORG
+Malte Elson	PER
+Open Science Framework	MISC
+»	MISC
+Open Source	MISC
+Internet	MISC
+»	ORG
+Alice Williamson	PER
+Sydney	LOC
+EPFL	ORG
+Github	MISC
+Twitter	MISC
+Alice Williamson	PER
+Reddit	LOC
+Arxiv»	PER
+Oliver Dürr	PER
+Haute école	ORG
+ZHAW	ORG
+Arxiv	PER
+Reddit	LOC
+Ask Me Anything	MISC
+Oliver Dürr	PER
+Andrej Karpathy	PER
+Francesco Mondada	PER
+EPFL	ORG
+CAO	ORG
+Microsoft	ORG
+Word	MISC
+Francesco Mondada	PER
+Malte Elson	PER
+»	ORG
+Malte Elson	PER
+»	ORG
+Malte Elson	PER
+Open Science Framework	MISC
+»	MISC
+Open Source Malaria	MISC
+Internet	MISC
+»	ORG
+Alice Williamson	PER
+Sydney	LOC
+EPFL	ORG
+Github	MISC
+Twitter	MISC
+Alice Williamson	PER
+Arxiv»	PER
+Oliver Dürr	PER
+Haute école	ORG
+ZHAW	ORG
+Arxiv	PER
+Reddit	LOC
+Ask Me Anything	MISC
+Oliver Dürr	PER
+Andrej Karpathy	PER
+Francesco Mondada	PER
+EPFL	ORG
+CAO	ORG
+Microsoft	ORG
+Word	MISC
+Francesco Mondada	PER

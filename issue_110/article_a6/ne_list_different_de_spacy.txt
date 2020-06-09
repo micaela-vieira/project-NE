@@ -1,0 +1,25 @@
+Alchemie	ORG
+Alchemie zur Chemie	ORG
+Atlant Bieri	PER
+Computerwissenschaften	LOC
+EPFL	ORG
+Editorial Board	ORG
+Forschenden	ORG
+Franken	LOC
+Ja	PER
+Journals	LOC
+Martin Vetterli	PER
+Nein	LOC
+Niederlande	LOC
+Open Access Journals	ORG
+Open-Access-Gebühr	MISC
+Papers	LOC
+Papers Open Access	MISC
+SNF	ORG
+Schweiz	LOC
+Schweizer	MISC
+Schweizer Steuerzahler	ORG
+Schweizerischen Nationalfonds	ORG
+Timothy Gowers	PER
+Universität Cambridge	ORG
+Valérie Chételat	PER

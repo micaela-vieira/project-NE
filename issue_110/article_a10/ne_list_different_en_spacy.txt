@@ -1,0 +1,30 @@
+13	CARDINAL
+2007	DATE
+2013	DATE
+2014	DATE
+3,000	CARDINAL
+Arxiv	NORP
+B. Fecher	PERSON
+Berlin	GPE
+Daniel Saraga	PERSON
+Daniël Lakens	PERSON
+Data	ORG
+Eindhoven University of Technology	ORG
+European	NORP
+Five	CARDINAL
+Friesike	PERSON
+HIIG	ORG
+Horizons	ORG
+Lakens	PERSON
+One	CARDINAL
+S. Friesike	PERSON
+SSRN	LOC
+Sascha Friesike	PERSON
+September 2015	DATE
+first	ORDINAL
+millions	CARDINAL
+more than half	CARDINAL
+second	ORDINAL
+the Alexander von Humboldt Institute for Internet and Society	ORG
+the University of St. Gallen	ORG
+today	DATE

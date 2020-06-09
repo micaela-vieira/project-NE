@@ -1,0 +1,23 @@
+3D	CARDINAL
+Alice Williamson	PERSON
+Andrej Karpathy	PERSON
+Arxiv	GPE/NORP
+Dürr	PERSON
+Elson	PERSON
+Francesco	PERSON
+GitHub	ORG
+Malte Elson	PERSON
+Microsoft	ORG
+Mondada	ORG/PERSON
+Oliver Dürr	PERSON
+Roland Fischer	PERSON
+Sydney	GPE
+Williamson	PERSON
+flexiblemeasures.com	ORG
+four	CARDINAL
+journalreviewer.org	ORG
+the Open Science Framework	WORK_OF_ART
+the Open Source Malaria Project	EVENT
+the Zurich University of Applied Sciences	ORG
+two	CARDINAL
+years	DATE

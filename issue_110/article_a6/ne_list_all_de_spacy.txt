@@ -1,0 +1,32 @@
+Atlant Bieri	PER
+Martin Vetterli	PER
+Schweizerischen Nationalfonds	ORG
+EPFL	ORG
+Valérie Chételat	PER
+EPFL	ORG
+Papers	LOC
+Journals	LOC
+Computerwissenschaften	LOC
+Alchemie zur Chemie	ORG
+Alchemie	ORG
+Schweizerischen Nationalfonds	ORG
+Nein	LOC
+Schweizer Steuerzahler	ORG
+Open-Access-Gebühr	MISC
+SNF	ORG
+Papers Open Access	MISC
+Schweiz	LOC
+Schweiz	LOC
+Schweizer	MISC
+Niederlande	LOC
+Schweiz	LOC
+Schweiz	LOC
+SNF	ORG
+Open Access Journals	ORG
+EPFL	ORG
+Forschenden	ORG
+Ja	PER
+Timothy Gowers	PER
+Universität Cambridge	ORG
+Editorial Board	ORG
+Franken	LOC

@@ -1,0 +1,19 @@
+Atlant Bieri	PER
+Author	PER
+Discrete Analysis	ORG
+EPFL	ORG
+Editorial Board	ORG
+Fakultät für Computer- und Kommunikationswissenschaften	ORG
+Martin Vetterli	PER
+Niederlande	LOC
+Open Access Journals	ORG
+Open Science	MISC/ORG
+Papers Open Access	MISC
+SNF	ORG
+Schweiz	LOC
+Schweizer	MISC
+Schweizerischen Nationalfonds	ORG
+Swissuniversities	MISC
+Timothy Gowers	PER
+Universität Cambridge	ORG
+Valérie Chételat	PER

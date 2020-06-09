@@ -1,0 +1,26 @@
+﻿Title	MISC
+Daniel Saraga	PER
+Fixing science	MISC
+Horizons septembre 2015	MISC
+Daniël Lakens	PER
+Eindhoven University of Technology	ORG
+open access	MISC
+Arxiv	PER
+SSRN	PER
+Daniël Lakens	PER
+aujourd’hui	MISC
+Sascha Friesike	PER
+Institut Alexander von	LOC
+Internet	MISC
+Berlin	LOC
+Université de Saint	ORG
+Gall	PER
+Daniël Lakens	PER
+Internet	MISC
+Sascha Friesike	PER
+Daniel Saraga	PER
+Horizons	LOC
+B. Fecher and S. Friesike	PER
+Open Science: One Term	MISC
+Five Schools of Thought	MISC
+SSRN	ORG

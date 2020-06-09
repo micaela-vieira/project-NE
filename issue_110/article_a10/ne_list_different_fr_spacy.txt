@@ -1,0 +1,20 @@
+Arxiv	PER
+B. Fecher and S. Friesike	PER
+Berlin	LOC
+Daniel Saraga	PER
+Daniël Lakens	PER
+Eindhoven University of Technology	ORG
+Five Schools of Thought	MISC
+Fixing science	MISC
+Gall	PER
+Horizons	LOC
+Horizons septembre 2015	MISC
+Institut Alexander von	LOC
+Internet	MISC
+Open Science: One Term	MISC
+SSRN	ORG/PER
+Sascha Friesike	PER
+Université de Saint	ORG
+aujourd’hui	MISC
+open access	MISC
+﻿Title	MISC

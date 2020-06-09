@@ -1,0 +1,25 @@
+Alice Williamson	PER
+Andrej Karpathy	PER
+Arxiv	PER
+Arxiv»	PER
+Ask Me Anything	MISC
+Author: sasa	MISC
+CAO	ORG
+EPFL	ORG
+Francesco Mondada	PER
+Github	MISC
+Haute école	ORG
+Internet	MISC
+Malte Elson	PER
+Microsoft	ORG
+Oliver Dürr	PER
+Open Science Framework	MISC
+Open Source	MISC
+Open Source Malaria	MISC
+Reddit	LOC
+Sydney	LOC
+Title:	MISC
+Twitter	MISC
+Word	MISC
+ZHAW	ORG
+»	MISC/ORG

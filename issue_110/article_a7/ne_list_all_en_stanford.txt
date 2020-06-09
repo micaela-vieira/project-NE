@@ -1,0 +1,62 @@
+Roland Fischer	PERSON
+four	CARDINAL
+Malte Elson	PERSON
+Elson	PERSON
+two	CARDINAL
+Elson	PERSON
+the Open Science Framework	PRODUCT
+years later	DATE
+the Open Source Malaria Project	ORG
+Alice Williamson	PERSON
+Sydney	GPE
+EPFL	ORG
+GitHub	ORG
+Twitter	ORG
+Williamson	PERSON
+Arxiv	PRODUCT
+Oliver Dürr	PERSON
+the Zurich University of Applied Sciences	ORG
+ZHAW	ORG
+Arxiv	ORG
+Dürr, Reddit	ORG
+Ask Me	WORK_OF_ART
+Dürr	PERSON
+Andrej Karpathy	PERSON
+EPFL	ORG
+Francesco Mondada	PERSON
+Computer Aided Design	PRODUCT
+Microsoft	ORG
+Word	WORK_OF_ART
+Mondada	PERSON
+years	DATE
+two	CARDINAL
+Malte Elson	PERSON
+Elson	PERSON
+two	CARDINAL
+Elson	PERSON
+the Open Science Framework	PRODUCT
+years later	DATE
+the Open Source Malaria Project	ORG
+Alice Williamson	PERSON
+Sydney	GPE
+EPFL	ORG
+GitHub	ORG
+Twitter	ORG
+Williamson	PERSON
+Arxiv	PRODUCT
+Oliver Dürr	PERSON
+the Zurich University of Applied Sciences	ORG
+ZHAW	ORG
+Arxiv	ORG
+Dürr, Reddit	ORG
+Ask Me	WORK_OF_ART
+Dürr	PERSON
+Andrej Karpathy	PERSON
+EPFL	ORG
+Francesco Mondada	PERSON
+Computer Aided Design	PRODUCT
+Microsoft	ORG
+Word	WORK_OF_ART
+Mondada	PERSON
+years	DATE
+two	CARDINAL

@@ -1,0 +1,17 @@
+Arxiv	MISC
+B. Fecher and S. Friesike: Open Science: One Term	MISC
+Berlin	LOC
+Daniel Saraga	PER
+Daniël Lakens	PER
+Eindhoven University of Technology	ORG
+Five Schools of Thought	MISC
+Fixing science	MISC
+Horizons	MISC
+Institut Alexander von Humboldt	PER
+Internet	MISC
+Le monde	ORG
+Les	LOC
+L’open research	MISC
+SSRN	MISC
+Sascha Friesike	PER
+Université de Saint-Gall	ORG

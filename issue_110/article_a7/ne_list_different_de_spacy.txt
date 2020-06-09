@@ -1,0 +1,39 @@
+Aggressionsmessun	MISC
+Alice Williamson	PER
+Andrej Karpathy	PER
+Ask me anything»-Forum	MISC
+CAD-Software	MISC
+Clash	PER
+Computer CAD- Software	MISC
+Deep-Learning-Community	LOC
+Die Tendenz	MISC
+Dürr	PER
+Dürr Reddit	PER
+EPFL	ORG
+Elson	PER
+Forschens	LOC
+Forschungsdaten	MISC
+Francesco Mondada	PER
+Github	LOC
+Internet	MISC
+Kleingedruckten	MISC
+Lupe	MISC
+Malte Elson	PER
+Maximale Offenheit	PER
+Microsoft	ORG
+Mondada	PER
+Oliver Dürr	PER
+Open Science	PER
+Peers	PER
+Preprint-Server Arxiv	MISC
+Programmiercode	MISC
+Reviews	PER
+Roland Fischer	PER
+Sydney	LOC
+Twitter	LOC
+Universität	ORG
+Williamson	PER
+ZHAW	ORG
+Zürcher Hochschule für angewandte Wissenschaften	ORG
+journalreviewer.org	MISC
+wis sen schaft – lichen Arbeiten	ORG

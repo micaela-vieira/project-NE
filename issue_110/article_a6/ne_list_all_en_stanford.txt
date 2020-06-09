@@ -1,0 +1,54 @@
+Atlant Bieri	PERSON
+Martin Vetterli	PERSON
+the National Research Council of the SNSF	ORG
+years	DATE
+EPFL	ORG
+Valérie Chételat	PERSON
+the School of Computer and Communication Sciences	ORG
+EPFL	ORG
+today	DATE
+350 years ago	DATE
+today	DATE
+SNSF	ORG
+only 40 percent	PERCENT
+the Research Council	ORG
+Today	DATE
+Swiss	NORP
+three	CARDINAL
+First	ORDINAL
+secondly	ORDINAL
+thirdly	ORDINAL
+SNSF	ORG
+Swissuniversities	ORG
+Switzerland	GPE
+Switzerland	GPE
+Swiss	NORP
+Netherlands	GPE
+Switzerland	GPE
+Switzerland	GPE
+SNSF	ORG
+EPFL	ORG
+Timothy Gowers	PERSON
+the University of Cambridge	ORG
+Discrete Analysis'	ORG
+about ten francs	MONEY
+a hundred to a thousand	CARDINAL
+2012	DATE
+Nature	ORG
+47	CARDINAL
+53	CARDINAL
+today	DATE
+first	ORDINAL
+Today	DATE
+Fifty years ago	DATE
+Today	DATE
+one	CARDINAL
+EPFL	ORG
+Swiss	NORP
+Asian	NORP
+Switzerland	GPE
+one	CARDINAL
+three	CARDINAL
+recent years	DATE
+EPFL	ORG
+Third	ORDINAL

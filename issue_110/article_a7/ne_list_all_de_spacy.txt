@@ -1,0 +1,80 @@
+Roland Fischer	PER
+Maximale Offenheit	PER
+Elson	PER
+Open Science	PER
+wis sen schaft – lichen Arbeiten	ORG
+Elson	PER
+journalreviewer.org	MISC
+Aggressionsmessun	MISC
+Lupe	MISC
+Elson	PER
+Forschens	LOC
+Internet	MISC
+Alice Williamson	PER
+Sydney	LOC
+EPFL	ORG
+Forschungsdaten	MISC
+Github	LOC
+Twitter	LOC
+Williamson	PER
+Deep-Learning-Community	LOC
+Die Tendenz	MISC
+Preprint-Server Arxiv	MISC
+Oliver Dürr	PER
+Zürcher Hochschule für angewandte Wissenschaften	ORG
+ZHAW	ORG
+Programmiercode	MISC
+Dürr Reddit	PER
+Ask me anything»-Forum	MISC
+Peers	PER
+Dürr	PER
+Andrej Karpathy	PER
+Reviews	PER
+Francesco Mondada	PER
+EPFL	ORG
+Computer CAD- Software	MISC
+Kleingedruckten	MISC
+CAD-Software	MISC
+Microsoft	ORG
+Mondada	PER
+Clash	PER
+Universität	ORG
+Malte Elson	PER
+Open Science	PER
+wis sen schaft – lichen Arbeiten	ORG
+Elson	PER
+journalreviewer.org	MISC
+Aggressionsmessun	MISC
+Lupe	MISC
+Elson	PER
+Forschens	LOC
+Internet	MISC
+Alice Williamson	PER
+Sydney	LOC
+EPFL	ORG
+Forschungsdaten	MISC
+Github	LOC
+Twitter	LOC
+Williamson	PER
+Deep-Learning-Community	LOC
+Die Tendenz	MISC
+Preprint-Server Arxiv	MISC
+Oliver Dürr	PER
+Zürcher Hochschule für angewandte Wissenschaften	ORG
+ZHAW	ORG
+Programmiercode	MISC
+Dürr Reddit	PER
+Ask me anything»-Forum	MISC
+Peers	PER
+Dürr	PER
+Andrej Karpathy	PER
+Reviews	PER
+Francesco Mondada	PER
+EPFL	ORG
+Computer CAD- Software	MISC
+Kleingedruckten	MISC
+CAD-Software	MISC
+Microsoft	ORG
+Mondada	PER
+Clash	PER
+Universität	ORG

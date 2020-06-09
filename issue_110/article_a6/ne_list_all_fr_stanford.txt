@@ -1,0 +1,40 @@
+Atlant Bieri	PER
+Conseil	ORG
+FNS	ORG
+Martin Vetterli	PER
+Valérie Chételat	PER
+EPFL	ORG
+Les	LOC
+Publier	MISC
+Les	LOC
+Si	MISC
+Fonds national suisse	ORG
+FNS?	MISC
+Aujourd'hui	ORG
+Les	LOC
+FNS	ORG
+Swissuniversities	ORG
+Suisse	LOC
+Si	MISC
+les Pays-Bas	LOC
+Notre	LOC
+FNS	ORG
+Notre	LOC
+EPFL	ORG
+l'Ecole	ORG
+Si	MISC
+Timothy Gowers	PER
+Université de Cambridge	ORG
+Discrete Analysis	ORG
+Les	LOC
+Nature	MISC
+Cette	LOC
+EPFL	ORG
+Suisse	LOC
+Suisse	LOC
+Les	LOC
+Ça	MISC
+Si	MISC
+EPFL	ORG
+Les	LOC
+Si	MISC

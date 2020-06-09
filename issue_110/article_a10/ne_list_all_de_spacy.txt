@@ -1,0 +1,43 @@
+﻿Title	MISC
+Daniel Saraga	PER
+Open-Science-Bewegung	MISC
+Bezahlschranken	PER
+Fixing Science	MISC
+Horizonte September	MISC
+Lösungen	LOC
+Open Science	MISC
+Hypothesen	LOC
+Veröffentlichung	LOC
+Daniël Lakens	PER
+Eindhoven University of Technology	ORG
+Open-Access-Aktivist	ORG
+europäischen	MISC
+Euro	MISC
+Arxiv	ORG
+SSRN	ORG
+Millionen von Artikeln	PER
+Open Research Data	ORG
+Lakens	LOC
+Wissenschaft	ORG
+Anreize	LOC
+Forschenden	ORG
+Informatikkompetenzen	LOC
+Open Research Data	ORG
+Anreize	LOC
+Sascha Friesike	PER
+Alexander von Humboldt	PER
+Berlin	LOC
+Universität St. Gallen	ORG
+Forschungsdaten	MISC
+Lakens	LOC
+Messinstrumenten	LOC
+Open-Science-Bewegung	MISC
+Internet	MISC
+Friesike	PER
+Forschenden	ORG
+Daniel Saraga	PER
+Horizonte	LOC
+B. Fecher and S. Friesike	PER
+One Term	MISC
+Five Schools of Thought	MISC
+SSRN	MISC

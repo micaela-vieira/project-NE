@@ -1,0 +1,33 @@
+2012	DATE
+350 years ago	DATE
+47	CARDINAL
+53	CARDINAL
+Asian	NORP
+Atlant Bieri	PERSON
+Fifty years ago	DATE
+First	ORDINAL
+Martin Vetterli	PERSON
+Nature	ORG
+Netherlands	GPE
+SNSF	ORG
+Swiss	NORP
+Swissuniversities	ORG
+Switzerland	GPE
+Third	ORDINAL
+Timothy Gowers	PERSON
+Today	DATE
+Valérie Chételat	PERSON
+a hundred to a thousand	CARDINAL
+about ten francs	MONEY
+first	ORDINAL
+one	CARDINAL
+only 40 percent	PERCENT
+recent years	DATE
+secondly	ORDINAL
+the National Research Council	ORG
+the Research Council	ORG
+the School of Computer and Communication Sciences	ORG
+the University of Cambridge	ORG
+three	CARDINAL
+today	DATE
+years	DATE

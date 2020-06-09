@@ -1,0 +1,52 @@
+Roland Fischer	PERSON
+four	CARDINAL
+Malte Elson	PERSON
+two	CARDINAL
+journalreviewer.org	ORG
+flexiblemeasures.com	ORG
+Elson	PERSON
+the Open Science Framework	WORK_OF_ART
+the Open Source Malaria Project	EVENT
+Alice Williamson	PERSON
+Sydney	GPE
+GitHub	ORG
+Williamson	PERSON
+Arxiv	NORP
+Oliver Dürr	PERSON
+the Zurich University of Applied Sciences	ORG
+Arxiv	GPE
+Dürr	PERSON
+Dürr	PERSON
+Andrej Karpathy	PERSON
+Francesco	PERSON
+Mondada	PERSON
+Microsoft	ORG
+Mondada	ORG
+3D	CARDINAL
+years	DATE
+two	CARDINAL
+Malte Elson	PERSON
+two	CARDINAL
+journalreviewer.org	ORG
+flexiblemeasures.com	ORG
+Elson	PERSON
+the Open Science Framework	WORK_OF_ART
+the Open Source Malaria Project	EVENT
+Alice Williamson	PERSON
+Sydney	GPE
+GitHub	ORG
+Williamson	PERSON
+Arxiv	NORP
+Oliver Dürr	PERSON
+the Zurich University of Applied Sciences	ORG
+Arxiv	GPE
+Dürr	PERSON
+Dürr	PERSON
+Andrej Karpathy	PERSON
+Francesco	PERSON
+Mondada	PERSON
+Microsoft	ORG
+Mondada	ORG
+3D	CARDINAL
+years	DATE
+two	CARDINAL

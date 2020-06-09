@@ -1,0 +1,29 @@
+13	CARDINAL
+2007	DATE
+2013	DATE
+2014	DATE
+3,000	MONEY
+Arxiv	ORG
+B. Fecher	PERSON
+Berlin	GPE
+Daniel Saraga	PERSON
+Daniël Lakens	PERSON
+Eindhoven University of Technology	ORG
+European	NORP
+Five	CARDINAL
+Friesike	PERSON
+Horizons	ORG
+Horizons September 2015)	WORK_OF_ART
+Lakens	PERSON
+One	CARDINAL
+S. Friesike	PERSON
+SSRN	ORG
+Sascha Friesike	PERSON
+See infographic	WORK_OF_ART
+first	ORDINAL
+millions	CARDINAL
+more than half	CARDINAL
+second	ORDINAL
+the Alexander von Humboldt Institute for Internet and Society (HIIG)	ORG
+the University of St. Gallen	ORG
+today	DATE

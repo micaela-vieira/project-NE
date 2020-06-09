@@ -1,0 +1,25 @@
+Daniel Saraga	PER
+Open Access	ORG
+Daniël Lakens	PER
+Bereich Psychologie	ORG
+Eindhoven University of Technology	ORG
+europäischen	MISC
+Preprint	ORG
+Arxiv	ORG
+SSRN	ORG
+Open Research Data	ORG
+Lakens	PER
+Open Research Data	ORG
+Sascha Friesike	PER
+Alexander von Humboldt	PER
+Institut für Internet und Gesellschaft	ORG
+Berlin	LOC
+Universität St. Gallen	ORG
+Lakens	PER
+Friesike	PER
+Daniel Saraga	PER
+B. Fecher and S. Friesike	ORG
+Open Science	ORG
+One Term	ORG
+Five Schools of Thought	ORG
+SSRN	LOC

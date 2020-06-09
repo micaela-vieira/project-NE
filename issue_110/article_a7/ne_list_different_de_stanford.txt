@@ -1,0 +1,27 @@
+Alice Williamson	PER
+Andrej Karpathy	PER
+Ask me anything	MISC
+Computer Aided Design	MISC
+Computer CAD- Software	ORG
+Deep-Learning	ORG
+Dürr	PER
+Dürr Reddit	ORG
+EPFL	ORG
+Elson	PER
+Francesco Mondada	PER
+Malte Elson	PER
+Microsoft	ORG
+Mondada	PER
+Oliver Dürr	PER
+Open Science	ORG
+Open Science Framework	ORG
+Open-Source	MISC
+Peers	PER
+Roland Fischer	PER
+Sydney	LOC
+Twitter	ORG
+Williamson	PER
+ZHAW	ORG
+Zürcher Hochschule für angewandte Wissenschaften	ORG
+flexiblemeasures.com	MISC
+journalreviewer.org	MISC

@@ -1,0 +1,48 @@
+Atlant Bieri	PERSON
+Martin Vetterli	PERSON
+the National Research Council	ORG
+SNSF	ORG
+years	DATE
+Valérie Chételat	PERSON
+the School of Computer and Communication Sciences	ORG
+today	DATE
+350 years ago	DATE
+today	DATE
+SNSF	ORG
+only 40 percent	PERCENT
+the Research Council	ORG
+Today	DATE
+Swiss	NORP
+three	CARDINAL
+First	ORDINAL
+secondly	ORDINAL
+SNSF	ORG
+Swissuniversities	ORG
+Switzerland	GPE
+Switzerland	GPE
+Swiss	NORP
+Netherlands	GPE
+Switzerland	GPE
+Switzerland	GPE
+SNSF	ORG
+Timothy Gowers	PERSON
+the University of Cambridge	ORG
+about ten francs	MONEY
+a hundred to a thousand	CARDINAL
+2012	DATE
+Nature	ORG
+47	CARDINAL
+53	CARDINAL
+today	DATE
+first	ORDINAL
+Today	DATE
+Fifty years ago	DATE
+Today	DATE
+one	CARDINAL
+Swiss	NORP
+Asian	NORP
+Switzerland	GPE
+one	CARDINAL
+three	CARDINAL
+recent years	DATE
+Third	ORDINAL

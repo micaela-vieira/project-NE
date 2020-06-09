@@ -1,0 +1,21 @@
+Alexander von Humboldt	PER
+Arxiv	ORG
+B. Fecher and S. Friesike	ORG
+Bereich Psychologie	ORG
+Berlin	LOC
+Daniel Saraga	PER
+Daniël Lakens	PER
+Eindhoven University of Technology	ORG
+Five Schools of Thought	ORG
+Friesike	PER
+Institut für Internet und Gesellschaft	ORG
+Lakens	PER
+One Term	ORG
+Open Access	ORG
+Open Research Data	ORG
+Open Science	ORG
+Preprint	ORG
+SSRN	LOC/ORG
+Sascha Friesike	PER
+Universität St. Gallen	ORG
+europäischen	MISC

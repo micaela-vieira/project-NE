@@ -1,0 +1,28 @@
+Author	PER
+Atlant Bieri	PER
+Martin Vetterli	PER
+Schweizerischen Nationalfonds	ORG
+EPFL	ORG
+Valérie Chételat	PER
+Open Science	MISC
+Fakultät für Computer- und Kommunikationswissenschaften	ORG
+EPFL	ORG
+Open Science	ORG
+Schweizerischen Nationalfonds	ORG
+Schweizer	MISC
+SNF	ORG
+Swissuniversities	MISC
+Papers Open Access	MISC
+Schweiz	LOC
+Schweiz	LOC
+Schweizer	MISC
+Niederlande	LOC
+Schweiz	LOC
+Schweiz	LOC
+SNF	ORG
+Open Access Journals	ORG
+EPFL	ORG
+Timothy Gowers	PER
+Universität Cambridge	ORG
+Discrete Analysis	ORG
+Editorial Board	ORG

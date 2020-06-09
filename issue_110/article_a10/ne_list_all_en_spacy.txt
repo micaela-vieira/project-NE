@@ -1,0 +1,33 @@
+Daniel Saraga	PERSON
+September 2015	DATE
+13	CARDINAL
+first	ORDINAL
+Daniël Lakens	PERSON
+Eindhoven University of Technology	ORG
+European	NORP
+2014	DATE
+more than half	CARDINAL
+2007	DATE
+3,000	CARDINAL
+Arxiv	NORP
+SSRN	LOC
+millions	CARDINAL
+second	ORDINAL
+Lakens	PERSON
+today	DATE
+Lakens	PERSON
+today	DATE
+Sascha Friesike	PERSON
+the Alexander von Humboldt Institute for Internet and Society	ORG
+HIIG	ORG
+Berlin	GPE
+the University of St. Gallen	ORG
+Data	ORG
+Friesike	PERSON
+Daniel Saraga	PERSON
+Horizons	ORG
+B. Fecher	PERSON
+S. Friesike	PERSON
+One	CARDINAL
+Five	CARDINAL
+2013	DATE

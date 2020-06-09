@@ -1,0 +1,25 @@
+3D	MISC
+Alice Williamson	PER
+Andrej Karpathy	PER
+Arxiv	MISC
+Ask Me Anything	MISC
+Des	LOC
+EPFL	ORG
+Francesco Mondada	PER
+Github	MISC
+Haute école des sciences appliquées de Zurich	LOC
+Internet	MISC
+Les	LOC
+Malte Elson	PER
+Microsoft	ORG
+Oliver Dürr	PER
+Open Science Framework	MISC
+Open Source Malaria	MISC
+Portraits	PER
+Reddit	MISC
+Structure	MISC
+Sydney	LOC
+Toutes	LOC
+Twitter	MISC
+Word	MISC
+ZHAW	LOC

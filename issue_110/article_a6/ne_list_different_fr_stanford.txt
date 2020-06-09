@@ -1,0 +1,23 @@
+Atlant Bieri	PER
+Aujourd'hui	ORG
+Cette	LOC
+Conseil	ORG
+Discrete Analysis	ORG
+EPFL	ORG
+FNS	ORG
+FNS?	MISC
+Fonds national suisse	ORG
+Les	LOC
+Martin Vetterli	PER
+Nature	MISC
+Notre	LOC
+Publier	MISC
+Si	MISC
+Suisse	LOC
+Swissuniversities	ORG
+Timothy Gowers	PER
+Université de Cambridge	ORG
+Valérie Chételat	PER
+l'Ecole	ORG
+les Pays-Bas	LOC
+Ça	MISC

@@ -1,0 +1,36 @@
+Alexander von Humboldt	PER
+Anreize	LOC
+Arxiv	ORG
+B. Fecher and S. Friesike	PER
+Berlin	LOC
+Bezahlschranken	PER
+Daniel Saraga	PER
+Daniël Lakens	PER
+Eindhoven University of Technology	ORG
+Euro	MISC
+Five Schools of Thought	MISC
+Fixing Science	MISC
+Forschenden	ORG
+Forschungsdaten	MISC
+Friesike	PER
+Horizonte	LOC
+Horizonte September	MISC
+Hypothesen	LOC
+Informatikkompetenzen	LOC
+Internet	MISC
+Lakens	LOC
+Lösungen	LOC
+Messinstrumenten	LOC
+Millionen von Artikeln	PER
+One Term	MISC
+Open Research Data	ORG
+Open Science	MISC
+Open-Access-Aktivist	ORG
+Open-Science-Bewegung	MISC
+SSRN	MISC/ORG
+Sascha Friesike	PER
+Universität St. Gallen	ORG
+Veröffentlichung	LOC
+Wissenschaft	ORG
+europäischen	MISC
+﻿Title	MISC

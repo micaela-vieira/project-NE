@@ -1,0 +1,24 @@
+Atlant Bieri	PER
+Conseil de la recherche du FNS	ORG
+Martin Vetterli	PER
+Valérie Chételat	PER
+EPFL	ORG
+Fonds national suisse	ORG
+FNS	ORG
+FNS	ORG
+Swissuniversities	PER
+Suisse	LOC
+Pays-Bas	LOC
+FNS	ORG
+EPFL	ORG
+Ecole	LOC
+Timothy Gowers	PER
+Université de Cambridge	ORG
+Discrete Analysis	MISC
+Nature	MISC
+EPFL	ORG
+Suisse	LOC
+Suisse	LOC
+Ça	MISC
+EPFL	ORG
+motivez	PER

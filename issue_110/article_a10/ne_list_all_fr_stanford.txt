@@ -1,0 +1,25 @@
+Daniel Saraga	PER
+Fixing science	MISC
+Horizons	MISC
+Les	LOC
+Daniël Lakens	PER
+Eindhoven University of Technology	ORG
+Arxiv	MISC
+SSRN	MISC
+Le monde	ORG
+Daniël Lakens	PER
+L’open research	MISC
+Sascha Friesike	PER
+Institut Alexander von Humboldt	PER
+Internet	MISC
+Berlin	LOC
+Université de Saint-Gall	ORG
+Daniël Lakens	PER
+Les	LOC
+Internet	MISC
+Sascha Friesike	PER
+Daniel Saraga	PER
+Horizons	MISC
+B. Fecher and S. Friesike: Open Science: One Term	MISC
+Five Schools of Thought	MISC
+SSRN	MISC

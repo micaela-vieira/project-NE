@@ -1,0 +1,28 @@
+Alice Williamson	PERSON
+Andrej Karpathy	PERSON
+Arxiv	ORG/PRODUCT
+Ask Me	WORK_OF_ART
+Computer Aided Design	PRODUCT
+Dürr	PERSON
+Dürr, Reddit	ORG
+EPFL	ORG
+Elson	PERSON
+Francesco Mondada	PERSON
+GitHub	ORG
+Malte Elson	PERSON
+Microsoft	ORG
+Mondada	PERSON
+Oliver Dürr	PERSON
+Roland Fischer	PERSON
+Sydney	GPE
+Twitter	ORG
+Williamson	PERSON
+Word	WORK_OF_ART
+ZHAW	ORG
+four	CARDINAL
+the Open Science Framework	PRODUCT
+the Open Source Malaria Project	ORG
+the Zurich University of Applied Sciences	ORG
+two	CARDINAL
+years	DATE
+years later	DATE
