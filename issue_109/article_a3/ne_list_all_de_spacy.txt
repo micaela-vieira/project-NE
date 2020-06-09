@@ -1,0 +1,45 @@
+Roland Fischer	PER
+RealitÃ¤t	LOC
+1kilo	LOC
+amerikanische Luftwaffe	ORG
+AC-130	MISC
+Active denial systems	MISC
+Mobs	MISC
+Schmerzreize	LOC
+Mikrowellen	ORG
+Laserwaffen	LOC
+US-Schlachtschiff USS Ponce	MISC
+Persischen Golf	LOC
+30-Kilowatt- Schneidlaser	MISC
+Office of Naval Research	LOC
+Navy	ORG
+Versuchsstadium	ORG
+Ã¼berlegen	LOC
+technologischen	MISC
+Ã¼berraschendsten Forschungsprogramme	MISC
+Defense Advanced Research Projects Agency	ORG
+DARPA	ORG
+US-amerikanischen	MISC
+Hybrid Insect Micro-Electro-Mechanical Systems	ORG
+zÃ¼chten	MISC
+Jahr 1979	MISC
+Jerry Pournelle	PER
+punktgenau	LOC
+US Air Force	ORG
+StÃ¤ben	MISC
+Wolfram	LOC
+AtmosphÃ¤re	MISC
+ErdoberflÃ¤che	MISC
+BunkerwÃ¤nde	MISC
+All	LOC
+â€“	MISC
+Science-Fiction-Dramaturgie	MISC
+Kampfroboter kÃ¶nnen	PER
+Boston Dynamics â€“ 2013	MISC
+Google	MISC
+â€“	MISC
+WÃ¤rmesensoren	ORG
+Stephen Hawking	PER
+Steve Wozniak	PER
+Noam Chomsky	PER
+Uno	ORG

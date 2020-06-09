@@ -1,0 +1,60 @@
+Active Denial Systems	ORG
+Boston Dynamics â€	MISC
+Darpa	ORG
+Defense Advanced Research Projects Agency	ORG
+DÃ	ORG
+Echauffer	MISC
+Electro	ORG
+EquipÃ	MISC
+Golfe persique Ã	LOC
+Google â€	MISC
+Hybrid Insect	MISC
+Insectes	MISC
+Jerry Pournelle	PER
+L'innocuitÃ	MISC
+La guerre des robots	MISC
+Lockheed AC-130	MISC
+Lâ€™	MISC
+Lâ€™US	MISC
+Mechanical Systems	ORG
+Nations Unies	ORG
+Noam Chomsky	PER
+Office of Naval Research	MISC
+Raytheon	ORG
+Robots tueurs et armes incapacitantes	MISC
+Roland Fischer	PER
+SALT II	MISC
+Stephen Hawking	PER
+Steve Wozniak	PER
+Title:	MISC
+amÃ	PER
+avancÃ	PER
+aÃ	ORG
+coÃ»ts gigantesques gÃ	MISC
+extrÃªme	ORG
+fense amÃ	PER
+focalisÃ	MISC
+gÃ	MISC
+imaginÃ	MISC
+jÃ  	PER
+mÃ¨tres	MISC
+nÃ	ORG
+nÃ¨rent	MISC
+pais	LOC
+pensÃ	LOC
+portÃ	PER
+pÃ	ORG
+quipÃ	LOC/MISC
+ricain USS	PER
+riennes amÃ	PER
+rÃ¨gleront	MISC
+secrÃ¨te	ORG
+sentÃ	MISC
+sistent Ã  	MISC
+systÃ¨me Thor	PER
+tungstÃ¨ne	ORG
+tÃªte	MISC
+utilisÃ	MISC/ORG
+Ã	MISC
+Ãªtre Ã	PER
+â€	MISC

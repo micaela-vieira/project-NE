@@ -1,0 +1,44 @@
+1kilo	LOC
+30-Kilowatt- Schneidlaser	MISC
+AC-130	MISC
+Active denial systems	MISC
+All	LOC
+AtmosphÃ¤re	MISC
+Boston Dynamics â€“ 2013	MISC
+BunkerwÃ¤nde	MISC
+DARPA	ORG
+Defense Advanced Research Projects Agency	ORG
+ErdoberflÃ¤che	MISC
+Google	MISC
+Hybrid Insect Micro-Electro-Mechanical Systems	ORG
+Jahr 1979	MISC
+Jerry Pournelle	PER
+Kampfroboter kÃ¶nnen	PER
+Laserwaffen	LOC
+Mikrowellen	ORG
+Mobs	MISC
+Navy	ORG
+Noam Chomsky	PER
+Office of Naval Research	LOC
+Persischen Golf	LOC
+RealitÃ¤t	LOC
+Roland Fischer	PER
+Schmerzreize	LOC
+Science-Fiction-Dramaturgie	MISC
+Stephen Hawking	PER
+Steve Wozniak	PER
+StÃ¤ben	MISC
+US Air Force	ORG
+US-Schlachtschiff USS Ponce	MISC
+US-amerikanischen	MISC
+Uno	ORG
+Versuchsstadium	ORG
+Wolfram	LOC
+WÃ¤rmesensoren	ORG
+amerikanische Luftwaffe	ORG
+punktgenau	LOC
+technologischen	MISC
+zÃ¼chten	MISC
+Ã¼berlegen	LOC
+Ã¼berraschendsten Forschungsprogramme	MISC
+â€“	MISC

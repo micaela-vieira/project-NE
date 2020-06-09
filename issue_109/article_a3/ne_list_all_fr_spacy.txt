@@ -1,0 +1,65 @@
+Title:	MISC
+Roland Fischer	PER
+Robots tueurs et armes incapacitantes	MISC
+imaginÃ	MISC
+Echauffer	MISC
+aÃ	ORG
+riennes amÃ	PER
+Lockheed AC-130	MISC
+Ã	MISC
+quipÃ	MISC
+Raytheon	ORG
+jÃ  	PER
+Active Denial Systems	ORG
+focalisÃ	MISC
+Ã	MISC
+gÃ	MISC
+nÃ¨rent	MISC
+L'innocuitÃ	MISC
+utilisÃ	MISC
+amÃ	PER
+ricain USS	PER
+Golfe persique Ã	LOC
+quipÃ	LOC
+secrÃ¨te	ORG
+portÃ	PER
+Office of Naval Research	MISC
+Insectes	MISC
+Hybrid Insect	MISC
+Electro	ORG
+Mechanical Systems	ORG
+Defense Advanced Research Projects Agency	ORG
+Darpa	ORG
+DÃ	ORG
+fense amÃ	PER
+pensÃ	LOC
+tÃªte	MISC
+SALT II	MISC
+Jerry Pournelle	PER
+systÃ¨me Thor	PER
+extrÃªme	ORG
+Lâ€™US	MISC
+sentÃ	MISC
+tungstÃ¨ne	ORG
+mÃ¨tres	MISC
+sistent Ã  	MISC
+mÃ¨tres	MISC
+pÃ	ORG
+nÃ	ORG
+pais	LOC
+coÃ»ts gigantesques gÃ	MISC
+nÃ	ORG
+La guerre des robots	MISC
+rÃ¨gleront	MISC
+Ãªtre Ã	PER
+utilisÃ	ORG
+EquipÃ	MISC
+Boston Dynamics â€	MISC
+Google â€	MISC
+avancÃ	PER
+Lâ€™	MISC
+Stephen Hawking	PER
+Steve Wozniak	PER
+Noam Chomsky	PER
+â€	MISC
+Nations Unies	ORG
