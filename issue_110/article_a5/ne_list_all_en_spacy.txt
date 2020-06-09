@@ -1,5 +1,0 @@
-3D	CARDINAL
-Daniel Saraga	PERSON
-Swiss	NORP
-three	CARDINAL
-2D	CARDINAL
