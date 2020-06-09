@@ -1,4 +1,0 @@
-Author	MISC
-Daniel Saraga	PER
-Title:	MISC
-premi√®re id√	LOC
