@@ -1,0 +1,81 @@
+Agroscope	MISC
+Bern	LOC/ORG
+Botulinumneurotoxin	PER
+Bundes	LOC
+Bundesamt für Rüstung	ORG
+Bundesamts für Bevölkerungsschutz	ORG
+Bührle	LOC
+Corina Liebi	PER
+David Gugerli	PER
+Deutschland	LOC
+Disziplinen	MISC
+Dual	LOC
+Dual-Use	LOC
+Dual-Use-Güter	ORG
+Dual-Use-Potenzial	MISC
+Dual-Use-Thematik	MISC
+EPFL	ORG
+ETH	ORG
+ETH Zürich	ORG
+ETHs	MISC
+Einzelfällen	LOC
+Empa	LOC
+Finger	LOC
+Forschungspartnerschaften	MISC
+Forschungsziele	ORG
+Frankreich	LOC
+GSoA	MISC/ORG
+Grenzen	LOC
+Gugerli	LOC
+Hochschule	ORG
+Hochschule für Gestaltung Offenbach	ORG
+Im letzten Jahr	MISC
+Instituts für Infektionskrankheiten	ORG
+Janine Bächle	PER
+Japan	LOC
+Kollaboration	LOC
+Kontrollratsgesetz Nr.	LOC
+Kryptografie	LOC
+Liebi	PER
+Life Sciences	ORG
+Manhattan Project	ORG
+Max Brück	PER
+Militär	ORG
+Neuenburg	LOC
+Pentagon	LOC
+Richtlinien	LOC
+Roland Fischer	PER
+Schweiz	LOC
+Schweizer	MISC
+Seco	ORG
+Staatssekretariat für Wirtschaft	ORG
+TU Berlin	ORG
+TU-Forschungsabteilung	ORG
+Technische Universität Berlin	ORG
+Technische Universität Kaiserslautern	ORG
+Teleskop-Kontaktlinse	MISC
+Thomas Leibundgut	PER
+Tierversuchen	MISC
+Trümmerteile	LOC
+US Air Force	ORG
+USA	LOC
+UZH	ORG
+Uni	ORG
+Uni Basel	ORG
+University of Oxford	ORG
+Universität Bern	ORG
+Universität Zürich	ORG
+Use Joker	PER
+Waffen-Forschungsprojekte	MISC
+Workshop	LOC
+Zivilklausel	LOC
+Zweiten Weltkrieg	MISC
+Zürich	ORG
+amerikanische	MISC
+der Schweiz	LOC
+europäischen	MISC
+forschungspolitischen	MISC
+französischen Ingenieurs-tradition	ORG
+industriellen Revolution	MISC
+schweizerisches	MISC
+|	MISC

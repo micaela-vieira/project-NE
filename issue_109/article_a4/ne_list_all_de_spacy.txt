@@ -1,0 +1,114 @@
+Dual	LOC
+Use Joker	PER
+Roland Fischer	PER
+Schweizer	MISC
+Max Brück	PER
+Hochschule für Gestaltung Offenbach	ORG
+Workshop	LOC
+|	MISC
+Janine Bächle	PER
+Schweizer	MISC
+ETH Zürich	ORG
+ETH	ORG
+Waffen-Forschungsprojekte	MISC
+Uni Basel	ORG
+Uni Basel	ORG
+Life Sciences	ORG
+Disziplinen	MISC
+EPFL	ORG
+Staatssekretariat für Wirtschaft	ORG
+Seco	ORG
+Dual-Use-Güter	ORG
+Richtlinien	LOC
+Schweiz	LOC
+Bundesamt für Rüstung	ORG
+Schweizer	MISC
+Forschungspartnerschaften	MISC
+Bern	ORG
+Zürich	ORG
+ETHs	MISC
+Empa	LOC
+Agroscope	MISC
+University of Oxford	ORG
+Technische Universität Kaiserslautern	ORG
+Universität Bern	ORG
+Instituts für Infektionskrankheiten	ORG
+Bundesamts für Bevölkerungsschutz	ORG
+Botulinumneurotoxin	PER
+Uni	ORG
+Universität Bern	ORG
+Pentagon	LOC
+der Schweiz	LOC
+amerikanische	MISC
+ETH Zürich	ORG
+Zürich	ORG
+Bern	LOC
+Neuenburg	LOC
+Teleskop-Kontaktlinse	MISC
+Dual-Use	LOC
+Universität Zürich	ORG
+UZH	ORG
+Dual-Use-Potenzial	MISC
+Militär	ORG
+USA	LOC
+Universität Bern	ORG
+US Air Force	ORG
+Trümmerteile	LOC
+Finger	LOC
+Technische Universität Berlin	ORG
+TU Berlin	ORG
+TU Berlin	ORG
+Zweiten Weltkrieg	MISC
+Kontrollratsgesetz Nr.	LOC
+Deutschland	LOC
+Kryptografie	LOC
+Tierversuchen	MISC
+Zivilklausel	LOC
+TU Berlin	ORG
+Im letzten Jahr	MISC
+TU-Forschungsabteilung	ORG
+Forschungsziele	ORG
+Einzelfällen	LOC
+Grenzen	LOC
+Japan	LOC
+Schweiz	LOC
+Deutschland	LOC
+TU Berlin	ORG
+der Schweiz	LOC
+Schweiz	LOC
+GSoA	MISC
+der Schweiz	LOC
+Dual-Use	LOC
+Thomas Leibundgut	PER
+der Schweiz	LOC
+Schweizer	MISC
+GSoA	MISC
+Bern	LOC
+Universität Bern	ORG
+Corina Liebi	PER
+Kollaboration	LOC
+GSoA	ORG
+forschungspolitischen	MISC
+Liebi	PER
+Schweizer	MISC
+David Gugerli	PER
+industriellen Revolution	MISC
+Hochschule	ORG
+Militär	ORG
+Gugerli	LOC
+ETH	ORG
+französischen Ingenieurs-tradition	ORG
+schweizerisches	MISC
+Schweiz	LOC
+Schweizer	MISC
+Bührle	LOC
+Bundes	LOC
+europäischen	MISC
+Frankreich	LOC
+Schweiz	LOC
+Schweiz	LOC
+Zweiten Weltkrieg	MISC
+Manhattan Project	ORG
+Dual-Use-Thematik	MISC
+Roland Fischer	PER
+Bern	LOC
