@@ -1,0 +1,24 @@
+Swiss	NORP
+Maurice Campagna	PERSON
+Valérie Chételat	ORG
+twenty	CARDINAL
+only four	CARDINAL
+the 1860s	DATE
+Swiss	NORP
+Friedrich Miescher	PERSON
+James Watson	PERSON
+Francis Crick	PERSON
+Maurice Wilkins	PERSON
+the Nobel Prize for Medicine	WORK_OF_ART
+1962	DATE
+Two	CARDINAL
+four	CARDINAL
+Switzerland	GPE
+four	CARDINAL
+European	NORP
+Horizon 2020	DATE
+Switzerland	GPE
+DOCA	ORG
+Switzerland	GPE
+Maurice Campagna	PERSON
+the Swiss Academies of Arts and Science	ORG

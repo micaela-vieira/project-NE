@@ -1,0 +1,36 @@
+A	LOC
+ATGC	MISC
+Adenin	LOC
+Autonomie	ORG
+C	MISC
+Cytosin	LOC
+DNA	ORG
+DOKA	ORG
+Desoxyribonukleinsäure	MISC
+Doppelhelix	LOC/PER
+Forschungsprojekten	LOC
+Francis Crick	PER
+Friedrich Miescher	PER
+G	LOC
+Guanin	LOC
+Hochhäusern	LOC
+Horizon 2020	MISC
+James Watson	PER
+Lebewesen	LOC/PER
+Maurice Campagna	PER
+Maurice Wilkins	PER
+Nobelpreis für Medizin	MISC
+Nuklein	LOC
+Schweiz	LOC
+Schweizer	MISC
+T	LOC
+Thymin	LOC
+Valérie Chételat	PER
+Wissenschaften Schweiz	ORG
+Wissenschaftlerinnen	LOC
+Wissenschaftlern	LOC
+act local	PER
+der Schweiz	LOC
+erfolgreichem	MISC
+europäischen	MISC
+think global	MISC

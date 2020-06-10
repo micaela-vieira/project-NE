@@ -1,0 +1,13 @@
+Académies suisses des sciences	ORG
+C	MISC
+DOCA	ORG
+Francis Crick	PER
+Friedrich Miescher	PER
+G	LOC
+Horizon 2020	ORG
+James Watson	PER
+Maurice Campagna	PER
+Maurice Wilkins	PER
+Suisse	LOC
+Valérie Chételat	PER
+prix Nobel de médecine	MISC
