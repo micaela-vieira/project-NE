@@ -1,0 +1,37 @@
+Advance Care Planning	ORG
+Advanced Care Planning	ORG
+Aebi	PER
+Aebi-Müller	PER
+Bern	LOC
+Deutschschweiz	LOC
+Epidemiologie und Public Health	ORG
+Florida	LOC
+Genf	LOC
+Genfer	MISC
+Heike Gudat	PER
+Krones	PER
+Milo Puhan	PER
+Müller	PER
+NFP	ORG
+Puhan	PER
+Ralf Jox	PER
+Regina Aebi	PER
+Regina Aebi-Müller	PER
+Schiavo	PER
+Schweiz	LOC
+Schweizer	MISC
+Sterbewünsche bei Menschen in schwerer Krankheit	MISC
+Susanne Wenger	PER
+Tanja Krones	PER
+Terri Schiavo	PER
+Terris	PER
+US	ORG
+Universität Luzern	ORG
+Universität Zürich	ORG
+Universitäten Luzern	ORG
+Universitäten Zürich	ORG
+Universitätsspital Zürich	LOC
+Zürcher	MISC
+Zürich	LOC
+australische	MISC
+www.nfp67.ch	MISC

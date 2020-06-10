@@ -1,0 +1,16 @@
+Daniel Saraga	PERSON
+EMPA/Fotograf	ORG
+Beat Geyer	PERSON
+one	CARDINAL
+50 cm square	QUANTITY
+one day	DATE
+Andrea Bergamini	PERSON
+Empa	ORG
+Dübendorf	GPE
+Bergamini	PERSON
+3	CARDINAL
+4 cm	QUANTITY
+99 percent	PERCENT
+800 Hz	QUANTITY
+Empa	ORG
+10 cm)	QUANTITY

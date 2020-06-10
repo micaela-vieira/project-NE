@@ -1,0 +1,16 @@
+Flavio Anselmetti	PER
+International Union of Geological Sciences	ORG
+Manu Friederich	PER
+Maya-Ton	MISC
+zentralamerikanischen	MISC
+Flavio Anselmetti	PER
+Universität Bern	ORG
+Wasserforschungsinstitut Eawag	ORG
+Dübendorf	LOC
+Manu Friederich	PER
+Golden Spike	MISC
+Golden Spike	MISC
+Golden Spike	ORG
+Jed O. Kaplan	PER
+Institut des dynamiques de la surface terrestre	ORG
+Universität Lausanne	ORG

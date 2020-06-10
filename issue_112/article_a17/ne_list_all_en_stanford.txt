@@ -1,0 +1,66 @@
+Roland Fischer	PERSON
+just over a kilogram	QUANTITY
+Switzerland	GPE
+CubETH	PRODUCT
+four-inch	QUANTITY
+USA	GPE
+Reto Wiesendanger	PERSON
+EPFL	ORG
+several years	DATE
+the coming years	DATE
+Switzerland	GPE
+Astrocast	ORG
+Lausanne	GPE
+one kilobyte	QUANTITY
+Markus Rothacher	PERSON
+ETH Zurich	ORG
+today	DATE
+EPFL	ORG
+Astrocast	ORG
+Swisscube	PRODUCT
+first	ORDINAL
+Swiss	NORP
+2009	DATE
+CubETH	PRODUCT
+ETH Zurich	ORG
+EPFL	ORG
+four-inch	QUANTITY
+American	NORP
+ETH Zurich	ORG
+Thalwil	ORG
+U-Blox	ORG
+Ruag Space	ORG
+the Paul Scherrer Institute	ORG
+CubETH	PRODUCT
+Astrocast	ORG
+2017	DATE
+one	CARDINAL
+first	ORDINAL
+Lausanne	GPE
+Astrocast	ORG
+64	CARDINAL
+the coming years	DATE
+Earth	LOC
+Fabien Jordan	PERSON
+Michael Swartwout	PERSON
+the University St. Louis	ORG
+2014	DATE
+the year 2020	DATE
+thousands	CARDINAL
+that same year	DATE
+Oneweb	ORG
+648	CARDINAL
+Earth	LOC
+Elon Musk	PERSON
+Tesla	ORG
+November	DATE
+Oneweb	ORG
+Ruag	PRODUCT
+Switzerland	GPE
+billions	CARDINAL
+Switzerland	GPE
+600-plus	CARDINAL
+20 million	CARDINAL
+33,000	MONEY
+Roland Fischer	PERSON
+Bern	GPE

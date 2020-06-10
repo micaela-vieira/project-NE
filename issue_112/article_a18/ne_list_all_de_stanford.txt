@@ -1,0 +1,9 @@
+Daniel Saraga	PER
+EMPA/Fotograf	MISC
+Beat Geyer	PER
+Andrea Bergamini	PER
+Empa	ORG
+Dübendorf	LOC
+Bergamini	PER
+SLS	MISC
+Empa-Team	ORG

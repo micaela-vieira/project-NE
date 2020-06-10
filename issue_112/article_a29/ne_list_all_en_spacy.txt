@@ -1,0 +1,69 @@
+Susanne Wenger	PERSON
+today	DATE
+thirteen days	DATE
+Terri Schiavo	PERSON
+fifteen years	DATE
+Florida	GPE
+late March 2005	DATE
+Schiavo	PERSON
+US	GPE
+today	DATE
+Switzerland	GPE
+Zurich	GPE
+Geneva	GPE
+German	NORP
+Switzerland	GPE
+2013	DATE
+80 percent	PERCENT
+recent decades	DATE
+The Swiss Act on the Protection of Adults	LAW
+2013	DATE
+first	ORDINAL
+Lucerne	GPE
+Zurich	GPE
+daily	DATE
+Regina Aebi-Müller	PERSON
+the University of Lucerne	ORG
+Lucerne	GPE
+Zurich	GPE
+Aebi-Müller	ORG
+National Research Programme	ORG
+67	CARDINAL
+Aebi-Müller	ORG
+same night	TIME
+kin	ORG
+One	CARDINAL
+three	CARDINAL
+Tanja Krones	PERSON
+the Clinical Ethics Committee	ORG
+the University Hospital of Zurich	ORG
+the past ten years	DATE
+Milo Puhan	PERSON
+the University of Zurich	ORG
+Zurich	GPE
+Geneva	GPE
+just eight percent	PERCENT
+twelve percent	PERCENT
+a further eight percent	PERCENT
+kin	ORG
+Puhan	ORG
+one	CARDINAL
+Australian	NORP
+the last three days	DATE
+Aebi-Müller	ORG
+Aebi-Müller	ORG
+The Zurich University Hospital	ORG
+Zurich University Hospital	ORG
+100	CARDINAL
+only 17	CARDINAL
+five to seven	CARDINAL
+Krones	PERSON
+kin	ORG
+Krones	PERSON
+Switzerland	GPE
+Ralf Jox	PERSON
+Susanne Wenger	PERSON
+Bern	ORG
+National Research Programme	ORG
+67	CARDINAL
+www.nfp67.ch	CARDINAL

@@ -1,0 +1,41 @@
+Astrocast	LOC/ORG
+Aufruhr	LOC
+Bern	LOC
+CEO Fabien Jordan	ORG
+CubETH	MISC
+Deals	LOC
+Disziplinen von Meteorologie	PER
+EPFL	ORG
+EPFL-Spin-off Astrocast	LOC
+ETH Zürich	ORG
+ETH-Forscher	MISC
+Elon Musk	PER
+GNSS-Chips	MISC
+Grossserien	LOC
+Internet	MISC
+Lausanne	LOC
+Lausanner	LOC
+Low Cost	MISC/ORG
+Markus Rothacher	PER
+Michael Swartwout	PER
+New Space Movement	MISC
+Oneweb	ORG/PER
+Raumfahrtszene	LOC
+Reto Wiesendanger	PER
+Roland Fischer	PER
+Ruag Space	LOC
+Schweiz	LOC
+Schweizer	MISC
+Stange	MISC
+Strahlungstests am Paul-Scherrer-Institut	LOC
+Telekommunikation	ORG
+Tsunamiwarnsysteme	LOC
+Unabhängiges GPS	ORG
+University St. Louis	ORG
+Würfel	PER
+Zentimetern	LOC
+amerikanischen	MISC
+der Schweiz	LOC
+raschen Wachstums	LOC
+schweizerische	MISC
+|	MISC

@@ -1,0 +1,37 @@
+Title: L’espace	MISC
+Roland Fischer	PER
+CubETH	MISC
+Reto Wiesendanger	PER
+EPFL	ORG
+Suisse	LOC
+EPFL Astrocast	ORG
+Internet	MISC
+Low cost»	MISC
+Markus Rothacher	PER
+ETH Zurich	LOC
+Astrocast	PER
+Swisscube	LOC
+CubETH	MISC
+U	ORG
+Blox de Thalwil	PER
+ZH	MISC
+Institut Paul Scherrer	LOC
+Ruag Space	LOC
+CubETH	MISC
+Astrocast	MISC
+»	ORG
+Fabien Jordan	PER
+Internet	MISC
+Michael Swartwout	PER
+Université de Saint	ORG
+Louis aux Etats	PER
+Unis	PER
+Oneweb	MISC
+Internet	MISC
+Tesla Elon Musk	PER
+Oneweb	PER
+Ruag	LOC
+Low cost	ORG
+Suisse	LOC
+Roland Fischer	PER
+Berne	LOC

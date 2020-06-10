@@ -1,0 +1,39 @@
+Roland Fischer	PER
+Les	LOC
+Chercheurs	LOC
+CubETH	MISC
+Reto Wiesendanger	PER
+EPFL	ORG
+Les	LOC
+Suisse	LOC
+EPFL Astrocast:	ORG
+Internet	MISC
+Cette	LOC
+Les	LOC
+L’entreprise	LOC
+«Low cost	MISC
+Markus Rothacher	PER
+ETH Zurich	LOC
+Astrocast	MISC
+Swisscube	MISC
+CubETH	MISC
+U-Blox	MISC
+Thalwil	ORG
+ZH	ORG
+Institut Paul Scherrer	LOC
+Ruag Space	ORG
+CubETH	MISC
+Astrocast	MISC
+Fabien Jordan	PER
+Internet	MISC
+Michael Swartwout	PER
+Université de Saint-Louis aux Etats-Unis	ORG
+Des	LOC
+Oneweb	ORG
+Internet	MISC
+Tesla Elon Musk	PER
+Oneweb	MISC
+Ruag	ORG
+Suisse	LOC
+Roland Fischer	PER
+Berne	LOC

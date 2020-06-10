@@ -1,0 +1,52 @@
+Low Cost	ORG
+Roland Fischer	PER
+der Schweiz	LOC
+Zentimetern	LOC
+CubETH	MISC
+amerikanischen	MISC
+|	MISC
+Reto Wiesendanger	PER
+EPFL	ORG
+Raumfahrtszene	LOC
+Aufruhr	LOC
+Schweiz	LOC
+Astrocast	ORG
+Lausanne	LOC
+Internet	MISC
+Deals	LOC
+Low Cost	MISC
+New Space Movement	MISC
+Markus Rothacher	PER
+ETH Zürich	ORG
+Unabhängiges GPS	ORG
+EPFL-Spin-off Astrocast	LOC
+Schweizer	MISC
+CubETH	MISC
+ETH Zürich	ORG
+EPFL	ORG
+Würfel	PER
+amerikanischen	MISC
+Stange	MISC
+ETH-Forscher	MISC
+Grossserien	LOC
+GNSS-Chips	MISC
+Ruag Space	LOC
+Strahlungstests am Paul-Scherrer-Institut	LOC
+Lausanner	LOC
+Astrocast	LOC
+CEO Fabien Jordan	ORG
+Disziplinen von Meteorologie	PER
+Tsunamiwarnsysteme	LOC
+Internet	MISC
+Michael Swartwout	PER
+University St. Louis	ORG
+raschen Wachstums	LOC
+Telekommunikation	ORG
+Oneweb	ORG
+Internet	MISC
+Elon Musk	PER
+Oneweb	PER
+schweizerische	MISC
+Schweiz	LOC
+Roland Fischer	PER
+Bern	LOC

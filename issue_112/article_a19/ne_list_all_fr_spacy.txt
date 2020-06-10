@@ -1,0 +1,32 @@
+Title:	MISC
+Anthropocène	LOC
+Author: Flavio Anselmetti	MISC
+Union internationale	ORG
+Anthropocène	LOC
+Manu Friederich	PER
+Fotomontage	LOC
+l’Holocène	PER
+Terre	LOC
+Anthropocène	LOC
+Amérique centrale	LOC
+Commission internationale de stratigraphie	ORG
+Anthropocène	LOC
+Terre	LOC
+Anthropocène	LOC
+Holocène	PER
+Flavio Anselmetti	PER
+Université de Berne	ORG
+Eawag	LOC
+Dübendorf	LOC
+Manu Friederich	PER
+Fotomontage	LOC
+Soleil	LOC
+Anthropocène	LOC
+A	LOC
+XIXe	ORG
+Terre	LOC
+Anthropocène	LOC
+Anthropocène	LOC
+Jed O. Kaplan	PER
+Institut des dynamiques de la surface	ORG
+Université de Lausanne	ORG

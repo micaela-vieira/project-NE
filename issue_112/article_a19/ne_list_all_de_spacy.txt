@@ -1,0 +1,33 @@
+Flavio Anselmetti	PER
+Spezies Mensch	ORG
+International Union of Geological Sciences	ORG
+Manu Friederich	PER
+Holozäns	LOC
+Spezies Mensch	MISC
+Zutun	PER
+Treibhausgasen	LOC
+Bodenerosion	PER
+“	MISC
+“Maya-Ton	MISC
+gleiche Sprache	MISC
+internationale stratigrafische Kommission	ORG
+Kommission	ORG
+Systems Erde	LOC
+Flavio Anselmetti	PER
+Universität Bern	ORG
+Wasserforschungsinstitut Eawag	ORG
+Dübendorf	LOC
+Manu Friederich	PER
+Golden Spike	MISC
+System Erde	LOC
+Jahrhunderts	PER
+radiometrische	MISC
+Zeit	MISC
+Epochen	MISC
+Golden Spike	MISC
+Golden Spike	MISC
+Geologiestudenten	PER
+Zeit	MISC
+Jed O. Kaplan	PER
+Institut des dynamiques de la surface terrestre	ORG
+Universität Lausanne	ORG

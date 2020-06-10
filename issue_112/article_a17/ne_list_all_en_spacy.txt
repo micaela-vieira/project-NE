@@ -1,0 +1,58 @@
+Roland Fischer	PERSON
+Switzerland	GPE
+four-inch	QUANTITY
+GPS	ORG
+USA	GPE
+Reto Wiesendanger	PERSON
+several years	DATE
+the coming years	DATE
+Switzerland	GPE
+Astrocast	ORG
+Lausanne	GPE
+one	CARDINAL
+Markus Rothacher	PERSON
+ETH Zurich	ORG
+today	DATE
+Astrocast	ORG
+Swisscube	PRODUCT
+first	ORDINAL
+Swiss	NORP
+2009	DATE
+ETH Zurich	ORG
+EPFL	ORG
+four-inch	QUANTITY
+American	NORP
+GPS	ORG
+ETH Zurich	ORG
+GNSS	ORG
+Thalwil	GPE
+the Paul Scherrer Institute	ORG
+Astrocast	LOC
+2017	DATE
+one	CARDINAL
+first	ORDINAL
+Lausanne	GPE
+Astrocast	ORG
+64	CARDINAL
+the coming years	DATE
+Earth	LOC
+Fabien Jordan	PERSON
+Michael Swartwout	PERSON
+the University St. Louis	ORG
+2014	DATE
+the year 2020	DATE
+thousands	CARDINAL
+that same year	DATE
+Oneweb	ORG
+648	CARDINAL
+Earth	LOC
+Elon Musk	PERSON
+Tesla	ORG
+November	DATE
+Oneweb	ORG
+Switzerland	GPE
+Switzerland	GPE
+20 million	CARDINAL
+33,000	CARDINAL
+Roland Fischer	PERSON
+Bern	ORG

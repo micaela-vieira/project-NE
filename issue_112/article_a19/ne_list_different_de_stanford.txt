@@ -1,0 +1,12 @@
+Dübendorf	LOC
+Flavio Anselmetti	PER
+Golden Spike	MISC/ORG
+Institut des dynamiques de la surface terrestre	ORG
+International Union of Geological Sciences	ORG
+Jed O. Kaplan	PER
+Manu Friederich	PER
+Maya-Ton	MISC
+Universität Bern	ORG
+Universität Lausanne	ORG
+Wasserforschungsinstitut Eawag	ORG
+zentralamerikanischen	MISC

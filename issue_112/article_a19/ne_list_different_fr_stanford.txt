@@ -1,0 +1,23 @@
+A	MISC
+Amérique centrale	LOC
+Anthropocène	LOC/MISC
+Ce	LOC
+Commission internationale de stratigraphie	ORG
+Dübendorf	LOC
+Eawag	LOC
+Flavio Anselmetti	PER
+Fotomontage	MISC
+Holocène	LOC
+Institut des dynamiques de la surface terrestre	ORG
+Jed O. Kaplan	PER
+L'anthropocène	MISC
+Les	LOC
+L’homme	LOC
+L’utilisation	LOC
+Manu Friederich	PER
+Soleil	LOC
+Terre	LOC
+Union internationale des sciences géologiques	ORG
+Université de Berne	LOC
+Université de Lausanne	ORG
+l'Anthropocène	MISC

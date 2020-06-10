@@ -1,0 +1,35 @@
+Anthropocène	MISC
+Flavio Anselmetti	PER
+Union internationale des sciences géologiques	ORG
+Anthropocène	LOC
+Manu Friederich	PER
+Fotomontage	MISC
+Holocène	LOC
+Terre	LOC
+Anthropocène	MISC
+Les	LOC
+L’utilisation	LOC
+Ce	LOC
+Amérique centrale	LOC
+Commission internationale de stratigraphie	ORG
+Anthropocène	MISC
+Terre	LOC
+Anthropocène	LOC
+Holocène	LOC
+L’homme	LOC
+Flavio Anselmetti	PER
+Université de Berne	LOC
+Eawag	LOC
+Dübendorf	LOC
+Manu Friederich	PER
+Fotomontage	MISC
+L'anthropocène	MISC
+Soleil	LOC
+Anthropocène	MISC
+A	MISC
+Terre	LOC
+l'Anthropocène	MISC
+l'Anthropocène	MISC
+Jed O. Kaplan	PER
+Institut des dynamiques de la surface terrestre	ORG
+Université de Lausanne	ORG

@@ -1,0 +1,26 @@
+11,700 years ago	DATE
+1850	DATE
+19th-century	DATE
+4.6 billion years	MONEY
+Anthropocene	GPE/LOC/WORK_OF_ART
+Central American	NORP
+Commission	ORG
+Dübendorf	GPE
+Earth	LOC
+Eawag	GPE
+Flavio Anselmetti	PERSON
+Fotomontage	ORG
+Holocene	ORG
+Jed O. Kaplan	PERSON
+Manu Friederich	PERSON
+about 200,000 years	DATE
+about 65 million years ago	DATE
+first	ORDINAL
+millions of years old	DATE
+recent decades	DATE
+the Institute of Earth Surface Dynamics of the University of Lausanne	ORG
+the International Commission on Stratigraphy	ORG
+the International Union of Geological Sciences	ORG
+the University of Bern	ORG
+the end of the last Ice Age	DATE
+today	DATE

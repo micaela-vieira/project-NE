@@ -1,0 +1,13 @@
+Title: Fabriquer du silence	MISC
+Daniel Saraga	PER
+EMPA	PER
+Fotograf Beat Geyer	PER
+Cet	LOC
+Andrea Bergamini	PER
+EMPA	ORG
+Dübendorf	LOC
+Andrea Bergamini	PER
+SLS	MISC
+Les	LOC
+«Notre	LOC
+EMPA	MISC

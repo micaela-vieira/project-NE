@@ -1,0 +1,12 @@
+Daniel Saraga	PER
+EMPA/Fotograf Beat Geyer	PER
+Lärm	PER
+Gebäuden	LOC
+Andrea Bergamini	PER
+Dübendorf	LOC
+phononischen	MISC
+Bergamini	PER
+Polymerpulver	MISC
+Luftfahrtbereich	LOC
+menschlichen Sprache	MISC
+dick	PER

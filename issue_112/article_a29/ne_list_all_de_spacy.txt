@@ -1,0 +1,63 @@
+Susanne Wenger	PER
+Patient	PER
+Heike Gudat	PER
+Terri Schiavo	PER
+Florida	LOC
+Terris	PER
+US-Justiz	ORG
+Mensch	MISC
+der Schweiz	LOC
+Zürich	ORG
+Genf	ORG
+Lebensende-Entscheidungen	LOC
+Arztes	LOC
+Augenhöhe	PER
+Schweizer	MISC
+Zug	LOC
+Luzern	ORG
+Zürich	ORG
+Regina Aebi-Müller	PER
+Universität Luzern	ORG
+Klartext	PER
+Entscheide	PER
+Intensivstation	LOC
+Patienten	LOC
+Patientenverfügungen	MISC
+Internet	MISC
+Aebi-Müller	PER
+Schichtwechsel	PER
+Tanja Krones	PER
+Universitätsspital Zürich	ORG
+Fehlende Absprachen	PER
+Entscheidungen	LOC
+Milo Puhan	PER
+Public Health	MISC
+Universität Zürich	ORG
+Eigenregie	LOC
+Zürcher	MISC
+Pflegepersonal	LOC
+Lebensende-Entscheidung	MISC
+Puhan	PER
+australische	MISC
+Regina Aebi-Müller	PER
+Aebi-Müller	PER
+Universitätsspital Zürich	LOC
+Advance Care Planning	ORG
+Behandlungsteams	PER
+Behandlungswünsche	MISC
+Internet	MISC
+Tanja Krones	PER
+Patientenwünsche	MISC
+Krones	PER
+Krones	PER
+Demenz	LOC
+Krones	PER
+Advanced Care Planning	ORG
+Schweiz	LOC
+Krones	PER
+Geheimnis	PER
+Ralf Jox	PER
+Susanne Wenger	PER
+Bern	LOC
+NFP 67	MISC
+www.nfp67.ch	MISC

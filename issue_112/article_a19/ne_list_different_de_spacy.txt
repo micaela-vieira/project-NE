@@ -1,0 +1,27 @@
+Bodenerosion	PER
+Dübendorf	LOC
+Epochen	MISC
+Flavio Anselmetti	PER
+Geologiestudenten	PER
+Golden Spike	MISC
+Holozäns	LOC
+Institut des dynamiques de la surface terrestre	ORG
+International Union of Geological Sciences	ORG
+Jahrhunderts	PER
+Jed O. Kaplan	PER
+Kommission	ORG
+Manu Friederich	PER
+Spezies Mensch	MISC/ORG
+System Erde	LOC
+Systems Erde	LOC
+Treibhausgasen	LOC
+Universität Bern	ORG
+Universität Lausanne	ORG
+Wasserforschungsinstitut Eawag	ORG
+Zeit	MISC
+Zutun	PER
+gleiche Sprache	MISC
+internationale stratigrafische Kommission	ORG
+radiometrische	MISC
+“	MISC
+“Maya-Ton	MISC

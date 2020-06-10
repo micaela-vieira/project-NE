@@ -1,0 +1,12 @@
+10 cm	QUANTITY
+3D	CARDINAL
+4 cm	QUANTITY
+50 cm square	QUANTITY
+800	CARDINAL
+99 percent	PERCENT
+Andrea Bergamini	PERSON
+Bergamini	PERSON
+Daniel Saraga	PERSON
+Dübendorf	GPE
+Empa	LOC/PERSON
+one	CARDINAL

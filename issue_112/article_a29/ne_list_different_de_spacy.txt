@@ -1,0 +1,53 @@
+Advance Care Planning	ORG
+Advanced Care Planning	ORG
+Aebi-Müller	PER
+Arztes	LOC
+Augenhöhe	PER
+Behandlungsteams	PER
+Behandlungswünsche	MISC
+Bern	LOC
+Demenz	LOC
+Eigenregie	LOC
+Entscheide	PER
+Entscheidungen	LOC
+Fehlende Absprachen	PER
+Florida	LOC
+Geheimnis	PER
+Genf	ORG
+Heike Gudat	PER
+Intensivstation	LOC
+Internet	MISC
+Klartext	PER
+Krones	PER
+Lebensende-Entscheidung	MISC
+Lebensende-Entscheidungen	LOC
+Luzern	ORG
+Mensch	MISC
+Milo Puhan	PER
+NFP 67	MISC
+Patient	PER
+Patienten	LOC
+Patientenverfügungen	MISC
+Patientenwünsche	MISC
+Pflegepersonal	LOC
+Public Health	MISC
+Puhan	PER
+Ralf Jox	PER
+Regina Aebi-Müller	PER
+Schichtwechsel	PER
+Schweiz	LOC
+Schweizer	MISC
+Susanne Wenger	PER
+Tanja Krones	PER
+Terri Schiavo	PER
+Terris	PER
+US-Justiz	ORG
+Universität Luzern	ORG
+Universität Zürich	ORG
+Universitätsspital Zürich	LOC/ORG
+Zug	LOC
+Zürcher	MISC
+Zürich	ORG
+australische	MISC
+der Schweiz	LOC
+www.nfp67.ch	MISC

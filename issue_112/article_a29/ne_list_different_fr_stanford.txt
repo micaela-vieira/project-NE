@@ -1,0 +1,30 @@
+Advance Care Planning	MISC
+Berne	LOC
+Ces	LOC
+Des	LOC
+Diagnostiquer	MISC
+EMS	MISC
+Genève	LOC
+Hôpital universitaire de Zurich	LOC
+Internet	MISC
+Les	LOC
+Lorsque	LOC
+Lucerne	LOC
+Milo Puhan	PER
+PNR	ORG
+Programme national de recherche «Fin de vie	ORG
+Programme national de recherche «Fin de vie	ORG
+Ralf Jox	PER
+Regina Aebi-Müller	PER
+Schiavo	PER
+Suisse	LOC
+Suisse alémanique	LOC
+Susanne Wenger	PER
+Tanja Krones	PER
+Terri Schiavo	PER
+Un	LOC
+Une personne	MISC
+Université de Lucerne	LOC
+Université de Zurich	LOC
+Zurich	LOC
+«Une	LOC

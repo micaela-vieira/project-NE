@@ -1,0 +1,46 @@
+Susanne Wenger	PER
+Sterbewünsche bei Menschen in schwerer Krankheit	MISC
+Heike Gudat	PER
+Terri Schiavo	PER
+Florida	LOC
+Terris	PER
+Schiavo	PER
+US	ORG
+Schweiz	LOC
+Universitäten Zürich	ORG
+Genf	LOC
+Deutschschweiz	LOC
+Schweizer	MISC
+Universitäten Luzern	ORG
+Zürich	LOC
+Regina Aebi	PER
+Müller	PER
+Universität Luzern	ORG
+Aebi	PER
+Müller	PER
+Aebi-Müller	PER
+Tanja Krones	PER
+Universitätsspital Zürich	LOC
+Milo Puhan	PER
+Epidemiologie und Public Health	ORG
+Universität Zürich	ORG
+Zürcher	MISC
+Genfer	MISC
+Puhan	PER
+australische	MISC
+Regina Aebi-Müller	PER
+Aebi-Müller	PER
+Universitätsspital Zürich	LOC
+Advance Care Planning	ORG
+Tanja Krones	PER
+Krones	PER
+Krones	PER
+Krones	PER
+Advanced Care Planning	ORG
+Schweiz	LOC
+Krones	PER
+Ralf Jox	PER
+Susanne Wenger	PER
+Bern	LOC
+NFP	ORG
+www.nfp67.ch	MISC

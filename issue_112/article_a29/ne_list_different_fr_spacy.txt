@@ -1,0 +1,24 @@
+Advance Care	MISC
+Advance Care Planning	MISC
+Berne	LOC
+Genève	LOC
+Hôpital universitaire de Zurich	LOC
+Internet	MISC
+Lucerne	LOC
+Milo Puhan	PER
+Müller	PER
+PNR	ORG
+Programme national de recherche «Fin de vie»	ORG
+Programme national de recherche «Fin de vie»	ORG
+Ralf Jox	PER
+Regina Aebi	PER
+Schiavo	PER
+Suisse	LOC
+Susanne Wenger	PER
+Tanja Krones	PER
+Terri Schiavo	PER
+Université de Lucerne	LOC
+Université de Zurich	ORG
+Zurich	LOC
+www.nfp67.ch	LOC
+»	ORG

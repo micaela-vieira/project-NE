@@ -1,0 +1,45 @@
+Flavio Anselmetti	PERSON
+the International Union of Geological Sciences	ORG
+Manu Friederich	PERSON
+Fotomontage	GPE
+Holocene	LOC
+the end of the last Ice Age: 11,700 years ago	DATE
+recent decades	DATE
+Earth	LOC
+the preceding 4.6 billion years	DATE
+Earth	LOC
+millions of years old	DATE
+Earth	LOC
+Maya	NORP
+Central American	NORP
+the International Commission on Stratigraphy	ORG
+Commission	ORG
+Anthropocene	EVENT
+Earth	LOC
+Anthropocene	ORG
+Holocene	LOC
+Anthropocene	PRODUCT
+Flavio Anselmetti	PERSON
+the University of Bern	ORG
+Head of Sedimentology	ORG
+Swiss	NORP
+Eawag	ORG
+Dübendorf	GPE
+Manu Friederich	PERSON
+Fotomontage	GPE
+Earth	LOC
+Earth	LOC
+19th-century	DATE
+first	ORDINAL
+today	DATE
+1850	DATE
+first	ORDINAL
+one	CARDINAL
+Anthropocene	WORK_OF_ART
+about 65 million years ago	DATE
+about 200,000 years	DATE
+Anthropocene	LOC
+Earth	LOC
+Jed O. Kaplan	PERSON
+the Institute of Earth Surface Dynamics	ORG
+the University of Lausanne	ORG

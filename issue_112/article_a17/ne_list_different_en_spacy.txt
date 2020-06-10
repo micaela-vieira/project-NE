@@ -1,0 +1,41 @@
+20 million	CARDINAL
+2009	DATE
+2014	DATE
+2017	DATE
+33,000	CARDINAL
+64	CARDINAL
+648	CARDINAL
+American	NORP
+Astrocast	LOC/ORG
+Bern	ORG
+EPFL	ORG
+ETH Zurich	ORG
+Earth	LOC
+Elon Musk	PERSON
+Fabien Jordan	PERSON
+GNSS	ORG
+GPS	ORG
+Lausanne	GPE
+Markus Rothacher	PERSON
+Michael Swartwout	PERSON
+November	DATE
+Oneweb	ORG
+Reto Wiesendanger	PERSON
+Roland Fischer	PERSON
+Swiss	NORP
+Swisscube	PRODUCT
+Switzerland	GPE
+Tesla	ORG
+Thalwil	GPE
+USA	GPE
+first	ORDINAL
+four-inch	QUANTITY
+one	CARDINAL
+several years	DATE
+that same year	DATE
+the Paul Scherrer Institute	ORG
+the University St. Louis	ORG
+the coming years	DATE
+the year 2020	DATE
+thousands	CARDINAL
+today	DATE

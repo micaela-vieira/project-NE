@@ -1,0 +1,30 @@
+1850	DATE
+19th-century	DATE
+Anthropocene	EVENT/LOC/ORG/PRODUCT/WORK_OF_ART
+Central American	NORP
+Commission	ORG
+Dübendorf	GPE
+Earth	LOC
+Eawag	ORG
+Flavio Anselmetti	PERSON
+Fotomontage	GPE
+Head of Sedimentology	ORG
+Holocene	LOC
+Jed O. Kaplan	PERSON
+Manu Friederich	PERSON
+Maya	NORP
+Swiss	NORP
+about 200,000 years	DATE
+about 65 million years ago	DATE
+first	ORDINAL
+millions of years old	DATE
+one	CARDINAL
+recent decades	DATE
+the Institute of Earth Surface Dynamics	ORG
+the International Commission on Stratigraphy	ORG
+the International Union of Geological Sciences	ORG
+the University of Bern	ORG
+the University of Lausanne	ORG
+the end of the last Ice Age: 11,700 years ago	DATE
+the preceding 4.6 billion years	DATE
+today	DATE

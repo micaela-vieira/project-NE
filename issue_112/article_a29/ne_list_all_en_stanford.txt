@@ -1,0 +1,70 @@
+Susanne Wenger	PERSON
+today	DATE
+97-year old	DATE
+thirteen days	DATE
+Terri Schiavo	PERSON
+fifteen years	DATE
+41-year-old	DATE
+Florida	GPE
+late March 2005	DATE
+Schiavo	PERSON
+US	GPE
+today	DATE
+Switzerland	GPE
+Zurich	GPE
+Geneva	GPE
+German	LANGUAGE
+Switzerland	GPE
+2013	DATE
+80 percent	PERCENT
+recent decades	DATE
+The Swiss Act on the Protection of Adults	LAW
+2013	DATE
+first	ORDINAL
+Lucerne	GPE
+Zurich	GPE
+Regina Aebi-Müller	PERSON
+the University of Lucerne	ORG
+the Act on the Protection of Adults	LAW
+Lucerne	GPE
+Zurich	GPE
+Aebi-Müller	PERSON
+67	CARDINAL
+Aebi-Müller	PERSON
+that same night	TIME
+One	CARDINAL
+three	CARDINAL
+Tanja Krones	PERSON
+the Clinical Ethics Committee	ORG
+the University Hospital of Zurich	ORG
+the past ten years	DATE
+Milo Puhan	PERSON
+the University of Zurich	ORG
+Zurich	GPE
+Geneva	GPE
+just eight percent	PERCENT
+a further twelve percent	PERCENT
+a further eight percent	PERCENT
+Puhan	PERSON
+one	CARDINAL
+Australian	NORP
+the last three days	DATE
+Aebi-Müller	PERSON
+Aebi-Müller	PERSON
+The Zurich University Hospital	ORG
+The Zurich University Hospital	ORG
+Krones	PERSON
+100	CARDINAL
+only 17	CARDINAL
+five	CARDINAL
+seven	CARDINAL
+Krones	PERSON
+Krones	PERSON
+Krones	PERSON
+Switzerland	GPE
+Krones	PERSON
+Ralf Jox	PERSON
+Susanne Wenger	PERSON
+Bern	GPE
+the National Research Programme 67 ‘End of life	WORK_OF_ART
+67	CARDINAL

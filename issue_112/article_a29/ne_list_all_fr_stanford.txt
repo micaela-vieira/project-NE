@@ -1,0 +1,50 @@
+Susanne Wenger	PER
+Terri Schiavo	PER
+Terri Schiavo	PER
+Les	LOC
+Schiavo	PER
+Suisse	LOC
+Zurich	LOC
+Genève	LOC
+Suisse alémanique	LOC
+Ces	LOC
+Une personne	MISC
+Les	LOC
+Lucerne	LOC
+Zurich	LOC
+Regina Aebi-Müller	PER
+Université de Lucerne	LOC
+Les	LOC
+EMS	MISC
+Les	LOC
+Regina Aebi-Müller	PER
+Programme national de recherche «Fin de vie	ORG
+Internet	MISC
+Regina Aebi-Müller	PER
+Lorsque	LOC
+«Une	LOC
+Tanja Krones	PER
+Hôpital universitaire de Zurich	LOC
+Milo Puhan	PER
+Université de Zurich	LOC
+Milo Puhan	PER
+Diagnostiquer	MISC
+Regina Aebi-Müller	PER
+Regina Aebi-Müller	PER
+Un	LOC
+Hôpital universitaire de Zurich	LOC
+Advance Care Planning	MISC
+Des	LOC
+Internet	MISC
+Tanja Krones	PER
+Tanja Krones	PER
+Des	LOC
+Tanja Krones	PER
+Advance Care Planning	MISC
+Suisse	LOC
+Tanja Krones	PER
+Ralf Jox	PER
+Susanne Wenger	PER
+Berne	LOC
+Programme national de recherche «Fin de vie	ORG
+PNR	ORG

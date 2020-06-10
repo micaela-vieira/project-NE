@@ -1,0 +1,51 @@
+100	CARDINAL
+2013	DATE
+41-year-old	DATE
+67	CARDINAL
+80 percent	PERCENT
+97-year old	DATE
+Aebi-Müller	PERSON
+Australian	NORP
+Bern	GPE
+Florida	GPE
+Geneva	GPE
+German	LANGUAGE
+Krones	PERSON
+Lucerne	GPE
+Milo Puhan	PERSON
+One	CARDINAL
+Puhan	PERSON
+Ralf Jox	PERSON
+Regina Aebi-Müller	PERSON
+Schiavo	PERSON
+Susanne Wenger	PERSON
+Switzerland	GPE
+Tanja Krones	PERSON
+Terri Schiavo	PERSON
+The Swiss Act on the Protection of Adults	LAW
+The Zurich University Hospital	ORG
+US	GPE
+Zurich	GPE
+a further eight percent	PERCENT
+a further twelve percent	PERCENT
+fifteen years	DATE
+first	ORDINAL
+five	CARDINAL
+just eight percent	PERCENT
+late March 2005	DATE
+one	CARDINAL
+only 17	CARDINAL
+recent decades	DATE
+seven	CARDINAL
+that same night	TIME
+the Act on the Protection of Adults	LAW
+the Clinical Ethics Committee	ORG
+the National Research Programme 67 ‘End of life	WORK_OF_ART
+the University Hospital of Zurich	ORG
+the University of Lucerne	ORG
+the University of Zurich	ORG
+the last three days	DATE
+the past ten years	DATE
+thirteen days	DATE
+three	CARDINAL
+today	DATE

@@ -1,0 +1,51 @@
+100	CARDINAL
+2013	DATE
+67	CARDINAL
+80 percent	PERCENT
+Aebi-Müller	ORG
+Australian	NORP
+Bern	ORG
+Florida	GPE
+Geneva	GPE
+German	NORP
+Krones	PERSON
+Lucerne	GPE
+Milo Puhan	PERSON
+National Research Programme	ORG
+One	CARDINAL
+Puhan	ORG
+Ralf Jox	PERSON
+Regina Aebi-Müller	PERSON
+Schiavo	PERSON
+Susanne Wenger	PERSON
+Switzerland	GPE
+Tanja Krones	PERSON
+Terri Schiavo	PERSON
+The Swiss Act on the Protection of Adults	LAW
+The Zurich University Hospital	ORG
+US	GPE
+Zurich	GPE
+Zurich University Hospital	ORG
+a further eight percent	PERCENT
+daily	DATE
+fifteen years	DATE
+first	ORDINAL
+five to seven	CARDINAL
+just eight percent	PERCENT
+kin	ORG
+late March 2005	DATE
+one	CARDINAL
+only 17	CARDINAL
+recent decades	DATE
+same night	TIME
+the Clinical Ethics Committee	ORG
+the University Hospital of Zurich	ORG
+the University of Lucerne	ORG
+the University of Zurich	ORG
+the last three days	DATE
+the past ten years	DATE
+thirteen days	DATE
+three	CARDINAL
+today	DATE
+twelve percent	PERCENT
+www.nfp67.ch	CARDINAL

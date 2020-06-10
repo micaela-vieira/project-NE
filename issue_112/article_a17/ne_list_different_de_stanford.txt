@@ -1,0 +1,30 @@
+Astrocast	ORG
+Bern	LOC
+EPFL	ORG
+EPFL-Spin-off Astrocast	ORG
+ETH	ORG
+ETH Zürich	ORG
+Elon Musk	PER
+Fabien Jordan	PER
+Franken	MISC
+Lausanne	LOC
+Lausanner Spin-off	MISC
+Low Cost	MISC
+Markus Rothacher	PER
+Michael Swartwout	PER
+New Space Movement	MISC
+Oneweb	ORG/PER
+Paul-Scherrer	ORG
+Reto Wiesendanger	PER
+Roland Fischer	PER
+Ruag Space	ORG
+Satellit CubETH	ORG
+Schweiz	LOC
+Schweizer	MISC
+Swisscube	MISC
+Tesla	ORG
+Thalwiler	MISC
+U-Blox	ORG
+University St. Louis	ORG
+amerikanischen	MISC
+schweizerische	MISC
