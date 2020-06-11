@@ -2,7 +2,7 @@ AUTHORS:
 Paula Mahler, 17-712-381
 Micaela Alexandra Ribeiro Vieira, 13-760-285
 Tim Schluchter, 16-725-277
-Karin Thommen
+Karin Thommen, 16-580-011
 
 
 
