@@ -1,0 +1,9 @@
+Jochen Paulus	PERSON
+their first year	DATE
+Catherine Thevenot	PERSON
+the University of Lausanne	ORG
+Thevenot	PERSON
+first	ORDINAL
+ten	CARDINAL
+UNIL	ORG
+Thevenot	PERSON

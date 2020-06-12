@@ -1,0 +1,11 @@
+Jochen Paulus	PER
+Université de Lausanne	ORG
+Les	LOC
+ZouZou	PER
+Catherine Thevenot	PER
+Université de Lausanne	ORG
+Catherine Thevenot	PER
+Les	LOC
+Les	LOC
+Lorsque	LOC
+Catherine Thevenot	PER

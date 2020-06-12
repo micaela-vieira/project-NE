@@ -1,0 +1,6 @@
+Catherine Thevenot	PER
+Jochen Paulus	PER
+Les	LOC
+Lorsque	LOC
+Université de Lausanne	ORG
+ZouZou	PER

@@ -1,0 +1,8 @@
+Jochen Paulus	PER
+Université de Lausanne	ORG
+ZouZou	MISC
+QI	LOC
+Catherine Thevenot	PER
+Université de Lausanne	ORG
+Catherine Thevenot	PER
+Catherine Thevenot	PER

@@ -1,0 +1,13 @@
+Abstract: Fingerrechnen	MISC
+Catherine Thevenot	PER
+Die Kinder	MISC
+Finger	LOC/PER
+Fingern	LOC/ORG
+Forscherin Thevenot	MISC
+IQ-Tests	LOC
+Jochen Paulus	PER
+Kinder	LOC
+Mathe-Anfängerinnen	MISC
+Shutterstock/ZouZou	MISC
+Universität Lausanne	ORG
+|	MISC

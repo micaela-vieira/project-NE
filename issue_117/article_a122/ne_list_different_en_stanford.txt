@@ -1,0 +1,10 @@
+Catherine Theve	PERSON
+Jochen Paulus	PERSON
+Theve	PERSON
+UNIL	ORG
+ZouZou	PERSON
+first	ORDINAL
+ten	CARDINAL
+the University of Lausanne (UNIL)	ORG
+the age of about eight	DATE
+their first year	DATE

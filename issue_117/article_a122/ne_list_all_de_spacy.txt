@@ -1,0 +1,21 @@
+Jochen Paulus	PER
+Abstract: Fingerrechnen	MISC
+Fingern	ORG
+|	MISC
+Shutterstock/ZouZou	MISC
+Finger	LOC
+Finger	LOC
+Mathe-Anfängerinnen	MISC
+Fingern	LOC
+Kinder	LOC
+IQ-Tests	LOC
+Catherine Thevenot	PER
+Universität Lausanne	ORG
+Finger	LOC
+Die Kinder	MISC
+Finger	PER
+Fingern	LOC
+Finger	LOC
+Finger	LOC
+Forscherin Thevenot	MISC
+Finger	LOC
