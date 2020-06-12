@@ -1,0 +1,14 @@
+Andrea Franc	PER
+Bern	LOC
+Europa	LOC
+Franc	PER
+Franc.	PER
+Haslemere Declaration	MISC
+Julia Richter	PER
+Public Eye	ORG
+Schweiz	LOC
+Schweizerisches Sozialarchiv	ORG
+Universität Basel	ORG
+Zürich	LOC
+britisches	MISC
+ghanaische	MISC

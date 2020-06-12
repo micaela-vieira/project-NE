@@ -1,0 +1,33 @@
+Affen	LOC
+Basler Zoo	LOC
+Belohnungen	MISC
+Dingos	LOC
+Eloïse Déaux	PER
+Ernährungssicht	LOC
+Finger	LOC
+Französin	LOC
+Macquarie University	ORG
+Martine Brocard	PER
+Mein Tag	MISC
+Nahrungsreste	LOC
+Penelope Lacombe	PER
+Post-Doktorandin	LOC
+Rubik-Würfel	MISC
+Schimpansengehege	MISC
+Schlauer	PER
+Stress für die Tiere	MISC
+Sydney	LOC
+Tag	MISC
+Tages	MISC
+Tierpflegern	LOC
+Tierpflegers	LOC
+Touchscreens	LOC
+Universität Neuenburg	ORG
+Zoo Basel	LOC
+Zoo-Populationen	LOC
+australischen	MISC
+herauszufinden	LOC
+menschlichen Sprache	MISC
+mir	ORG
+soziale	MISC
+|	MISC

@@ -1,0 +1,24 @@
+15-minute	TIME
+Australian	NORP
+Basel Zoo	FAC/ORG
+Eloïse Déaux	ORG/PERSON
+Macquarie University	ORG
+Martine Brocard	PERSON
+One	CARDINAL
+Penelope Lacombe	PERSON
+Sydney	GPE
+Two	CARDINAL
+Zoo Basel	PERSON
+an hour	TIME
+every week	DATE
+four	CARDINAL
+hours	TIME
+one	CARDINAL
+one day	DATE
+second	ORDINAL
+the Comparative Cognition Laboratory	ORG
+the University of Neuchâtel	ORG
+three	CARDINAL
+three hours	TIME
+two	CARDINAL
+weeks	DATE

@@ -1,0 +1,95 @@
+Nic Ulmi	PER
+Nic Ulmi	PER
+Wissenschaft und Gesellschaft	ORG
+Aufmerksames Publikum	PER
+US-Pavillon	ORG
+UNOP Klimakonferenz	ORG
+Paris	LOC
+|	MISC
+Keystone/AP Photo/Christophe Ena	LOC
+Spiegeleier	LOC
+Essen	LOC
+Abfalleimer	LOC
+Mann	PER
+…	PER
+Kein Steak!	ORG
+Kein Brot!	ORG
+Das Essen	MISC
+Gene!	ORG
+Video Time Travel Dietician	MISC
+Funny or	MISC
+Zweifeln	LOC
+Expertisen 	PER
+Wissenschaft und Gesellschaft	ORG
+demokratische	MISC
+Evidence-based Policy	ORG
+Schweizer	MISC
+Caroline Schlaufer	PER
+Higher School of Economics	ORG
+Moskau	LOC
+Tony Blair	PER
+Mode	LOC
+Caroline Schlaufer	PER
+Faktische	PER
+Die Forscherin	MISC
+Partei	ORG
+Beweisen	PER
+Expertenmeinungen	LOC
+Wissenschaftsbarometer Schweiz	LOC
+Zürich	ORG
+Freiburg	ORG
+Schweizer	MISC
+Julia Metag	PER
+Tierversuchen	MISC
+Barometers	LOC
+Donald Trump	PER
+Fake News	LOC
+den USA	LOC
+Science and Engineering Indicators	LOC
+Forschende	LOC
+Julia Metag	PER
+Ländern	LOC
+USA	LOC
+Deutschland	LOC
+Woher	PER
+Politologin Schlaufer	PER
+Experten-Bashing	MISC
+Forschende	PER
+Forscherin	LOC
+Jason Chilvers	PER
+Wissenschaft, Gesellschaft und Nachhaltigkeit	ORG
+britischen University of East Anglia	ORG
+GVO	MISC
+Fracking	MISC
+Nachkriegszeit	MISC
+Der Verlust des bedingungslosen Vertrauens in Wissenschaft und Technologie	MISC
+Anti-Atom-Bewegung	ORG
+Innovationen 	PER
+Caroline Schlaufer	PER
+Sheila Jasanoff	PER
+Universität Harvard	ORG
+Gründermythos	PER
+Problem	MISC
+Wissenschaft und Gesellschaft	ORG
+Jason Chilvers	PER
+Kopenhagen	LOC
+Paris	LOC
+Jason Chilvers	PER
+Problem	MISC
+Verhaltensänderungen	LOC
+Chilvers	PER
+Einkaufsverhalten	LOC
+Die Leute	MISC
+Der Forscher	MISC
+Remaking Participation	MISC
+Wissenschaft und Gesellschaft	ORG
+Gesellschaft	ORG
+Die Wissenschaft	ORG
+Julia Metag	PER
+Caroline Schlaufer	PER
+demokratischen	MISC
+Politologin Schlaufer	LOC
+Expertisen	LOC
+woanders	PER
+Nic Ulmi	PER
+Genf	LOC

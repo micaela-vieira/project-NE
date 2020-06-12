@@ -1,0 +1,13 @@
+Andrea Franc	PER
+Déclaration de Berne	MISC
+Europe	LOC
+Ghana	LOC
+Haslemere Declaration	MISC
+Julia Richter	PER
+Max Havelaar	PER
+Schweizerisches Sozialarchiv	PER
+Title: Fair trade	MISC
+Un premier pas vers un commerce équitable global	MISC
+Université de Bâle	ORG
+Zürich	PER
+»	ORG

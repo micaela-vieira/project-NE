@@ -1,0 +1,30 @@
+2014	DATE
+2015	DATE
+2017	DATE
+Denis Doyle/Getty	ORG
+Fox News	ORG
+German Ramirez	PERSON
+Harpenden	GPE/PERSON
+Hurricane Preparedness Week	EVENT
+Israel	GPE
+Ken Caldeira	PERSON
+Keystone/AP Photo/	ORG
+Keystone/DPA/Dennis Van Tine/Geisler-Fotopress	ORG
+Leon Neal	PERSON
+Lou Dobbs	PERSON
+May 2012	DATE
+New York	GPE
+Noam Chomsky	PERSON
+Palestine	GPE
+Paris	GPE
+Rhona Wise/AFP/Getty	ORG
+Rick Knabb	PERSON
+Rothamsted Research	ORG
+Spanish	NORP
+UK	GPE
+US	GPE
+United Nations Climate Change Conference	ORG
+Valérie Chételat	PERSON
+YouTube	LAW
+the US National Hurricane Center	ORG
+the United Nations	ORG

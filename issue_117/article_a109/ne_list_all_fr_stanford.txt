@@ -1,0 +1,60 @@
+Nic Ulmi	PER
+Nic Ulmi	PER
+Etats-Unis	LOC
+COP21	MISC
+Paris	LOC
+Keystone	ORG
+AP Photo	ORG
+Christophe Ena	PER
+Je viens du futur	MISC
+L’intrus	MISC
+Arrêtez	MISC
+«Time Travel Dietician	MISC
+Funny or Die	MISC
+Résultats	LOC
+la Vérité	MISC
+Caroline Schlaufer	PER
+Higher School of Economics	ORG
+Moscou	LOC
+Grande-Bretagne	LOC
+Tony Blair	PER
+Caroline Schlaufer	PER
+L’élaboration	LOC
+Les	LOC
+Un homme ou une femme politique	MISC
+Baromètre scientifique suisse	MISC
+Zurich	LOC
+Fribourg	LOC
+Les	LOC
+Julia Metag	PER
+Suisse	LOC
+Baromètre	MISC
+Donald Trump	PER
+Etats-Unis	LOC
+Science and Engineering Indicators	ORG
+Baromètre	MISC
+Julia Metag	PER
+Etats-Unis	LOC
+Allemagne	LOC
+Caroline Schlaufer	PER
+L’exacerbation	LOC
+Jason Chilvers	PER
+Science	ORG
+Université britannique d’East Anglia	ORG
+Cette	LOC
+Les	LOC
+Caroline Schlaufer	PER
+Sheila Jasanoff	PER
+Université Harvard	ORG
+Jason Chilvers	PER
+Copenhague	LOC
+Paris	LOC
+Jason Chilvers	PER
+Chilvers	PER
+Remaking Participation	MISC
+Julia Metag	PER
+Les	LOC
+Caroline Schlaufer	PER
+Les	LOC
+Nic Ulmi	PER
+Genève	LOC

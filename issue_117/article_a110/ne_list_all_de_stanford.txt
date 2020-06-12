@@ -1,0 +1,18 @@
+Julia Richter	PER
+Bern	LOC
+Public Eye	ORG
+Schweizerisches Sozialarchiv	ORG
+Zürich	LOC
+Schweiz	LOC
+Andrea Franc	PER
+Universität Basel	ORG
+Bern	LOC
+Public Eye	ORG
+britisches	MISC
+Haslemere Declaration	MISC
+Franc	PER
+ghanaische	MISC
+Europa	LOC
+Franc.	PER
+Europa	LOC
+Franc	PER

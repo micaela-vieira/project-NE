@@ -1,0 +1,79 @@
+Abfalleimer	LOC
+Anti-Atom-Bewegung	ORG
+Aufmerksames Publikum	PER
+Barometers	LOC
+Beweisen	PER
+Caroline Schlaufer	PER
+Caroline Schlaufer	PER
+Chilvers	PER
+Das Essen	MISC
+Der Forscher	MISC
+Der Verlust des bedingungslosen Vertrauens in Wissenschaft und Technologie	MISC
+Deutschland	LOC
+Die Forscherin	MISC
+Die Leute	MISC
+Die Wissenschaft	ORG
+Donald Trump	PER
+Einkaufsverhalten	LOC
+Essen	LOC
+Evidence-based Policy	ORG
+Experten-Bashing	MISC
+Expertenmeinungen	LOC
+Expertisen	LOC
+Expertisen 	PER
+Fake News	LOC
+Faktische	PER
+Forschende	LOC/PER
+Forscherin	LOC
+Fracking	MISC
+Freiburg	ORG
+Funny or	MISC
+GVO	MISC
+Gene!	ORG
+Genf	LOC
+Gesellschaft	ORG
+Gründermythos	PER
+Higher School of Economics	ORG
+Innovationen 	PER
+Jason Chilvers	PER
+Julia Metag	PER
+Kein Brot!	ORG
+Kein Steak!	ORG
+Keystone/AP Photo/Christophe Ena	LOC
+Kopenhagen	LOC
+Ländern	LOC
+Mann	PER
+Mode	LOC
+Moskau	LOC
+Nachkriegszeit	MISC
+Nic Ulmi	PER
+Paris	LOC
+Partei	ORG
+Politologin Schlaufer	LOC/PER
+Problem	MISC
+Remaking Participation	MISC
+Schweizer	MISC
+Science and Engineering Indicators	LOC
+Sheila Jasanoff	PER
+Spiegeleier	LOC
+Tierversuchen	MISC
+Tony Blair	PER
+UNOP Klimakonferenz	ORG
+US-Pavillon	ORG
+USA	LOC
+Universität Harvard	ORG
+Verhaltensänderungen	LOC
+Video Time Travel Dietician	MISC
+Wissenschaft und Gesellschaft	ORG
+Wissenschaft, Gesellschaft und Nachhaltigkeit	ORG
+Wissenschaftsbarometer Schweiz	LOC
+Woher	PER
+Zweifeln	LOC
+Zürich	ORG
+britischen University of East Anglia	ORG
+demokratische	MISC
+demokratischen	MISC
+den USA	LOC
+woanders	PER
+|	MISC
+…	PER

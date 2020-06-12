@@ -1,0 +1,32 @@
+Martine Brocard	PERSON
+Eloïse Déaux	PERSON
+Basel Zoo	ORG
+every week	DATE
+Basel Zoo	ORG
+Eloïse Déaux	PERSON
+Zoo Basel	PERSON
+My day	DATE
+an hour	TIME
+two	CARDINAL
+Rubik	PERSON
+one	CARDINAL
+two	CARDINAL
+Australian	NORP
+three hours	TIME
+hours	TIME
+two	CARDINAL
+three	CARDINAL
+Two	CARDINAL
+four	CARDINAL
+one day	DATE
+neophobic	NORP
+weeks	DATE
+carrot	PERSON
+One day	DATE
+second	ORDINAL
+Eloïse Déaux	PERSON
+the Comparative Cognition Laboratory	ORG
+the University of Neuchâtel	ORG
+Macquarie University	ORG
+Sydney	GPE
+Martine Brocard	PERSON

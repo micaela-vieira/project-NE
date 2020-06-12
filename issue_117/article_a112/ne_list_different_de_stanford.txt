@@ -1,0 +1,23 @@
+Denis Doyle/Getty Images	PER
+Fotopress	MISC
+Fox-News	ORG
+German Ramirez	PER
+Harpenden	LOC
+Israel	LOC
+Ken Caldeira	PER
+Keystone/AP Photo/Christophe Ena	ORG
+Keystone/DPA/Dennis Van Tine/Geisler	PER
+Leon Neal/AFP/GettyImages	PER
+Lou Dobbs	PER
+New York	LOC
+Noam Chomsky	PER
+Palästina-Konflikts	MISC
+Paris	LOC
+Rhona Wise/AFP/Getty Images	ORG
+Rothamsted Research	ORG
+UNOP	ORG
+US National Hurricane Center Rick Knabb	ORG
+US-Pavillon	LOC
+Valérie Chételat	PER
+englischen	MISC
+spanischen	MISC

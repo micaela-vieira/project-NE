@@ -1,0 +1,26 @@
+Valérie Chételat	PER
+Rothamsted Research	ORG
+englischen	MISC
+Harpenden	LOC
+Leon Neal/AFP/GettyImages	PER
+Rothamsted Research	ORG
+Harpenden	LOC
+Rothamsted Research	ORG
+Noam Chomsky	PER
+New York	LOC
+Israel	LOC
+Palästina-Konflikts	MISC
+Keystone/DPA/Dennis Van Tine/Geisler	PER
+Fotopress	MISC
+Fox-News	ORG
+Lou Dobbs	PER
+Ken Caldeira	PER
+US-Pavillon	LOC
+UNOP	ORG
+Paris	LOC
+Keystone/AP Photo/Christophe Ena	ORG
+German Ramirez	PER
+spanischen	MISC
+Denis Doyle/Getty Images	PER
+US National Hurricane Center Rick Knabb	ORG
+Rhona Wise/AFP/Getty Images	ORG

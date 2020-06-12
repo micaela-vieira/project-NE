@@ -1,0 +1,23 @@
+Martine Brocard	PER
+Eloïse Déaux	PER
+zoo de Bâle	LOC
+Eloïse Déaux	PER
+zoo de Bâle	LOC
+Zoo Basel	LOC
+«Ma	LOC
+Mes	LOC
+Rubik’s Cube	MISC
+Les singes	MISC
+Les	LOC
+Les singes	MISC
+Ce point	ORG
+L’odeur	MISC
+L’objectif	LOC
+Penelope Lacombe	PER
+Laboratoire	LOC
+Université de Neuchâtel	ORG
+Eloïse Déaux	PER
+Française	LOC
+Université Macquarie	ORG
+Sydney	LOC
+Martine Brocard	PER

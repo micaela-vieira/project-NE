@@ -1,0 +1,42 @@
+AP Photo	ORG
+Allemagne	LOC
+Arrêtez	MISC
+Baromètre	MISC
+Baromètre scientifique suisse	MISC
+COP21	MISC
+Caroline Schlaufer	PER
+Cette	LOC
+Chilvers	PER
+Christophe Ena	PER
+Copenhague	LOC
+Donald Trump	PER
+Etats-Unis	LOC
+Fribourg	LOC
+Funny or Die	MISC
+Genève	LOC
+Grande-Bretagne	LOC
+Higher School of Economics	ORG
+Jason Chilvers	PER
+Je viens du futur	MISC
+Julia Metag	PER
+Keystone	ORG
+Les	LOC
+L’exacerbation	LOC
+L’intrus	MISC
+L’élaboration	LOC
+Moscou	LOC
+Nic Ulmi	PER
+Paris	LOC
+Remaking Participation	MISC
+Résultats	LOC
+Science	ORG
+Science and Engineering Indicators	ORG
+Sheila Jasanoff	PER
+Suisse	LOC
+Tony Blair	PER
+Un homme ou une femme politique	MISC
+Université Harvard	ORG
+Université britannique d’East Anglia	ORG
+Zurich	LOC
+la Vérité	MISC
+«Time Travel Dietician	MISC

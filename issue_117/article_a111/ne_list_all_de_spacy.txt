@@ -1,0 +1,40 @@
+Basler Zoo	LOC
+Martine Brocard	PER
+Eloïse Déaux	PER
+menschlichen Sprache	MISC
+Zoo Basel	LOC
+Eloïse Déaux	PER
+|	MISC
+Zoo Basel	LOC
+Mein Tag	MISC
+Schimpansengehege	MISC
+Nahrungsreste	LOC
+Tierpflegern	LOC
+soziale	MISC
+Touchscreens	LOC
+Schimpansengehege	MISC
+Rubik-Würfel	MISC
+Belohnungen	MISC
+Tierpflegers	LOC
+Stress für die Tiere	MISC
+australischen	MISC
+Dingos	LOC
+Zoo-Populationen	LOC
+Tag	MISC
+Ernährungssicht	LOC
+Schlauer	PER
+Touchscreens	LOC
+Tages	MISC
+Affen	LOC
+Finger	LOC
+mir	ORG
+herauszufinden	LOC
+menschlichen Sprache	MISC
+Penelope Lacombe	PER
+Eloïse Déaux	PER
+Post-Doktorandin	LOC
+Universität Neuenburg	ORG
+Französin	LOC
+Macquarie University	ORG
+Sydney	LOC
+Martine Brocard	PER

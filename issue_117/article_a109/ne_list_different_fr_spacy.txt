@@ -1,0 +1,40 @@
+Allemagne	LOC
+Arrêtez	PER
+Author: Nic Ulmi	MISC
+Baromètre	LOC
+Baromètre scientifique suisse	ORG
+COP21	ORG
+Caroline Schlaufer	PER
+Celles	LOC
+Chilvers	LOC
+Christophe Ena	PER
+Copenhague	LOC
+Crise	MISC
+C’	LOC
+Donald Trump	MISC
+East Anglia	LOC
+Etats-Unis	MISC
+Fribourg	LOC
+Funny or Die	MISC
+Genève	LOC
+Higher School of Economics	MISC
+Jason Chilvers	PER
+Julia Metag	PER
+Moscou	LOC
+Nic Ulmi	PER
+Paris	LOC
+Pas	LOC
+Remaking Participation	ORG
+Science	ORG
+Science and Engineering Indicators	ORG
+Sheila Jasanoff	PER
+Suisse	LOC
+Time Travel Dietician	MISC
+Tony Blair	PER
+Un homme ou une femme politique	MISC
+Université Harvard	ORG
+Université britannique	ORG
+Vérité	LOC
+Zurich	LOC
+evidence-based policy	MISC
+»	ORG

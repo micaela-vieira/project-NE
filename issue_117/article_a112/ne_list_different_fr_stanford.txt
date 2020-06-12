@@ -1,0 +1,32 @@
+AFP	ORG
+AFP/GettyImages	MISC
+AP Photo	ORG
+Angleterre	LOC
+Bild: Rhona Wise	ORG
+COP21	MISC
+Christophe Ena	PER
+Denis Doyle	PER
+Dennis Van Tine	PER
+Ebola	PER
+Etats-Unis	LOC
+Fox News	ORG
+Geisler-Fotopress	ORG
+German Ramirez	PER
+Getty Images	ORG
+Getty ImagesImage	ORG
+Harpenden	LOC
+Image: Rothamsted Research	ORG
+Ken Caldeira	PER
+Keystone	ORG
+Leon Neal	PER
+Lou Dobbs	PER
+New York	LOC
+Noam Chomsky	PER
+Paris	LOC
+Rhona Wise	ORG
+Rick Knabb	PER
+Rothamsted Research	ORG
+Screenshot	MISC
+US National Hurricane Center	LOC
+Valérie Chételat	PER
+Youtube	MISC

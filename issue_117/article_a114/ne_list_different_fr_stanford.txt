@@ -1,0 +1,8 @@
+Baisser	LOC
+Car	LOC
+Daniel Saraga	PER
+Ecoute	MISC
+Les	LOC
+Manu Friederich	PER
+Title: Editorial	MISC
+Tom Nichols	PER

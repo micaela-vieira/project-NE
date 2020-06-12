@@ -1,0 +1,65 @@
+Nic Ulmi	PERSON
+Nic Ulmi	PERSON
+US	GPE
+the 2015 United Nations Climate Change Conference	EVENT
+Paris	GPE
+Keystone	ORG
+Christophe Ena	PERSON
+1979	DATE
+two	CARDINAL
+Funny or Die	WORK_OF_ART
+Time Travel Dietician	WORK_OF_ART
+2017	DATE
+Swiss	NORP
+Caroline Schlaufer	PERSON
+the Higher School of Economics	ORG
+Moscow	GPE
+Great Britain	GPE
+the 1990s	DATE
+Tony Blair	PERSON
+Schlaufer	PERSON
+Schlaufer	PERSON
+the Swiss Science Barometer	ORG
+the Universities of Zurich	ORG
+Fribourg	GPE
+Julia Metag	PERSON
+Switzerland	GPE
+2016	DATE
+Donald Trump	PERSON
+the United States	GPE
+2018	DATE
+Science and Engineering Indicators	ORG
+one	CARDINAL
+Metag	PERSON
+the United States	GPE
+Germany	GPE
+decades	DATE
+two	CARDINAL
+Schlaufer	PERSON
+One	CARDINAL
+the past two years	DATE
+Schlaufer	PERSON
+Jason Chilvers	PERSON
+3S	ORG
+Science, Society and Sustainability)	ORG
+the University of East Anglia	ORG
+UK	GPE
+first	ORDINAL
+Schlaufer	PERSON
+Sheila Jasanoff	PERSON
+Harvard University	ORG
+the last three decades	DATE
+Chilvers	PERSON
+Copenhagen	GPE
+2009	DATE
+Paris	GPE
+2015	DATE
+Chilvers	PERSON
+a decade	DATE
+Chilvers	PERSON
+‘Remaking Participation’	WORK_OF_ART
+Metag	PERSON
+Schlaufer	PERSON
+Schlaufer	PERSON
+Nic Ulmi	PERSON
+Geneva	GPE

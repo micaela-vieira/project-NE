@@ -1,0 +1,51 @@
+1979	DATE
+2009	DATE
+2015	DATE
+2016	DATE
+2017	DATE
+2018	DATE
+Barometer	PERSON
+Caroline Schlaufer	PERSON
+Copenhagen	ORG
+Die	PERSON
+Dietician	NORP
+Donald Trump	PERSON
+Fribourg	GPE
+Geneva	GPE
+Germany	GPE
+Great Britain	GPE
+Harvard University	ORG
+Jason Chilvers	PERSON
+Julia Metag	PERSON
+Keystone/AP Photo/	ORG
+Metag	PERSON
+Moscow	GPE
+Nic Ulmi	PERSON
+One	CARDINAL
+Paris	GPE
+Schlaufer	ORG/PERSON
+Science and Engineering Indicators	EVENT
+Sheila Jasanoff	PERSON
+Swiss	NORP
+Switzerland	GPE
+Tony Blair	PERSON
+Truth	NORP
+UK	GPE
+US	GPE
+United Nations Climate Change Conference	ORG
+a decade	DATE
+daily	DATE
+day	DATE
+first	ORDINAL
+over decades	DATE
+the 1990s	DATE
+the Higher School of Economics	ORG
+the Swiss Science Barometer	ORG
+the United States	GPE
+the Universities of Zurich	ORG
+the University of East Anglia	ORG
+the beginning of the era	DATE
+the last three decades	DATE
+the past two years	DATE
+two	CARDINAL
+‘Remaking Participation’	WORK_OF_ART

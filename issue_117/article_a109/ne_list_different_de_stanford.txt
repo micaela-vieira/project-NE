@@ -1,0 +1,35 @@
+Caroline Schlaufer	PER
+Caroline Schlaufer	PER
+Chilvers	PER
+Co	ORG
+Deutschland	LOC
+Donald Trump	PER
+Fake News	ORG
+Forschungsgruppe Wissenschaft, Gesellschaft und Nachhaltigkeit	ORG
+Freiburg	LOC
+Genf	LOC
+Grossbritannien	LOC
+Higher School of Economics	ORG
+Jason Chilvers	PER
+Julia Metag	PER
+Keystone/AP Photo/Christophe Ena	ORG
+Kopenhagen	LOC
+Moskau	LOC
+Nic Ulmi	PER
+Paris	LOC
+Remaking Participation	ORG
+Schlaufer	PER
+Schweiz	LOC
+Schweizer	MISC
+Schweizerinnen	MISC
+Science and Engineering Indicators	ORG
+Sheila Jasanoff	PER
+Time Travel Dietician	ORG
+Tony Blair	PER
+UNOP	ORG
+US-Pavillon	LOC
+USA	LOC
+University of East Anglia	ORG
+Universität Harvard	ORG
+Zürich	LOC
+britischen	MISC

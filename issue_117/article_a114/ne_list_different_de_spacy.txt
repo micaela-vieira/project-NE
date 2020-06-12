@@ -1,0 +1,12 @@
+Argumente	ORG
+Daniel Saraga	PER
+Fallstricke	LOC
+Forschende	LOC
+Gehör	PER
+Manu Friederich	PER
+Schlüsselfiguren	PER
+Skeptiker	PER
+Tom Nichols	PER
+Vertrauensperson	MISC
+Widersacher	MISC
+misstrauischen	MISC

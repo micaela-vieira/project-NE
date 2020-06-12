@@ -1,0 +1,9 @@
+20 Minuten»	MISC
+Beat Glogger	PER
+Blick	MISC
+Daniel Saraga	PER
+Facebook	MISC
+Higgs	LOC
+Higgs.ch	MISC/ORG
+R. Ruis	PER
+ch	ORG

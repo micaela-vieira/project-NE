@@ -1,0 +1,15 @@
+Daniel Saraga	PER
+Higgs.ch	ORG
+Beat Glogger	PER
+R. Ruis	PER
+Higgs	LOC
+ch	ORG
+Blick	MISC
+20 Minuten»	MISC
+Beat Glogger	PER
+Higgs.ch	MISC
+Facebook	MISC
+Higgs	LOC
+Higgs	LOC
+Higgs	LOC
+Daniel Saraga	PER

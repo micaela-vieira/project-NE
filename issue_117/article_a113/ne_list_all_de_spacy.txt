@@ -1,0 +1,20 @@
+Daniel Saraga	PER
+Fake News	ORG
+Beat Glogger	PER
+Beat Glogger	PER
+Higgs.ch News	PER
+R. Ruis	PER
+Beat Glogger	PER
+Higgs.ch	ORG
+Wissenschafts-News	MISC
+Blick-Gruppe	MISC
+Higgs	PER
+Facebook	MISC
+Schweizer	MISC
+Fake News	ORG
+Fact News	ORG
+Geldgebern	LOC
+Inhalt	LOC
+Blume	MISC
+Higgs	LOC
+Daniel Saraga	PER

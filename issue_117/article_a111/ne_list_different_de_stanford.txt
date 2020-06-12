@@ -1,0 +1,13 @@
+Basel	LOC
+Basler	MISC
+Eloïse Déaux	PER
+Französin	MISC
+Labor für Vergleichende Kognitionsforschung	ORG
+Macquarie University	ORG
+Martine Brocard	PER
+Penelope Lacombe	PER
+Post-Doktorandin	ORG
+Sydney	LOC
+Universität Neuenburg	ORG
+Zoo Basel	LOC
+australischen	MISC

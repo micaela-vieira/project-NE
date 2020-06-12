@@ -1,0 +1,15 @@
+A	LOC
+Andrea Franc	PER
+Cette	LOC
+Déclaration de Berne	MISC
+Europe	LOC
+Ghana	LOC
+Haslemere Declaration	MISC
+Julia Richter	PER
+Le	LOC
+Les	LOC
+Max Havelaar	PER
+Schweizerisches Sozialarchiv	LOC
+Title: Fair trade	MISC
+Université de Bâle	ORG
+Zürich	LOC

@@ -1,0 +1,18 @@
+Ce point	ORG
+Eloïse Déaux	PER
+Française	LOC
+Laboratoire	LOC
+Les	LOC
+Les singes	MISC
+L’objectif	LOC
+L’odeur	MISC
+Martine Brocard	PER
+Mes	LOC
+Penelope Lacombe	PER
+Rubik’s Cube	MISC
+Sydney	LOC
+Université Macquarie	ORG
+Université de Neuchâtel	ORG
+Zoo Basel	LOC
+zoo de Bâle	LOC
+«Ma	LOC

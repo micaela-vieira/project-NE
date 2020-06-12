@@ -1,0 +1,37 @@
+Valérie Chételat	PER
+Détermination et confrontation	MISC
+Rothamsted Research	ORG
+| Image: Leon Neal	MISC
+AFP	ORG
+GettyImages	ORG
+Youtube	MISC
+Harpenden	LOC
+Angleterre	LOC
+| Image: Rothamsted Research	MISC
+Noam Chomsky	PER
+New York	LOC
+Dennis Van Tine	PER
+Geisler	PER
+Fotopress	PER
+Fox News Lou Dobbs	MISC
+Ken Caldeira	MISC
+| Image:	MISC
+Screenshot	PER
+Etats-Unis	MISC
+COP21	ORG
+Paris	LOC
+Christophe Ena	PER
+German Ramirez	PER
+Ebola	MISC
+| Image	MISC
+Denis Doyle	PER
+Getty Images	PER
+US National Hurricane Center	ORG
+Rick Knabb	PER
+Bild	LOC
+Rhona Wise	ORG
+AFP	ORG
+Getty ImagesImage	PER
+Rhona Wise	ORG
+AFP	ORG
+Getty Images	LOC

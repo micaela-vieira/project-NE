@@ -1,0 +1,35 @@
+Valérie Chételat	PER
+Rothamsted Research	ORG
+Leon Neal	PER
+AFP/GettyImages	MISC
+Youtube	MISC
+Harpenden	LOC
+Angleterre	LOC
+Image: Rothamsted Research	ORG
+Noam Chomsky	PER
+New York	LOC
+Keystone	ORG
+Dennis Van Tine	PER
+Geisler-Fotopress	ORG
+Fox News	ORG
+Lou Dobbs	PER
+Ken Caldeira	PER
+Screenshot	MISC
+Etats-Unis	LOC
+COP21	MISC
+Paris	LOC
+Keystone	ORG
+AP Photo	ORG
+Christophe Ena	PER
+German Ramirez	PER
+Ebola	PER
+Denis Doyle	PER
+Getty Images	ORG
+US National Hurricane Center	LOC
+Rick Knabb	PER
+Bild: Rhona Wise	ORG
+AFP	ORG
+Getty ImagesImage	ORG
+Rhona Wise	ORG
+AFP	ORG
+Getty Images	ORG

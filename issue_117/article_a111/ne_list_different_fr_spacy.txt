@@ -1,0 +1,13 @@
+Author: Martine Brocard	MISC
+Eloïse Déaux	PER
+Française	LOC
+Laboratoire de cognition	ORG
+Martine Brocard	PER
+Penelope Lacombe	PER
+Post	MISC
+Sydney	LOC
+Title:	MISC
+Université Macquarie	LOC
+Université de Neuchâtel	ORG
+Zoo Basel	PER
+zoo de Bâle	LOC

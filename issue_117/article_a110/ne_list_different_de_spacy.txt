@@ -1,0 +1,17 @@
+Andrea Franc	PER
+Demut	PER
+Europa	LOC
+Fair	ORG
+Fair-Trade-Aktivisten	MISC
+Fair-Trade-Kaffee	MISC
+Fair-Trade-Produkte	MISC
+Franc	LOC/PER
+Julia Richter	PER
+Public Eye	MISC
+Schweiz	LOC
+Schweizerisches Sozialarchiv	LOC
+Universität Basel	ORG
+Zürich	LOC
+britisches	MISC
+ghanaische	MISC
+|	MISC

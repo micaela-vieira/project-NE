@@ -1,0 +1,48 @@
+Nic Ulmi	PER
+Nic Ulmi	PER
+US-Pavillon	LOC
+UNOP	ORG
+Paris	LOC
+Keystone/AP Photo/Christophe Ena	ORG
+Time Travel Dietician	ORG
+Schweizer	MISC
+Caroline Schlaufer	PER
+Higher School of Economics	ORG
+Moskau	LOC
+Grossbritannien	LOC
+Tony Blair	PER
+Caroline Schlaufer	PER
+Schweiz	LOC
+Zürich	LOC
+Freiburg	LOC
+Schweizerinnen	MISC
+Schweizer	MISC
+Co	ORG
+Julia Metag	PER
+Schweiz	LOC
+Donald Trump	PER
+Fake News	ORG
+USA	LOC
+Science and Engineering Indicators	ORG
+Julia Metag	PER
+USA	LOC
+Deutschland	LOC
+Schlaufer	PER
+Jason Chilvers	PER
+Forschungsgruppe Wissenschaft, Gesellschaft und Nachhaltigkeit	ORG
+britischen	MISC
+University of East Anglia	ORG
+Caroline Schlaufer	PER
+Sheila Jasanoff	PER
+Universität Harvard	ORG
+Jason Chilvers	PER
+Kopenhagen	LOC
+Paris	LOC
+Jason Chilvers	PER
+Chilvers	PER
+Remaking Participation	ORG
+Julia Metag	PER
+Caroline Schlaufer	PER
+Schlaufer	PER
+Nic Ulmi	PER
+Genf	LOC

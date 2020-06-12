@@ -1,0 +1,34 @@
+Appell	PER
+Aufmerksames Publikum	PER
+Bilderstrecke	LOC
+Draussen	LOC
+Ebola	ORG
+Elfenbeinturm	LOC
+Fachmann	PER
+Fox-News-Moderator Lou Dobbs	PER
+GVO-Kritikern	MISC
+Gentechgegner	PER
+German Ramirez	PER
+Harpenden	LOC
+Israel-Palästina-Konflikts	MISC
+Ken Caldeira	PER
+Keystone/AP Photo/Christophe Ena	LOC
+Keystone/DPA/Dennis Van Tine/Geisler-Fotopress	MISC
+Leon	PER
+New York	LOC
+Noam Chomsky	PER
+Paris	LOC
+Rhona Wise/AFP/Getty Images	MISC
+Rick Knabb	PER
+Rothamsted Research	ORG
+Screenshot	PER
+UNOP Klimakonferenz	ORG
+US National Hurricane Center	LOC
+US-Pavillon	ORG
+Valérie Chételat	PER
+Vorhersehbare Provokation	PER
+Wirbelsturm-Aktionswoche 2017	MISC
+Youtube-Video	MISC
+englischen	MISC
+spanischen	MISC
+|	MISC

@@ -1,0 +1,21 @@
+Daniel Saraga	PERSON
+Higgs.ch	ORG
+today	DATE
+Beat Glogger	PERSON
+R. Ruis	PERSON
+eight years	DATE
+20 Minuten –	ORG
+weekly	DATE
+– Beat Glogger	WORK_OF_ART
+Blick am Abend	ORG
+Higgs	PERSON
+13 weeks	DATE
+6,000	CARDINAL
+1,700	CARDINAL
+Facebook	ORG
+Swiss	NORP
+seven	CARDINAL
+one	CARDINAL
+Higgs	PERSON
+Higgs	PERSON
+Daniel Saraga	PERSON

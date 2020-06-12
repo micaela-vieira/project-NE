@@ -1,0 +1,51 @@
+1979	DATE
+2009	DATE
+2015	DATE
+2016	DATE
+2017	DATE
+2018	DATE
+3S	ORG
+Caroline Schlaufer	PERSON
+Chilvers	PERSON
+Christophe Ena	PERSON
+Copenhagen	GPE
+Donald Trump	PERSON
+Fribourg	GPE
+Funny or Die	WORK_OF_ART
+Geneva	GPE
+Germany	GPE
+Great Britain	GPE
+Harvard University	ORG
+Jason Chilvers	PERSON
+Julia Metag	PERSON
+Keystone	ORG
+Metag	PERSON
+Moscow	GPE
+Nic Ulmi	PERSON
+One	CARDINAL
+Paris	GPE
+Schlaufer	PERSON
+Science and Engineering Indicators	ORG
+Science, Society and Sustainability)	ORG
+Sheila Jasanoff	PERSON
+Swiss	NORP
+Switzerland	GPE
+Time Travel Dietician	WORK_OF_ART
+Tony Blair	PERSON
+UK	GPE
+US	GPE
+a decade	DATE
+decades	DATE
+first	ORDINAL
+one	CARDINAL
+the 1990s	DATE
+the 2015 United Nations Climate Change Conference	EVENT
+the Higher School of Economics	ORG
+the Swiss Science Barometer	ORG
+the United States	GPE
+the Universities of Zurich	ORG
+the University of East Anglia	ORG
+the last three decades	DATE
+the past two years	DATE
+two	CARDINAL
+‘Remaking Participation’	WORK_OF_ART

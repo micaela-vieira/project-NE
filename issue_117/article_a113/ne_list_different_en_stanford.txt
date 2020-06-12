@@ -1,0 +1,18 @@
+1,700	CARDINAL
+13 weeks	DATE
+20 Minuten –	ORG
+6,000	CARDINAL
+Beat Glogger	PERSON
+Blick am Abend	ORG
+Daniel Saraga	PERSON
+Facebook	ORG
+Higgs	PERSON
+Higgs.ch	ORG
+R. Ruis	PERSON
+Swiss	NORP
+eight years	DATE
+one	CARDINAL
+seven	CARDINAL
+today	DATE
+weekly	DATE
+– Beat Glogger	WORK_OF_ART

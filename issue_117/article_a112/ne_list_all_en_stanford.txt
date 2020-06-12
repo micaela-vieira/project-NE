@@ -1,0 +1,39 @@
+Valérie Chételat	PERSON
+May 2012	DATE
+Harpenden	GPE
+UK	GPE
+Rothamsted Research	ORG
+Leon Neal	PERSON
+AFP/GettyImages	ORG
+Rothamsted Research	ORG
+Harpenden	PERSON
+YouTube	ORG
+Noam Chomsky	PERSON
+the United Nations	ORG
+New York	GPE
+2014	DATE
+Israel	GPE
+Palestine	GPE
+Keystone	ORG
+DPA	ORG
+Dennis Van	PERSON
+Tine/Geisler-Fotopress	PERSON
+Ken Caldeira	PERSON
+Fox News	ORG
+Lou Dobbs	PERSON
+US	GPE
+the 2015 United Nations Climate Change Conference	EVENT
+Paris	GPE
+Keystone	ORG
+Christophe Ena	PERSON
+German Ramirez	PERSON
+Spanish	NORP
+2014	DATE
+Denis Doyle	PERSON
+Getty Images	PERSON
+Rick Knabb	PERSON
+the US National Hurricane Center	ORG
+Hurricane Preparedness Week	EVENT
+2017	DATE
+Rhona Wise	PERSON
+AFP	ORG

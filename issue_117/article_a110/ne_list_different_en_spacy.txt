@@ -1,0 +1,19 @@
+1973	DATE
+1974	DATE
+Andrea Franc	PERSON
+British	NORP
+Europe	LOC
+Franc	PERSON
+Ghana	GPE
+Swiss	NORP
+West	LOC
+Zurich	GPE
+between 1964 and 1984	DATE
+first	ORDINAL
+the 1960s	DATE
+the Bern Declaration	LAW
+the Haslemere Declaration	LAW
+the University of Basel	ORG
+the present day	DATE
+today	DATE
+| Swiss	PERSON

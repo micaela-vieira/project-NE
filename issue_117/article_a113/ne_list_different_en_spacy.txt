@@ -1,0 +1,16 @@
+1,700	CARDINAL
+13 weeks	DATE
+20	CARDINAL
+6,000	CARDINAL
+Beat Glogger	PERSON
+Blick am Abend	ORG
+Daniel Saraga	PERSON
+Facebook	ORG
+Higgs	ORG
+Higgs.ch	PRODUCT
+R. Ruis	PERSON
+Swiss	NORP
+eight years	DATE
+seven	CARDINAL
+today	DATE
+weekly	DATE

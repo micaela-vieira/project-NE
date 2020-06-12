@@ -1,0 +1,5 @@
+Daniel Saraga	PERSON
+Manu Friederich	PERSON
+Today	DATE
+Tom Nichols	PERSON
+Daniel Saraga	PERSON

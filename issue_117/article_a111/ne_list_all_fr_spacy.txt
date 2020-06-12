@@ -1,0 +1,15 @@
+Title:	MISC
+Author: Martine Brocard	MISC
+Eloïse Déaux	PER
+zoo de Bâle	LOC
+Eloïse Déaux	PER
+Zoo Basel	PER
+Penelope Lacombe	PER
+Post	MISC
+Laboratoire de cognition	ORG
+Université de Neuchâtel	ORG
+Eloïse Déaux	PER
+Française	LOC
+Université Macquarie	LOC
+Sydney	LOC
+Martine Brocard	PER

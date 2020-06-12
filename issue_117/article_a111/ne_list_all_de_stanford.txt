@@ -1,0 +1,16 @@
+Basler	MISC
+Martine Brocard	PER
+Eloïse Déaux	PER
+Zoo Basel	LOC
+Eloïse Déaux	PER
+Basel	LOC
+australischen	MISC
+Penelope Lacombe	PER
+Eloïse Déaux	PER
+Post-Doktorandin	ORG
+Labor für Vergleichende Kognitionsforschung	ORG
+Universität Neuenburg	ORG
+Französin	MISC
+Macquarie University	ORG
+Sydney	LOC
+Martine Brocard	PER

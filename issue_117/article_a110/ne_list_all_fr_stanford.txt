@@ -1,0 +1,19 @@
+Title: Fair trade	MISC
+Julia Richter	PER
+Max Havelaar	PER
+Déclaration de Berne	MISC
+Schweizerisches Sozialarchiv	LOC
+Zürich	LOC
+Les	LOC
+Andrea Franc	PER
+Université de Bâle	ORG
+Déclaration de Berne	MISC
+Haslemere Declaration	MISC
+Andrea Franc	PER
+Le	LOC
+A	LOC
+Cette	LOC
+Ghana	LOC
+Europe	LOC
+Andrea Franc	PER
+Europe	LOC
