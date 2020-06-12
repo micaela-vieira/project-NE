@@ -1,0 +1,57 @@
+________________
+Evaluation for English:
+Total nouns English: 5443
+Total named English Entities spacy: 883
+- % NE spacy: 16.22%
+- GPE spacy: 162.00
+- % GPE spacy: 18.35%
+- Organizations spacy: 237
+- % ORG spacy: 26.84%
+- Person spacy: 169
+- % PERS spacy: 19.14%
+Total named Entities stanford: 956
+- % NE stanford: 17.56%
+- GPE stanford: 157
+- % PE stanford: 16.42%
+- Organizations stanford: 282
+- % PERS stanford: 29.50%
+- Person stanford: 187
+- % PERS stanford: 19.56%
+________________
+Evaluation for French:
+Total nouns French: 4799
+Total named French Entities spacy: 630
+- % NE spacy: 13.13%
+- GPE spacy: 166
+- % GPE spacy: 26.35%
+- Organizations spacy: 150
+- % ORG spacy: 23.81%
+- Person spacy: 179
+- % PERS spacy: 28.41%
+Total named French Entities stanford: 668
+- % NE stanford: 13.92%
+- GPE stanford: 230
+- % GPE stanford: 34.43%
+- Organizations stanford: 139
+- % ORG stanford: 20.81%
+- Person stanford: 149
+- % PERS stanford: 22.31%
+________________
+Evaluation for German:
+Total nouns German: 4392
+Total named German Entities spacy: 945
+- % NE spacy: 21.52%
+- GPE spacy: 267
+- % GPE spacy: 28.25%
+- Organisations spacy: 227
+- % ORG spacy: 24.02%
+- Person spacy: 220
+- % PERS spacy: 23.28%
+Total named German Entities stanford: 664
+- % NE stanford: 15.12%
+- GPE stanford: 122
+- % GPE stanford: 18.37%
+- Organisations stanford: 258
+- % ORG stanford: 38.86%
+- Person stanford: 185
+- % PERS stanford: 27.86%
