@@ -1,0 +1,39 @@
+Title 	 PROPN___
+: 	 PUNCT___
+Les 	 DET__Definite=Def|Number=Plur|PronType=Art
+ingrédients 	 NOUN__Gender=Masc|Number=Plur
+d’ 	 VERB__Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
+une 	 DET__Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+nouvelle 	 ADJ__Gender=Fem|Number=Sing
+culture 	 NOUN__Gender=Fem|Number=Sing
+
+ 	 _SP
+Author 	 PROPN___
+: 	 PUNCT___
+Daniel 	 PROPN__Gender=Masc|Number=Sing
+Saraga 	 PROPN___
+
+ 	 _SP
+Abstract 	 NOUN__Gender=Masc|Number=Sing
+: 	 PUNCT___
+De 	 ADP___
+la 	 DET__Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+première 	 ADJ__Gender=Fem|Number=Sing|NumType=Ord
+idée 	 NOUN__Gender=Fem|Number=Sing
+à 	 ADP___
+la 	 DET__Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+publication 	 NOUN__Gender=Fem|Number=Sing
+, 	 PUNCT___
+la 	 DET__Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+recherche 	 NOUN__Gender=Fem|Number=Sing
+peut 	 AUX__Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+s’ 	 AUX__Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
+ouvrir 	 VERB__VerbForm=Inf
+de 	 DET__Definite=Ind|Number=Plur|PronType=Art
+multiples 	 ADJ__Number=Plur
+manières 	 NOUN__Gender=Masc|Number=Plur
+. 	 PUNCT___
+
+ 	 _SP
+
+ 	 _SP

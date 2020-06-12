@@ -1,0 +1,48 @@
+Title 	 NN
+: 	 :
+An 	 DT
+anti 	 JJ
+paralysis 	 NN
+button 	 NN
+
+ 	 _SP
+Author 	 NN
+: 	 :
+Daniel 	 NNP
+Saraga 	 NNP
+
+ 	 _SP
+Abstract 	 NNP
+: 	 :
+A 	 DT
+start 	 NN
+- 	 HYPH
+up 	 NN
+in 	 IN
+Lausanne 	 NNP
+hopes 	 VBZ
+to 	 TO
+improve 	 VB
+the 	 DT
+re 	 NN
+- 	 NN
+education 	 NN
+of 	 IN
+paralysed 	 JJ
+limbs 	 NNS
+. 	 .
+The 	 DT
+idea 	 NN
+is 	 VBZ
+to 	 TO
+give 	 VB
+patients 	 NNS
+greater 	 JJR
+control 	 NN
+over 	 IN
+therapy 	 NN
+. 	 .
+
+ 	 _SP
+
+ 	 _SP

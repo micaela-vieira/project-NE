@@ -1,0 +1,53 @@
+Title 	 PROPN___
+: 	 PUNCT___
+In 	 X___
+vitro 	 X___
+en 	 ADP___
+3D 	 NUM__NumType=Card
+
+ 	 _SP
+Author 	 PROPN___
+: 	 PUNCT___
+Daniel 	 PROPN__Gender=Masc|Number=Sing
+Saraga 	 PROPN___
+
+ 	 _SP
+Abstract 	 NOUN__Gender=Masc|Number=Sing
+: 	 PUNCT___
+Des 	 DET__Definite=Ind|Number=Plur|PronType=Art
+startups 	 NOUN__Gender=Fem|Number=Plur
+helvétiques 	 ADJ__Number=Plur
+développent 	 VERB__Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+des 	 DET__Definite=Ind|Number=Plur|PronType=Art
+tissus 	 NOUN__Gender=Masc|Number=Plur
+cellulaires 	 ADJ__Number=Plur
+en 	 ADP___
+trois 	 NUM__NumType=Card
+dimensions 	 NOUN__Gender=Masc|Number=Plur
+. 	 PUNCT___
+Comparés 	 NOUN__Gender=Masc|Number=Plur
+aux 	 ADJ__Gender=Masc|Number=Plur
+cultures 	 ADJ__Number=Plur
+standard 	 ADJ___
+en 	 ADP___
+2D 	 NOUN__Number=Sing
+, 	 PUNCT___
+ils 	 PRON__Gender=Masc|Number=Plur|Person=3
+permettent 	 VERB__Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+de 	 ADP___
+réaliser 	 VERB__VerbForm=Inf
+des 	 DET__Definite=Ind|Number=Plur|PronType=Art
+tests 	 NOUN__Gender=Masc|Number=Plur
+plus 	 ADV___
+fiables 	 ADJ__Number=Plur
+pour 	 ADP___
+les 	 DET__Definite=Def|Number=Plur|PronType=Art
+médicaments 	 NOUN__Gender=Masc|Number=Plur
+et 	 CCONJ___
+matériaux 	 ADJ__Gender=Masc|Number=Plur
+biocompatibles 	 ADJ__Number=Plur
+. 	 PUNCT___
+
+ 	 _SP
+
+ 	 _SP

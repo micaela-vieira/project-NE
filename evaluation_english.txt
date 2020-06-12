@@ -1,0 +1,325 @@
+
+
+____________________________________
+Evaluation of the English issue_109, article_a4:
+Number of nouns (en): 594
+-spacy: Number of Named Entities in english: 120
+	 spacy: Number of GPE: 18
+	 spacy: Percentage GPE per NE: 15.0
+	 spacy: Number of Organisation: 43
+	 spacy: Percentage ORG per NE: 35.833333333333336
+	 spacy: Number of Person: 20
+	 spacy: Percentage Person per NE: 16.666666666666664
+-stanford: Number of Named Entities in english: 125
+	 stanford: Number of GPE: 20
+	 stanford: Percentage GPE per NE: 16.0
+	 stanford: Number of Organisation: 56
+	 stanford: Percentage ORG per NE: 44.800000000000004
+	 stanford: Number of Person: 12
+	 stanford: Percentage Person per NE: 9.6
+
+____________________________________
+Evaluation of the English issue_109, article_a3:
+Number of nouns (en): 213
+-spacy: Number of Named Entities in english: 36
+	 spacy: Number of GPE: 3
+	 spacy: Percentage GPE per NE: 8.333333333333332
+	 spacy: Number of Organisation: 10
+	 spacy: Percentage ORG per NE: 27.77777777777778
+	 spacy: Number of Person: 5
+	 spacy: Percentage Person per NE: 13.88888888888889
+-stanford: Number of Named Entities in english: 39
+	 stanford: Number of GPE: 2
+	 stanford: Percentage GPE per NE: 5.128205128205128
+	 stanford: Number of Organisation: 10
+	 stanford: Percentage ORG per NE: 25.64102564102564
+	 stanford: Number of Person: 6
+	 stanford: Percentage Person per NE: 15.384615384615385
+
+____________________________________
+Evaluation of the English issue_110, article_a10:
+Number of nouns (en): 239
+-spacy: Number of Named Entities in english: 33
+	 spacy: Number of GPE: 2
+	 spacy: Percentage GPE per NE: 6.0606060606060606
+	 spacy: Number of Organisation: 6
+	 spacy: Percentage ORG per NE: 18.181818181818183
+	 spacy: Number of Person: 9
+	 spacy: Percentage Person per NE: 27.27272727272727
+-stanford: Number of Named Entities in english: 33
+	 stanford: Number of GPE: 1
+	 stanford: Percentage GPE per NE: 3.0303030303030303
+	 stanford: Number of Organisation: 7
+	 stanford: Percentage ORG per NE: 21.21212121212121
+	 stanford: Number of Person: 9
+	 stanford: Percentage Person per NE: 27.27272727272727
+
+____________________________________
+Evaluation of the English issue_110, article_a5:
+Number of nouns (en): 15
+-spacy: Number of Named Entities in english: 5
+	 spacy: Number of GPE: 0
+	 spacy: Percentage GPE per NE: 0.0
+	 spacy: Number of Organisation: 0
+	 spacy: Percentage ORG per NE: 0.0
+	 spacy: Number of Person: 1
+	 spacy: Percentage Person per NE: 20.0
+-stanford: Number of Named Entities in english: 3
+	 stanford: Number of GPE: 0
+	 stanford: Percentage GPE per NE: 0.0
+	 stanford: Number of Organisation: 0
+	 stanford: Percentage ORG per NE: 0.0
+	 stanford: Number of Person: 1
+	 stanford: Percentage Person per NE: 33.33333333333333
+
+____________________________________
+Evaluation of the English issue_110, article_a8:
+Number of nouns (en): 670
+-spacy: Number of Named Entities in english: 80
+	 spacy: Number of GPE: 7
+	 spacy: Percentage GPE per NE: 8.75
+	 spacy: Number of Organisation: 24
+	 spacy: Percentage ORG per NE: 30.0
+	 spacy: Number of Person: 28
+	 spacy: Percentage Person per NE: 35.0
+-stanford: Number of Named Entities in english: 88
+	 stanford: Number of GPE: 8
+	 stanford: Percentage GPE per NE: 9.090909090909092
+	 stanford: Number of Organisation: 28
+	 stanford: Percentage ORG per NE: 31.818181818181817
+	 stanford: Number of Person: 32
+	 stanford: Percentage Person per NE: 36.36363636363637
+
+____________________________________
+Evaluation of the English issue_110, article_a6:
+Number of nouns (en): 336
+-spacy: Number of Named Entities in english: 48
+	 spacy: Number of GPE: 6
+	 spacy: Percentage GPE per NE: 12.5
+	 spacy: Number of Organisation: 10
+	 spacy: Percentage ORG per NE: 20.833333333333336
+	 spacy: Number of Person: 5
+	 spacy: Percentage Person per NE: 10.416666666666668
+-stanford: Number of Named Entities in english: 54
+	 stanford: Number of GPE: 6
+	 stanford: Percentage GPE per NE: 11.11111111111111
+	 stanford: Number of Organisation: 15
+	 stanford: Percentage ORG per NE: 27.77777777777778
+	 stanford: Number of Person: 5
+	 stanford: Percentage Person per NE: 9.25925925925926
+
+____________________________________
+Evaluation of the English issue_110, article_a7:
+Number of nouns (en): 502
+-spacy: Number of Named Entities in english: 52
+	 spacy: Number of GPE: 4
+	 spacy: Percentage GPE per NE: 7.6923076923076925
+	 spacy: Number of Organisation: 12
+	 spacy: Percentage ORG per NE: 23.076923076923077
+	 spacy: Number of Person: 21
+	 spacy: Percentage Person per NE: 40.38461538461539
+-stanford: Number of Named Entities in english: 62
+	 stanford: Number of GPE: 2
+	 stanford: Percentage GPE per NE: 3.225806451612903
+	 stanford: Number of Organisation: 20
+	 stanford: Percentage ORG per NE: 32.25806451612903
+	 stanford: Number of Person: 21
+	 stanford: Percentage Person per NE: 33.87096774193548
+
+____________________________________
+Evaluation of the English issue_110, article_a9:
+Number of nouns (en): 12
+-spacy: Number of Named Entities in english: 1
+	 spacy: Number of GPE: 0
+	 spacy: Percentage GPE per NE: 0.0
+	 spacy: Number of Organisation: 0
+	 spacy: Percentage ORG per NE: 0.0
+	 spacy: Number of Person: 1
+	 spacy: Percentage Person per NE: 100.0
+-stanford: Number of Named Entities in english: 1
+	 stanford: Number of GPE: 0
+	 stanford: Percentage GPE per NE: 0.0
+	 stanford: Number of Organisation: 0
+	 stanford: Percentage ORG per NE: 0.0
+	 stanford: Number of Person: 1
+	 stanford: Percentage Person per NE: 100.0
+
+____________________________________
+Evaluation of the English issue_111, article_a11:
+Number of nouns (en): 266
+-spacy: Number of Named Entities in english: 74
+	 spacy: Number of GPE: 15
+	 spacy: Percentage GPE per NE: 20.27027027027027
+	 spacy: Number of Organisation: 37
+	 spacy: Percentage ORG per NE: 50.0
+	 spacy: Number of Person: 0
+	 spacy: Percentage Person per NE: 0.0
+-stanford: Number of Named Entities in english: 81
+	 stanford: Number of GPE: 15
+	 stanford: Percentage GPE per NE: 18.51851851851852
+	 stanford: Number of Organisation: 43
+	 stanford: Percentage ORG per NE: 53.086419753086425
+	 stanford: Number of Person: 1
+	 stanford: Percentage Person per NE: 1.2345679012345678
+
+____________________________________
+Evaluation of the English issue_111, article_a13:
+Number of nouns (en): 309
+-spacy: Number of Named Entities in english: 52
+	 spacy: Number of GPE: 19
+	 spacy: Percentage GPE per NE: 36.53846153846153
+	 spacy: Number of Organisation: 8
+	 spacy: Percentage ORG per NE: 15.384615384615385
+	 spacy: Number of Person: 7
+	 spacy: Percentage Person per NE: 13.461538461538462
+-stanford: Number of Named Entities in english: 55
+	 stanford: Number of GPE: 20
+	 stanford: Percentage GPE per NE: 36.36363636363637
+	 stanford: Number of Organisation: 6
+	 stanford: Percentage ORG per NE: 10.909090909090908
+	 stanford: Number of Person: 7
+	 stanford: Percentage Person per NE: 12.727272727272727
+
+____________________________________
+Evaluation of the English issue_111, article_a14:
+Number of nouns (en): 633
+-spacy: Number of Named Entities in english: 110
+	 spacy: Number of GPE: 38
+	 spacy: Percentage GPE per NE: 34.54545454545455
+	 spacy: Number of Organisation: 27
+	 spacy: Percentage ORG per NE: 24.545454545454547
+	 spacy: Number of Person: 18
+	 spacy: Percentage Person per NE: 16.363636363636363
+-stanford: Number of Named Entities in english: 125
+	 stanford: Number of GPE: 37
+	 stanford: Percentage GPE per NE: 29.599999999999998
+	 stanford: Number of Organisation: 38
+	 stanford: Percentage ORG per NE: 30.4
+	 stanford: Number of Person: 25
+	 stanford: Percentage Person per NE: 20.0
+
+____________________________________
+Evaluation of the English issue_111, article_a12:
+Number of nouns (en): 391
+-spacy: Number of Named Entities in english: 60
+	 spacy: Number of GPE: 3
+	 spacy: Percentage GPE per NE: 5.0
+	 spacy: Number of Organisation: 15
+	 spacy: Percentage ORG per NE: 25.0
+	 spacy: Number of Person: 16
+	 spacy: Percentage Person per NE: 26.666666666666668
+-stanford: Number of Named Entities in english: 66
+	 stanford: Number of GPE: 4
+	 stanford: Percentage GPE per NE: 6.0606060606060606
+	 stanford: Number of Organisation: 21
+	 stanford: Percentage ORG per NE: 31.818181818181817
+	 stanford: Number of Person: 19
+	 stanford: Percentage Person per NE: 28.78787878787879
+
+____________________________________
+Evaluation of the English issue_112, article_a19:
+Number of nouns (en): 261
+-spacy: Number of Named Entities in english: 45
+	 spacy: Number of GPE: 17
+	 spacy: Percentage GPE per NE: 37.77777777777778
+	 spacy: Number of Organisation: 9
+	 spacy: Percentage ORG per NE: 20.0
+	 spacy: Number of Person: 5
+	 spacy: Percentage Person per NE: 11.11111111111111
+-stanford: Number of Named Entities in english: 45
+	 stanford: Number of GPE: 13
+	 stanford: Percentage GPE per NE: 28.888888888888886
+	 stanford: Number of Organisation: 9
+	 stanford: Percentage ORG per NE: 20.0
+	 stanford: Number of Person: 5
+	 stanford: Percentage Person per NE: 11.11111111111111
+
+____________________________________
+Evaluation of the English issue_112, article_a17:
+Number of nouns (en): 238
+-spacy: Number of Named Entities in english: 58
+	 spacy: Number of GPE: 11
+	 spacy: Percentage GPE per NE: 18.96551724137931
+	 spacy: Number of Organisation: 16
+	 spacy: Percentage ORG per NE: 27.586206896551722
+	 spacy: Number of Person: 7
+	 spacy: Percentage Person per NE: 12.068965517241379
+-stanford: Number of Named Entities in english: 66
+	 stanford: Number of GPE: 10
+	 stanford: Percentage GPE per NE: 15.151515151515152
+	 stanford: Number of Organisation: 18
+	 stanford: Percentage ORG per NE: 27.27272727272727
+	 stanford: Number of Person: 7
+	 stanford: Percentage Person per NE: 10.606060606060606
+
+____________________________________
+Evaluation of the English issue_112, article_a16:
+Number of nouns (en): 18
+-spacy: Number of Named Entities in english: 2
+	 spacy: Number of GPE: 1
+	 spacy: Percentage GPE per NE: 50.0
+	 spacy: Number of Organisation: 0
+	 spacy: Percentage ORG per NE: 0.0
+	 spacy: Number of Person: 1
+	 spacy: Percentage Person per NE: 50.0
+-stanford: Number of Named Entities in english: 2
+	 stanford: Number of GPE: 1
+	 stanford: Percentage GPE per NE: 50.0
+	 stanford: Number of Organisation: 0
+	 stanford: Percentage ORG per NE: 0.0
+	 stanford: Number of Person: 1
+	 stanford: Percentage Person per NE: 50.0
+
+____________________________________
+Evaluation of the English issue_112, article_a29:
+Number of nouns (en): 497
+-spacy: Number of Named Entities in english: 69
+	 spacy: Number of GPE: 13
+	 spacy: Percentage GPE per NE: 18.84057971014493
+	 spacy: Number of Organisation: 17
+	 spacy: Percentage ORG per NE: 24.637681159420293
+	 spacy: Number of Person: 14
+	 spacy: Percentage Person per NE: 20.28985507246377
+-stanford: Number of Named Entities in english: 70
+	 stanford: Number of GPE: 14
+	 stanford: Percentage GPE per NE: 20.0
+	 stanford: Number of Organisation: 6
+	 stanford: Percentage ORG per NE: 8.571428571428571
+	 stanford: Number of Person: 22
+	 stanford: Percentage Person per NE: 31.428571428571427
+
+____________________________________
+Evaluation of the English issue_112, article_a18:
+Number of nouns (en): 100
+-spacy: Number of Named Entities in english: 14
+	 spacy: Number of GPE: 2
+	 spacy: Percentage GPE per NE: 14.285714285714285
+	 spacy: Number of Organisation: 0
+	 spacy: Percentage ORG per NE: 0.0
+	 spacy: Number of Person: 5
+	 spacy: Percentage Person per NE: 35.714285714285715
+-stanford: Number of Named Entities in english: 16
+	 stanford: Number of GPE: 1
+	 stanford: Percentage GPE per NE: 6.25
+	 stanford: Number of Organisation: 3
+	 stanford: Percentage ORG per NE: 18.75
+	 stanford: Number of Person: 5
+	 stanford: Percentage Person per NE: 31.25
+
+____________________________________
+Evaluation of the English issue_112, article_a15:
+Number of nouns (en): 149
+-spacy: Number of Named Entities in english: 24
+	 spacy: Number of GPE: 3
+	 spacy: Percentage GPE per NE: 12.5
+	 spacy: Number of Organisation: 3
+	 spacy: Percentage ORG per NE: 12.5
+	 spacy: Number of Person: 6
+	 spacy: Percentage Person per NE: 25.0
+-stanford: Number of Named Entities in english: 25
+	 stanford: Number of GPE: 3
+	 stanford: Percentage GPE per NE: 12.0
+	 stanford: Number of Organisation: 2
+	 stanford: Percentage ORG per NE: 8.0
+	 stanford: Number of Person: 8
+	 stanford: Percentage Person per NE: 32.0

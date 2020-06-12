@@ -1,0 +1,41 @@
+Title 	 NE
+: 	 $.
+Partizipative 	 ADJA
+Behandlung 	 NN
+
+ 	 _SP
+Author 	 NN
+: 	 $.
+Daniel 	 NE
+Saraga 	 NE
+
+ 	 _SP
+Abstract 	 NE
+: 	 $.
+Ein 	 ART
+Lausanner 	 ADJA
+Start­up 	 NN
+will 	 VMFIN
+die 	 ART
+Rehabilitation 	 NN
+eines 	 ART
+gelähmten 	 ADJA
+Körperglieds 	 NN
+verbessern 	 VVINF
+. 	 $.
+Die 	 ART
+Idee 	 NN
+: 	 $.
+Der 	 ART
+Patient 	 NN
+erhält 	 VVFIN
+mehr 	 PIAT
+Kontrolle 	 NN
+über 	 APPR
+seine 	 PPOSAT
+Therapie 	 NN
+. 	 $.
+
+ 	 _SP
+
+ 	 _SP

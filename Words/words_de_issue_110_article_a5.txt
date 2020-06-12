@@ -1,0 +1,48 @@
+Title 	 NE
+: 	 $.
+In 	 APPR
+3D 	 NN
+sind 	 VAFIN
+Zellkulturen 	 NN
+realistischer 	 ADJA
+
+ 	 _SP
+Author 	 NN
+: 	 $.
+Daniel 	 NE
+Saraga 	 NE
+
+ 	 _SP
+Abstract 	 NN
+: 	 $.
+Verschiedene 	 ADJA
+Schweizer 	 ADJA
+Start-ups 	 NN
+entwickeln 	 VVFIN
+dreidimensionale 	 ADJA
+Zellgewebe 	 NN
+. 	 $.
+Verglichen 	 VVPP
+mit 	 APPR
+den 	 ART
+üblichen 	 ADJA
+einschichtigen 	 ADJA
+Zellkulturen 	 NN
+bieten 	 VVFIN
+sie 	 PPER
+realistischere 	 ADJA
+Testbedingungen 	 NN
+für 	 APPR
+Wirkstoffe 	 NN
+, 	 $,
+Materialien 	 NN
+für 	 APPR
+Implantate 	 NN
+und 	 KON
+toxikologische 	 ADJA
+Untersuchungen 	 NN
+. 	 $.
+
+ 	 _SP
+
+ 	 _SP

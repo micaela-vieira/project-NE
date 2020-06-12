@@ -1,0 +1,51 @@
+Title 	 NN
+: 	 :
+In 	 IN
+vitro 	 FW
+goes 	 VBZ
+3D 	 NNP
+
+ 	 _SP
+Author 	 NN
+: 	 :
+Daniel 	 NNP
+Saraga 	 NNP
+
+ 	 _SP
+Abstract 	 JJ
+: 	 :
+Several 	 JJ
+Swiss 	 JJ
+startups 	 NNS
+are 	 VBP
+developing 	 VBG
+cell 	 NN
+tissues 	 NNS
+in 	 IN
+three 	 CD
+dimensions 	 NNS
+. 	 .
+Compared 	 VBN
+to 	 IN
+standard 	 JJ
+2D 	 JJ
+cultures 	 NNS
+, 	 ,
+they 	 PRP
+offer 	 VBP
+more 	 RBR
+reliable 	 JJ
+testbeds 	 NNS
+for 	 IN
+pharmaceuticals 	 NNS
+, 	 ,
+biocompatible 	 JJ
+materials 	 NNS
+and 	 CC
+toxicology 	 NN
+assessments 	 NNS
+. 	 .
+
+ 	 _SP
+
+ 	 _SP

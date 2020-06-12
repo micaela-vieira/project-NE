@@ -1,0 +1,33 @@
+Title 	 NE
+: 	 $.
+Die 	 ART
+Elemente 	 NN
+der 	 ART
+Open 	 FM
+Science 	 NE
+
+ 	 _SP
+Author 	 NN
+: 	 $.
+Daniel 	 NE
+Saraga 	 NE
+
+ 	 _SP
+Abstract 	 NE
+: 	 $.
+Die 	 ART
+Basisbewegung 	 NN
+hat 	 VAFIN
+eine 	 ART
+Vielfalt 	 NN
+von 	 APPR
+Begriffen 	 NN
+geschaffen 	 VVPP
+. 	 $.
+Eine 	 ART
+Übersicht 	 NN
+. 	 $.
+
+ 	 _SP
+
+ 	 _SP

@@ -1,0 +1,37 @@
+Title 	 NN
+: 	 :
+The 	 DT
+elements 	 NNS
+of 	 IN
+open 	 JJ
+science 	 NN
+
+ 	 _SP
+Author 	 NN
+: 	 :
+Daniel 	 NNP
+Saraga 	 NNP
+
+ 	 _SP
+Abstract 	 NNP
+: 	 :
+This 	 DT
+grassroots 	 NNS
+movement 	 NN
+has 	 VBZ
+created 	 VBN
+a 	 DT
+plethora 	 NN
+of 	 IN
+new 	 JJ
+concepts 	 NNS
+. 	 .
+Here 	 RB
+’s 	 VBZ
+an 	 DT
+overview 	 NN
+. 	 .
+
+ 	 _SP
+
+ 	 _SP
