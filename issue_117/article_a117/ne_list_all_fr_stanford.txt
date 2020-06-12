@@ -1,0 +1,9 @@
+Daniel Saraga	PER
+Bild	PER
+Max Tirassa	PER
+EPFL	ORG
+Car	LOC
+Max Tirassa	PER
+Institut d'ingénierie civile de l’EPFL	LOC
+Les	LOC
+Une	LOC

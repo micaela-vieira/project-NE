@@ -1,0 +1,12 @@
+Allemagne	LOC
+Bibliothèque Nationale de France	LOC
+France	LOC
+Gaëlle Burg	PER
+Institut d’études françaises et francophones	ORG
+Italie	LOC
+Les	LOC
+Martine Brocard	PER
+Moyen Age	MISC
+Renaissance	MISC
+Université de Bâle	ORG
+la Renaissance	MISC

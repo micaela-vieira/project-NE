@@ -1,0 +1,50 @@
+Jens Lubbadeh	PERSON
+Petrol	ORG
+one day	DATE
+First	ORDINAL
+second	ORDINAL
+Getty Images/	ORG
+François Maréchal	PERSON
+EPFL	ORG
+the National Research Programme	ORG
+second	ORDINAL
+USA	GPE
+François Maréchal	PERSON
+Maréchal	PERSON
+two	CARDINAL
+Succinic	NORP
+Maréchal	ORG
+The US Department of Energy	ORG
+ten	CARDINAL
+Four	CARDINAL
+one	CARDINAL
+Maréchal	ORG
+Maréchal	ORG
+Maréchal	ORG
+NRP 66	GPE
+Michael Studer	PERSON
+the Bern University of Applied Sciences	ORG
+Jura	GPE
+Studer	ORG
+Maréchal	ORG
+a later date	DATE
+Studer	ORG
+Four	CARDINAL
+a third	CARDINAL
+Studer	PERSON
+Studer	ORG
+Swiss	NORP
+USA	GPE
+Sweden	GPE
+Studer	ORG
+Only 60 percent	PERCENT
+Studer	PERSON
+Philip Hasler	PERSON
+Emerald Technology Ventures	ORG
+many years	DATE
+Hasler	PERSON
+Hasler	PERSON
+three to four	CARDINAL
+Hasler	PERSON
+Jens Lubbadeh	PERSON
+the Neue Zürcher Zeitung, Technology Review	ORG

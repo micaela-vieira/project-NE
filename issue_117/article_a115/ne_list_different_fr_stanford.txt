@@ -1,0 +1,21 @@
+Bâle	LOC
+Centre	LOC
+Cette	LOC
+Haute école des sciences appliquées de Zurich	LOC
+Hôpital	LOC
+Hôpital universitaire de Bâle	LOC
+Hôpital universitaire de Zurich	LOC
+Image: Shutterstock	MISC
+Institut de communication et de santé de l’Université de la Suisse italienne	ORG
+Internet	MISC
+Julie Page	PER
+Les	LOC
+Michaela Kolbe	PER
+Nottwil	LOC
+Peter Schulz	PER
+Sabina Hunziker	PER
+Si	MISC
+Suisse	LOC
+Wolf Langewitz	PER
+Yvonne Vahlensieck	PER
+ZHAW	LOC

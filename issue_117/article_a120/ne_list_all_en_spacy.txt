@@ -1,0 +1,30 @@
+Renaissance	ORG
+Martine Brocard	PERSON
+Latin	LANGUAGE
+Renaissance	ORG
+Romanesque	NORP
+French	NORP
+the 15th century	DATE
+| Bibliothèque Nationale de France	ORG
+Renaissance	ORG
+first	ORDINAL
+France	GPE
+around 1470	DATE
+Latin	NORP
+Germany	GPE
+Italy	GPE
+Gaëlle Burg	PERSON
+the Institute for French and French Studies	ORG
+the University of Basel	ORG
+French	NORP
+Burg	PERSON
+the Middle Ages	DATE
+Renaissance	ORG
+Roman	NORP
+Burg	PERSON
+five	CARDINAL
+first	ORDINAL
+French	NORP
+the 16th century	DATE
+some one hundred	CARDINAL
+1540	DATE

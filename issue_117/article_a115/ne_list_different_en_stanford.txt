@@ -1,0 +1,31 @@
+8,000	CARDINAL
+Basel	GPE
+Julie Page	PERSON
+Kolbe	ORG/PERSON
+Langewitz	PERSON
+Michaela Kolbe	PERSON
+Nottwil	GPE
+One	CARDINAL
+Page	PERSON
+Peter Schulz	PERSON
+Roughly a fifth	CARDINAL
+Sabina Hunziker	PERSON
+Schulz	PERSON
+Shutterstock	ORG
+Switzerland	GPE
+USI	ORG
+Wolf Langewitz	PERSON
+Yvonne Vahlensieck	PERSON
+ZHAW	ORG
+every ten minutes	TIME
+many decades	DATE
+one	CARDINAL
+several months afterwards	DATE
+ten-second	TIME
+the Institute of Communication and Health	ORG
+the Simulation Center	ORG
+the Swiss Paraplegic Centre	ORG
+the University Hospital Zurich	ORG
+the University Hospital of Basel	ORG
+the Università della Svizzera italiana	ORG
+the Zurich University of Applied Sciences	ORG

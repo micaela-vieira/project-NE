@@ -1,0 +1,12 @@
+Daniel Saraga	PERSON
+Horizons	PERSON
+Max Tirassa/EPFL	PERSON
+just one	CARDINAL
+Max Tirassa	PERSON
+Institute of Civil Engineering	ORG
+ten minutes	TIME
+Tirassa	PERSON
+today	DATE
+two	CARDINAL
+two	CARDINAL
+first	ORDINAL

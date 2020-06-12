@@ -1,0 +1,45 @@
+Jens Lubbadeh	PER
+Les	LOC
+Photo: Getty Images	MISC
+SimplyCreativePhotography	MISC
+Le bois	MISC
+Les	LOC
+EPFL	ORG
+François Maréchal	PER
+Programme national de recherche «Ressource bois	ORG
+PNR	ORG
+Une	LOC
+Les	LOC
+La bioraffinerie	MISC
+Directement	LOC
+Etats-Unis	LOC
+François Maréchal	PER
+Cuire le bois	MISC
+François Maréchal	PER
+L’acide	LOC
+CO2	MISC
+François Maréchal	PER
+Conclusion	MISC
+L’acide	LOC
+François Maréchal	PER
+Michael Studer	PER
+Haute école spécialisée bernoise	ORG
+Jura	LOC
+PNR	ORG
+Michael Studer	PER
+François Maréchal	PER
+D’autres	LOC
+Michael Studer	PER
+Suisse	LOC
+Michael Studer	PER
+Etats-Unis	LOC
+Suède	LOC
+Ici	LOC
+Philip Hasler	PER
+Emerald Technology Ventures	ORG
+Les	LOC
+Philip Hasler	PER
+L’acide succinique	MISC
+Jens Lubbadeh	PER
+NZZ	ORG
+Technology Review	ORG

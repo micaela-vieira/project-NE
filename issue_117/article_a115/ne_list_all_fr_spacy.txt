@@ -1,0 +1,34 @@
+Title: Hôpital	MISC
+Yvonne Vahlensieck	PER
+Médecins	LOC
+| Image:	MISC
+Suisse	LOC
+Julie Page	PER
+Haute école des sciences appliquées de Zurich	ORG
+ZHAW	LOC
+Julie Page	PER
+Si	MISC
+Michaela Kolbe	PER
+Hôpital universitaire de Zurich	LOC
+Michaela Kolbe	PER
+Michaela Kolbe	PER
+Michaela Kolbe	PER
+Michaela Kolbe	PER
+Hôpital universitaire de Bâle	LOC
+Sabina Hunziker	PER
+»	MISC
+Peter Schulz	PER
+Institut de communication et de santé	ORG
+Université de la Suisse italienne	ORG
+Peter Schulz	PER
+Internet	MISC
+»	ORG
+Wolf Langewitz	PER
+Hôpital universitaire de Bâle	LOC
+Le praticien	MISC
+Wolf Langewitz	PER
+Wolf Langewitz	PER
+Centre suisse	LOC
+Nottwil	LOC
+Yvonne Vahlensieck	PER
+Bâle	LOC

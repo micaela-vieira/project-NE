@@ -1,0 +1,35 @@
+Hôpital	LOC
+Yvonne Vahlensieck	PER
+Les	LOC
+Image: Shutterstock	MISC
+Suisse	LOC
+Julie Page	PER
+Haute école des sciences appliquées de Zurich	LOC
+ZHAW	LOC
+Julie Page	PER
+Cette	LOC
+Si	MISC
+Les	LOC
+Michaela Kolbe	PER
+Hôpital universitaire de Zurich	LOC
+Michaela Kolbe	PER
+Michaela Kolbe	PER
+Michaela Kolbe	PER
+Michaela Kolbe	PER
+Hôpital universitaire de Bâle	LOC
+Sabina Hunziker	PER
+Peter Schulz	PER
+Institut de communication et de santé de l’Université de la Suisse italienne	ORG
+Les	LOC
+Les	LOC
+Peter Schulz	PER
+Internet	MISC
+Wolf Langewitz	PER
+Hôpital universitaire de Bâle	LOC
+Wolf Langewitz	PER
+Wolf Langewitz	PER
+Les	LOC
+Centre	LOC
+Nottwil	LOC
+Yvonne Vahlensieck	PER
+Bâle	LOC

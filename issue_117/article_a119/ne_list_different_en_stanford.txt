@@ -1,0 +1,34 @@
+200-megawatt	QUANTITY
+66	CARDINAL
+Department of Energy	ORG
+EPFL	ORG
+Emerald Technology Ventures	ORG
+First	ORDINAL
+Four	CARDINAL
+François Maréchal	PERSON
+Getty	PERSON
+Hasler	ORG/PERSON
+Jens Lubbadeh	PERSON
+Jura	GPE
+Maréchal	ORG/PERSON
+Michael Studer	PERSON
+NRP 66	ORG
+Only 60 percent	PERCENT
+Philip Hasler	PERSON
+Resource Wood’	WORK_OF_ART
+Studer	ORG/PERSON
+Sweden	GPE
+Swiss	NORP
+US	GPE
+USA	GPE
+Wood	PERSON
+a third	CARDINAL
+many years	DATE
+one	CARDINAL
+second	ORDINAL
+ten	CARDINAL
+the Bern University of Applied Sciences	ORG
+the National Research Programme	ORG
+the Neue Zürcher Zeitung, Technology Review	ORG
+three to four	CARDINAL
+two	CARDINAL

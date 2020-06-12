@@ -1,0 +1,15 @@
+0.0000000000003	CARDINAL
+second	ORDINAL
+Lionel Pousaz	PERSON
+3	CARDINAL
+AP	ORG
+Marcio Jose Sanchez	PERSON
+ETH Zurich	ORG
+Ursula Keller	PERSON
+0.3 billionths of a billionth	QUANTITY
+second	ORDINAL
+Keller	PERSON
+Zurich	GPE
+one trillion quantum	QUANTITY
+Keller	PERSON
+Phone	PRODUCT

@@ -1,0 +1,34 @@
+Yvonne Vahlensieck	PER
+Shutterstock	PER
+Schweiz	LOC
+Julie Page	PER
+Zürcher Hochschule für angewandte Wissenschaften	ORG
+ZHAW	ORG
+Page	PER
+Page	PER
+Michaela Kolbe	PER
+Universitätsspitals Zürich	ORG
+Kolbe	PER
+Kolbe	PER
+Kolbe	PER
+Kolbe	PER
+Universitätsspital Basel	LOC
+Sabina Hunziker	PER
+Peter Schulz	PER
+Instituts für Kommunikation und Gesundheit	ORG
+Università della Svizzera italiana	ORG
+USI	ORG
+Schulz	PER
+Schulz	PER
+Schulz	PER
+Schulz	PER
+Schulz	PER
+Wolf Langewitz	PER
+Universitätsspital Basel	ORG
+Schweiz	LOC
+Basler	MISC
+Langewitz	LOC
+Langewitz	PER
+Paraplegiker-Zentrums Nottwil	ORG
+Yvonne Vahlensieck	PER
+Basel	LOC

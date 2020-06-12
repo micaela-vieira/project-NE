@@ -1,0 +1,21 @@
+Martine Brocard	PER
+lateinische	MISC
+Französische	MISC
+Bibliothèque Nationale de France	ORG
+Frankreich	LOC
+Deutschland	LOC
+Italien	LOC
+lateinischen	MISC
+Die Herausgeber	MISC
+Gaëlle Burg	PER
+Institut für französische Sprach- und Literaturwissenschaft	ORG
+Universität Basel	ORG
+Französisch	MISC
+mittelalterlichen	MISC
+mittelalterliche	MISC
+römische	MISC
+gotische	MISC
+mittelalterlichen	MISC
+französischen	MISC
+Jahrhunderts	PER
+Renaissance-Literatur	LOC

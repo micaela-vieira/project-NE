@@ -1,0 +1,10 @@
+Simon Koechlin	PER
+Les	LOC
+Drosophila	PER
+Wikimedia Commons	MISC
+Arctique	LOC
+Les	LOC
+Ces	LOC
+Université de Zurich	LOC
+Patrick Rohner	PER
+Leurs	LOC

@@ -1,0 +1,24 @@
+CO2	LOC
+Cuire	LOC
+EPFL	ORG
+Emerald	LOC
+Etats	LOC
+Etats-Unis	MISC
+François Maréchal	PER
+Getty Images	MISC
+Haute école spécialisée bernoise	ORG
+Jens Lubbadeh	PER
+Jura	LOC
+L’acide succinique	MISC
+Michael Studer	PER
+NZZ	ORG
+PNR	ORG
+Philip Hasler	PER
+Programme national de recherche «Ressource bois»	ORG
+Quatre procédés	MISC
+SimplyCreativePhotography	MISC
+Suisse	LOC
+Suède	LOC
+Technology Review	ORG
+Unis	LOC
+»	LOC/ORG

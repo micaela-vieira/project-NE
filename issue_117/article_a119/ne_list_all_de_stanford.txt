@@ -1,0 +1,33 @@
+Jens Lubbadeh	PER
+Getty Images/SimplyCreativePhotography	ORG
+François Maréchal	PER
+EPFL	ORG
+Nationalen  Forschungsprogramms «Ressource Holz	MISC
+NFP	ORG
+USA	LOC
+François Maréchals	PER
+Maréchal	PER
+Maréchal	PER
+US Department of Energy	ORG
+Maréchal	PER
+Maréchals	PER
+Michael Studer	PER
+Berner Fachhochschule	ORG
+NFP 66	ORG
+Maréchals	PER
+Studer	PER
+Studer	PER
+Studer	PER
+Schweiz	LOC
+Studer	PER
+USA	LOC
+Schweden	LOC
+Studer	PER
+Philip Hasler	PER
+Emerald Technology Ventures	ORG
+Hasler	PER
+Hasler	PER
+Hasler	PER
+Jens Lubbadeh	PER
+NZZ	ORG
+Technology Review	ORG

@@ -1,0 +1,14 @@
+Author: Martine Brocard	MISC
+Renaissance	MISC
+Bibliothèque Nationale de France	ORG
+Renaissance	MISC
+France	LOC
+Allemagne	LOC
+Italie	LOC
+Gaëlle Burg	PER
+Institut d’études françaises et francophones de l’	ORG
+Université de Bâle	ORG
+Moyen Age	ORG
+Renaissance	MISC
+Gaëlle Burg	ORG
+XVIe siècle	MISC

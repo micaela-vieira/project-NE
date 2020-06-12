@@ -1,0 +1,22 @@
+1540	DATE
+Burg	PERSON
+France	GPE
+French	NORP
+Gaëlle Burg	PERSON
+Germany	GPE
+Italy	GPE
+Latin	LANGUAGE/NORP
+Martine Brocard	PERSON
+Renaissance	ORG
+Roman	NORP
+Romanesque	NORP
+around 1470	DATE
+first	ORDINAL
+five	CARDINAL
+some one hundred	CARDINAL
+the 15th century	DATE
+the 16th century	DATE
+the Institute for French and French Studies	ORG
+the Middle Ages	DATE
+the University of Basel	ORG
+| Bibliothèque Nationale de France	ORG

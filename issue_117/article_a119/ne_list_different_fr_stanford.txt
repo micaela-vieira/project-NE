@@ -1,0 +1,29 @@
+CO2	MISC
+Conclusion	MISC
+Cuire le bois	MISC
+Directement	LOC
+D’autres	LOC
+EPFL	ORG
+Emerald Technology Ventures	ORG
+Etats-Unis	LOC
+François Maréchal	PER
+Haute école spécialisée bernoise	ORG
+Ici	LOC
+Jens Lubbadeh	PER
+Jura	LOC
+La bioraffinerie	MISC
+Le bois	MISC
+Les	LOC
+L’acide	LOC
+L’acide succinique	MISC
+Michael Studer	PER
+NZZ	ORG
+PNR	ORG
+Philip Hasler	PER
+Photo: Getty Images	MISC
+Programme national de recherche «Ressource bois	ORG
+SimplyCreativePhotography	MISC
+Suisse	LOC
+Suède	LOC
+Technology Review	ORG
+Une	LOC

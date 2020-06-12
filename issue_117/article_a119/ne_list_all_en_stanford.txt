@@ -1,0 +1,53 @@
+Jens Lubbadeh	PERSON
+First	ORDINAL
+second	ORDINAL
+Getty	PERSON
+Wood	PERSON
+François Maréchal	PERSON
+EPFL	ORG
+the National Research Programme	ORG
+Resource Wood’	WORK_OF_ART
+66	CARDINAL
+second	ORDINAL
+USA	GPE
+François Maréchal	PERSON
+Maréchal	PERSON
+two	CARDINAL
+Maréchal	ORG
+200-megawatt	QUANTITY
+Maréchal	PERSON
+US	GPE
+Department of Energy	ORG
+one	CARDINAL
+ten	CARDINAL
+Four	CARDINAL
+one	CARDINAL
+Maréchal	ORG
+Maréchal	PERSON
+Maréchal	PERSON
+NRP 66	ORG
+Michael Studer	PERSON
+the Bern University of Applied Sciences	ORG
+Jura	GPE
+Studer	ORG
+Maréchal	PERSON
+Studer	PERSON
+Four	CARDINAL
+a third	CARDINAL
+Studer	ORG
+Studer	ORG
+Swiss	NORP
+USA	GPE
+Sweden	GPE
+Studer	ORG
+Only 60 percent	PERCENT
+Studer	PERSON
+Philip Hasler	PERSON
+Emerald Technology Ventures	ORG
+many years	DATE
+Hasler	PERSON
+Hasler	PERSON
+three to four	CARDINAL
+Hasler	ORG
+Jens Lubbadeh	PERSON
+the Neue Zürcher Zeitung, Technology Review	ORG

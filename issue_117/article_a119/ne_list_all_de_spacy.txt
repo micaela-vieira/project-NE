@@ -1,0 +1,59 @@
+Jens Lubbadeh	PER
+Mais auf den Teller	MISC
+Getty Images/SimplyCreativePhotography	PER
+Raffinerien	LOC
+Treibstoff 	PER
+Rohstoff	MISC
+Stoffe	MISC
+François Maréchal	PER
+EPFL	ORG
+Nationalen  	MISC
+NFP 66	MISC
+Biotreibstoffe	LOC
+Zuckerrohr  	MISC
+Zuckerketten	LOC
+Lignin	LOC
+Raffinerien	LOC
+Fracking-Booms	MISC
+USA	LOC
+François Maréchals Ansatz	PER
+Maréchal	PER
+Chemikalien	LOC
+Treibstoffen	LOC
+Bernsteinsäure	PER
+Bernsteinsäure	PER
+Maréchal	PER
+US Department of Energy	ORG
+Treibstoff	LOC
+Maréchal	PER
+Diesel	LOC
+Bernsteinsäure	PER
+synthetisches	MISC
+Michael Studer	PER
+Berner Fachhochschule	ORG
+NFP 66	MISC
+Holzabfällen Ethanol	PER
+Studer	LOC
+Pilot-Massstab	LOC
+Studer	PER
+Zellulose-Ethanol-Preises	MISC
+Studer	PER
+Kritische Menge Biomasse	LOC
+Schweiz	LOC
+Biomasse pro Jahr	MISC
+den USA	LOC
+Schweden	LOC
+Hohe Investitionskosten	MISC
+Buchenholzes	LOC
+Holzpellets	PER
+Philip Hasler	PER
+Emerald Technology Ventures	PER
+Biotreibstoffe	LOC
+Biotreibstoffen	LOC
+Biomasse	LOC
+Bernsteinsäure 	PER
+Bernsteinsäure	PER
+Hasler	PER
+Jens Lubbadeh	PER
+NZZ	ORG
+Technology Review	ORG

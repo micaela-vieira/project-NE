@@ -1,0 +1,33 @@
+EPFL	ORG
+Emerald Technology Ventures	ORG
+First	ORDINAL
+Four	CARDINAL
+François Maréchal	PERSON
+Getty Images/	ORG
+Hasler	PERSON
+Jens Lubbadeh	PERSON
+Jura	GPE
+Maréchal	ORG/PERSON
+Michael Studer	PERSON
+NRP 66	GPE
+Only 60 percent	PERCENT
+Petrol	ORG
+Philip Hasler	PERSON
+Studer	ORG/PERSON
+Succinic	NORP
+Sweden	GPE
+Swiss	NORP
+The US Department of Energy	ORG
+USA	GPE
+a later date	DATE
+a third	CARDINAL
+many years	DATE
+one	CARDINAL
+one day	DATE
+second	ORDINAL
+ten	CARDINAL
+the Bern University of Applied Sciences	ORG
+the National Research Programme	ORG
+the Neue Zürcher Zeitung, Technology Review	ORG
+three to four	CARDINAL
+two	CARDINAL

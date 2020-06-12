@@ -1,0 +1,15 @@
+Martine Brocard	PER
+lateinische	MISC
+Französische	MISC
+Ritterromans | Bild: Bibliothèque Nationale de France	MISC
+Frankreich	LOC
+Deutschland	LOC
+Italien	LOC
+lateinischen	MISC
+Gaëlle Burg	PER
+Institut für französische Sprach- und Literaturwissenschaft	ORG
+Universität Basel	ORG
+Französisch	MISC
+römische	MISC
+Burg	PER
+französischen	MISC

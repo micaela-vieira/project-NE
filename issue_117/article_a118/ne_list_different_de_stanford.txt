@@ -1,0 +1,8 @@
+Patrick Rohner	PER
+Polarkreis	LOC
+Rohner	PER
+Schweden	LOC
+Simon Koechlin	PER
+USA	LOC
+Universität Zürich	ORG
+Wikimedia Commons	ORG

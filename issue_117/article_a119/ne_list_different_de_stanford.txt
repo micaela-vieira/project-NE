@@ -1,0 +1,22 @@
+Berner Fachhochschule	ORG
+EPFL	ORG
+Emerald Technology Ventures	ORG
+François Maréchal	PER
+François Maréchals	PER
+Getty Images/SimplyCreativePhotography	ORG
+Hasler	PER
+Jens Lubbadeh	PER
+Maréchal	PER
+Maréchals	PER
+Michael Studer	PER
+NFP	ORG
+NFP 66	ORG
+NZZ	ORG
+Nationalen  Forschungsprogramms «Ressource Holz	MISC
+Philip Hasler	PER
+Schweden	LOC
+Schweiz	LOC
+Studer	PER
+Technology Review	ORG
+US Department of Energy	ORG
+USA	LOC

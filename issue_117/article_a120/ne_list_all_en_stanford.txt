@@ -1,0 +1,29 @@
+Martine Brocard	PERSON
+Latin	LANGUAGE
+Renaissance	WORK_OF_ART
+Romanesque	NORP
+French	NORP
+the 15th century	DATE
+Bibliothèque Nationale de France	WORK_OF_ART
+Renaissance	WORK_OF_ART
+first	ORDINAL
+France	GPE
+1470	CARDINAL
+Latin	LANGUAGE
+Germany	GPE
+Italy	GPE
+Gaëlle Burg	PERSON
+the Institute for French and French Studies	ORG
+the University of Basel	ORG
+French	LANGUAGE
+Burg	PERSON
+the Middle Ages and the Renaissance	WORK_OF_ART
+Roman	NORP
+Gothic	NORP
+Burg	PERSON
+five	CARDINAL
+first	ORDINAL
+French	NORP
+the 16th century	DATE
+some one hundred	CARDINAL
+1540	CARDINAL

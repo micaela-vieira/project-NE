@@ -1,0 +1,10 @@
+Arctic	LOC
+Earth	LOC
+Flies	ORG
+Patrick Rohner	PERSON
+Rohner	PERSON
+Simon Koechlin	PERSON
+Sweden	GPE
+USA	GPE
+over 150	CARDINAL
+the University of Zurich	ORG

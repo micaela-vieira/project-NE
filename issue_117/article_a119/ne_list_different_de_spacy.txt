@@ -1,0 +1,48 @@
+Berner Fachhochschule	ORG
+Bernsteinsäure	PER
+Bernsteinsäure 	PER
+Biomasse	LOC
+Biomasse pro Jahr	MISC
+Biotreibstoffe	LOC
+Biotreibstoffen	LOC
+Buchenholzes	LOC
+Chemikalien	LOC
+Diesel	LOC
+EPFL	ORG
+Emerald Technology Ventures	PER
+Fracking-Booms	MISC
+François Maréchal	PER
+François Maréchals Ansatz	PER
+Getty Images/SimplyCreativePhotography	PER
+Hasler	PER
+Hohe Investitionskosten	MISC
+Holzabfällen Ethanol	PER
+Holzpellets	PER
+Jens Lubbadeh	PER
+Kritische Menge Biomasse	LOC
+Lignin	LOC
+Mais auf den Teller	MISC
+Maréchal	PER
+Michael Studer	PER
+NFP 66	MISC
+NZZ	ORG
+Nationalen  	MISC
+Philip Hasler	PER
+Pilot-Massstab	LOC
+Raffinerien	LOC
+Rohstoff	MISC
+Schweden	LOC
+Schweiz	LOC
+Stoffe	MISC
+Studer	LOC/PER
+Technology Review	ORG
+Treibstoff	LOC
+Treibstoffen	LOC
+Treibstoff 	PER
+US Department of Energy	ORG
+USA	LOC
+Zellulose-Ethanol-Preises	MISC
+Zuckerketten	LOC
+Zuckerrohr  	MISC
+den USA	LOC
+synthetisches	MISC

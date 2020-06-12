@@ -1,0 +1,15 @@
+Drosophila repleta	PER
+Flügellänge	MISC
+Grösse	PER
+Grösser	PER
+Museumsexemplare	LOC
+Patrick Rohner	PER
+Polarkreis	MISC
+Rohner	PER
+Schweden	LOC
+Simon Koechlin	PER
+USA	LOC
+Universität Zürich	ORG
+Wikimedia Commons	MISC
+Wärmeverlust	MISC
+|	MISC

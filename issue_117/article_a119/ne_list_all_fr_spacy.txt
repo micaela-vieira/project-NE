@@ -1,0 +1,37 @@
+Jens Lubbadeh	PER
+Getty Images	MISC
+SimplyCreativePhotography	MISC
+EPFL	ORG
+François Maréchal	PER
+Programme national de recherche «Ressource bois»	ORG
+PNR	ORG
+Etats	LOC
+Unis	LOC
+François Maréchal	PER
+»	LOC
+Cuire	LOC
+François Maréchal	PER
+L’acide succinique	MISC
+»	ORG
+CO2	LOC
+François Maréchal	PER
+François Maréchal	PER
+Michael Studer	PER
+Haute école spécialisée bernoise	ORG
+Jura	LOC
+PNR	ORG
+Michael Studer	PER
+François Maréchal	PER
+Quatre procédés	MISC
+»	ORG
+Michael Studer	PER
+Suisse	LOC
+Michael Studer	PER
+Etats-Unis	MISC
+Suède	LOC
+Philip Hasler	PER
+Emerald	LOC
+Philip Hasler	PER
+Jens Lubbadeh	PER
+NZZ	ORG
+Technology Review	ORG

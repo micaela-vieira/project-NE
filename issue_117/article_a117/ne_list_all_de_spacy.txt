@@ -1,0 +1,17 @@
+Daniel Saraga	PER
+Laborlebens	LOC
+Horizonte	PER
+Max Tirassa/EPFL	MISC
+Irren	LOC
+Max Tirassa	PER
+Institut für Bauingenieurwissenschaften	ORG
+EPFL	ORG
+Betonblock	LOC
+Fasziniert	PER
+Gebäuden	LOC
+Betons	MISC
+Arbeitens	LOC
+Fehlern	LOC
+Missgeschicken	LOC
+Vorfalls Vorwürfe	ORG
+Irrtümer	LOC

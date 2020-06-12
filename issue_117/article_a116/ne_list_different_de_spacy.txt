@@ -1,0 +1,15 @@
+3D-Bilder	PER
+ETH Zürich	ORG
+Forscherin	LOC
+Halbleiter  	MISC
+Laserstrahl	MISC
+Laserstrahlen	LOC
+Lichts	LOC
+Lionel Pousaz	MISC
+Milliardstelsekundentakt	LOC
+Quadratmillimeter  	MISC
+Quantenpunkt-Laser	MISC
+Ultraschneller Laser	PER
+Ursula Keller	PER
+Zürcher Team	ORG
+iPhones	MISC

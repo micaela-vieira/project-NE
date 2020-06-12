@@ -1,0 +1,53 @@
+Yvonne Vahlensieck	PER
+Spital	LOC
+Fehler	PER
+Spitals	MISC
+|	MISC
+Operation	MISC
+Schweiz	LOC
+Buch	PER
+Schichtwechseln	LOC
+schlichtweg	PER
+Julie Page	PER
+Zürcher Hochschule für angewandte Wissenschaften	ORG
+ZHAW	ORG
+Page	PER
+Notfallteams	LOC
+Notaufnahme	MISC
+Michaela Kolbe	PER
+Simulationszentrums des Universitätsspitals Zürich	ORG
+Kolbe	PER
+Stresssituationen	LOC
+Zeit	MISC
+Zeit	PER
+Fehler	PER
+Die Hürden	MISC
+Kolbe	PER
+Simulationen	LOC
+Universitätsspital Basel	LOC
+Sabina Hunziker	PER
+Medizinstudierende	PER
+Internet	MISC
+Peter Schulz	PER
+Instituts für Kommunikation und Gesundheit	ORG
+Università della Svizzera italiana	ORG
+USI	ORG
+Ärztinnen	PER
+Schulz	PER
+Schulz	PER
+Schulz	PER
+Schulz	PER
+Internet	MISC
+Schulz	PER
+Wolf Langewitz	PER
+Universitätsspital Basel	ORG
+Schweiz	LOC
+Pflichtprogramm für Basler Medizinstudierende	ORG
+Langewitz	PER
+Studiums	MISC
+Spitalabteilungen	LOC
+Paraplegiker-Zentrums	LOC
+Nottwil	LOC
+Kaderpersonals	LOC
+Yvonne Vahlensieck	PER
+Basel	LOC

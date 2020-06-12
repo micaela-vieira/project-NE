@@ -1,0 +1,11 @@
+Lionel Pousaz	PER
+3D	MISC
+Keystone	ORG
+AP Photo	ORG
+Marcio Jose Sanchez	PER
+Les	LOC
+ETH Zurich	LOC
+Ursula Keller	PER
+Ursula Keller	PER
+iPhone	MISC
+3D	MISC

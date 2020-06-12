@@ -1,0 +1,22 @@
+Basel	LOC
+Basler	MISC
+Instituts für Kommunikation und Gesundheit	ORG
+Julie Page	PER
+Kolbe	PER
+Langewitz	LOC/PER
+Michaela Kolbe	PER
+Page	PER
+Paraplegiker-Zentrums Nottwil	ORG
+Peter Schulz	PER
+Sabina Hunziker	PER
+Schulz	PER
+Schweiz	LOC
+Shutterstock	PER
+USI	ORG
+Università della Svizzera italiana	ORG
+Universitätsspital Basel	LOC/ORG
+Universitätsspitals Zürich	ORG
+Wolf Langewitz	PER
+Yvonne Vahlensieck	PER
+ZHAW	ORG
+Zürcher Hochschule für angewandte Wissenschaften	ORG

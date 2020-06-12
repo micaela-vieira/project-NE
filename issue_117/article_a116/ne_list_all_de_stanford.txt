@@ -1,0 +1,6 @@
+Lionel Pousaz	PER
+Keystone/AP Photo/Marcio Jose Sanchez	PER
+Ursula Keller	PER
+ETH Zürich	ORG
+Zürcher Team	ORG
+Ursula Keller	PER

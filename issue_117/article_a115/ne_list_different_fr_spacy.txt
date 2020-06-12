@@ -1,0 +1,23 @@
+Bâle	LOC
+Centre suisse	LOC
+Haute école des sciences appliquées de Zurich	ORG
+Hôpital universitaire de Bâle	LOC
+Hôpital universitaire de Zurich	LOC
+Institut de communication et de santé	ORG
+Internet	MISC
+Julie Page	PER
+Le praticien	MISC
+Michaela Kolbe	PER
+Médecins	LOC
+Nottwil	LOC
+Peter Schulz	PER
+Sabina Hunziker	PER
+Si	MISC
+Suisse	LOC
+Title: Hôpital	MISC
+Université de la Suisse italienne	ORG
+Wolf Langewitz	PER
+Yvonne Vahlensieck	PER
+ZHAW	LOC
+| Image:	MISC
+»	MISC/ORG

@@ -1,0 +1,19 @@
+0.0000000000003 second	MONEY
+quantum dots	ORG
+3D	CARDINAL
+3D	CARDINAL
+| Keystone/AP Photo/Marcio	ORG
+second	ORDINAL
+ETH Zurich	PERSON
+Ursula Keller	PERSON
+0.3	CARDINAL
+second	ORDINAL
+second	ORDINAL
+Keller	PERSON
+Zurich	GPE
+one trillion	MONEY
+quantum dots per square	ORG
+Keller	PERSON
+iPhone	EVENT
+3D	PRODUCT
+3D	CARDINAL

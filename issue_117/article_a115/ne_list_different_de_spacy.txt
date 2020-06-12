@@ -1,0 +1,42 @@
+Basel	LOC
+Buch	PER
+Die Hürden	MISC
+Fehler	PER
+Instituts für Kommunikation und Gesundheit	ORG
+Internet	MISC
+Julie Page	PER
+Kaderpersonals	LOC
+Kolbe	PER
+Langewitz	PER
+Medizinstudierende	PER
+Michaela Kolbe	PER
+Notaufnahme	MISC
+Notfallteams	LOC
+Nottwil	LOC
+Operation	MISC
+Page	PER
+Paraplegiker-Zentrums	LOC
+Peter Schulz	PER
+Pflichtprogramm für Basler Medizinstudierende	ORG
+Sabina Hunziker	PER
+Schichtwechseln	LOC
+Schulz	PER
+Schweiz	LOC
+Simulationen	LOC
+Simulationszentrums des Universitätsspitals Zürich	ORG
+Spital	LOC
+Spitalabteilungen	LOC
+Spitals	MISC
+Stresssituationen	LOC
+Studiums	MISC
+USI	ORG
+Università della Svizzera italiana	ORG
+Universitätsspital Basel	LOC/ORG
+Wolf Langewitz	PER
+Yvonne Vahlensieck	PER
+ZHAW	ORG
+Zeit	MISC/PER
+Zürcher Hochschule für angewandte Wissenschaften	ORG
+schlichtweg	PER
+|	MISC
+Ärztinnen	PER

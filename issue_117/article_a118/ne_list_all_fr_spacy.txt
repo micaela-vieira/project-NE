@@ -1,0 +1,6 @@
+Simon Koechlin	PER
+Drosophila repleta	PER
+Wikimedia Commons	MISC
+Arctique	LOC
+Université de Zurich	LOC
+Patrick Rohner	PER

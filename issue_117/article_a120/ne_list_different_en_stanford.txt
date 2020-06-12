@@ -1,0 +1,23 @@
+1470	CARDINAL
+1540	CARDINAL
+Bibliothèque Nationale de France	WORK_OF_ART
+Burg	PERSON
+France	GPE
+French	LANGUAGE/NORP
+Gaëlle Burg	PERSON
+Germany	GPE
+Gothic	NORP
+Italy	GPE
+Latin	LANGUAGE
+Martine Brocard	PERSON
+Renaissance	WORK_OF_ART
+Roman	NORP
+Romanesque	NORP
+first	ORDINAL
+five	CARDINAL
+some one hundred	CARDINAL
+the 15th century	DATE
+the 16th century	DATE
+the Institute for French and French Studies	ORG
+the Middle Ages and the Renaissance	WORK_OF_ART
+the University of Basel	ORG

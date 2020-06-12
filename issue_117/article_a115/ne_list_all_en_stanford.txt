@@ -1,0 +1,48 @@
+Yvonne Vahlensieck	PERSON
+Shutterstock	ORG
+Switzerland	GPE
+one	CARDINAL
+8,000	CARDINAL
+Julie Page	PERSON
+the Zurich University of Applied Sciences	ORG
+ZHAW	ORG
+Page	PERSON
+one	CARDINAL
+Page	PERSON
+Michaela Kolbe	PERSON
+the Simulation Center	ORG
+the University Hospital Zurich	ORG
+Kolbe	ORG
+Kolbe	PERSON
+One	CARDINAL
+Kolbe	PERSON
+ten-second	TIME
+every ten minutes	TIME
+Kolbe	PERSON
+Kolbe	PERSON
+the University Hospital of Basel	ORG
+Sabina Hunziker	PERSON
+several months afterwards	DATE
+many decades	DATE
+Peter Schulz	PERSON
+the Institute of Communication and Health	ORG
+the Università della Svizzera italiana	ORG
+USI	ORG
+Schulz	PERSON
+Schulz	PERSON
+One	CARDINAL
+Schulz	PERSON
+Roughly a fifth	CARDINAL
+Schulz	PERSON
+Schulz	PERSON
+Wolf Langewitz	PERSON
+the University Hospital of Basel	ORG
+Langewitz	PERSON
+Switzerland	GPE
+Langewitz	PERSON
+Basel	GPE
+Langewitz	PERSON
+the Swiss Paraplegic Centre	ORG
+Nottwil	GPE
+Yvonne Vahlensieck	PERSON
+Basel	GPE
