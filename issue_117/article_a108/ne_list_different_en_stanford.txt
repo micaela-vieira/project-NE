@@ -1,0 +1,53 @@
+10 percent	PERCENT
+1024	CARDINAL
+1889	DATE
+21.507645	CARDINAL
+22 trillion	CARDINAL
+50 millionths of a gram	QUANTITY
+90 percent	PERCENT
+99.9995 percent	PERCENT
+Avogadro	GPE/PERSON
+BIPM	ORG
+Bern	GPE
+Earth	LOC
+Europe	LOC
+Florian Fisch	PERSON
+France	GPE
+International System of Units	ORG
+Kibble	ORG
+METAS	ORG
+Mathias Binswanger	PERSON
+Mesopotamia	LOC
+Metre	WORK_OF_ART
+NA	ORG
+Nadja Stadelmann	PERSON
+Nancy	PERSON
+Napoleon	PERSON
+November 2018	DATE
+October 2011	DATE
+Oliver Schlaudt	PERSON
+One	CARDINAL
+Paris	GPE
+Planck	LOC/PRODUCT
+Sciencespo	ORG
+Swiss	NORP
+Wabern	GPE
+a ‘watt	QUANTITY
+first	ORDINAL
+five	CARDINAL
+less than five metres	QUANTITY
+one	CARDINAL
+seven	CARDINAL
+tenth	ORDINAL
+the Avogadro constant NA	ORG
+the Bureau International des Poids et Mesures (BIPM)	FAC
+the French Revolution	EVENT
+the Institute for Political Studies	ORG
+the International System of Units	ORG
+the Swiss Federal Office of Metrology (METAS)	ORG
+the University of Heidelberg	ORG
+the Swiss Federal Office of Metrology	ORG
+three	CARDINAL
+today	DATE
+twenty micrograms	QUANTITY
+two	CARDINAL

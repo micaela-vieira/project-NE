@@ -1,0 +1,59 @@
+Mike S. Schäfer	PERSON
+Horizons	ORG
+Martin Vetterli	PERSON
+1957	DATE
+Martin Vetterli	PERSON
+Swiss	NORP
+EPFL	ORG
+early 2017	DATE
+2013 to 2016	DATE
+the National Research Council	ORG
+the Swiss National Science Foundation	ORG
+daily	DATE
+Blick	GPE
+GPS	ORG
+3,500	CARDINAL
+Kathrin Altwegg	PERSON
+1951	DATE
+University of Bern | Illustration	ORG
+Kathrin Altwegg	PERSON
+Swiss	NORP
+Bernese	NORP
+the Rosetta Mission	ORG
+the European Space Agency ESA	ORG
+Altwegg	PERSON
+Basel	GPE
+the 1970s	DATE
+Swiss	NORP
+Altwegg	PERSON
+Reiner Eichenberger	PERSON
+1961	DATE
+the University of Fribourg | Illustration Andreas Kiener	ORG
+Reiner Eichenberger	PERSON
+daily	DATE
+Tages-Anzeiger	ORG
+Blick	GPE
+Handelszeitung	LOC
+Eichenberger	ORG
+Switzerland	GPE
+2017	DATE
+second	ORDINAL
+second	ORDINAL
+the Neue Zürcher Zeitung	ORG
+Eichenberger	ORG
+Dirk Helbing	PERSON
+1965	DATE
+ETH Zurich | Illustration Andreas Kiener	ORG
+Dirk Helbing	PERSON
+Helbing	ORG
+Miriam Meckel	PERSON
+1967	DATE
+University of St. Gallen | Illustration	ORG
+Miriam Meckel	PERSON
+German	NORP
+weekly	DATE
+Wirtschaftswoche	PRODUCT
+Meckel	ORG
+ARD	ORG
+Anne Will	PERSON
+Meckel	PERSON

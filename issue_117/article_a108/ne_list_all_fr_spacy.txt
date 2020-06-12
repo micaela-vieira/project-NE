@@ -1,0 +1,40 @@
+Title: Berne	MISC
+Author: Florian Fisch	MISC
+| Illustration:	MISC
+Nadja Stadelmann	PER
+Révolution française	MISC
+Napoléon	PER
+Europe	LOC
+Institut fédéral de métrologie	ORG
+Metas	PER
+Oliver Schlaudt	PER
+Bureau international des poids et mesures	ORG
+BIPM	ORG
+Paris	LOC
+Paris	LOC
+BIPM	ORG
+Système international d’unités	ORG
+SI	ORG
+Système international d’unités	ORG
+Δν	LOC
+NA	LOC
+Kcd	LOC
+Avogadro	PER
+Planck	PER
+Avogadro NA	PER
+Wabern	LOC
+Berne	LOC
+Institut fédéral de métrologie	ORG
+Metas	LOC
+Metas	PER
+Planck h	MISC
+Metas	LOC
+Paris	LOC
+Terre	LOC
+X	MISC
+Avogadro NA	PER
+Planck h.	PER
+Oliver Schlaudt	PER
+Révolution française	MISC
+Mathias Binswanger	PER
+Mésopotamie	LOC

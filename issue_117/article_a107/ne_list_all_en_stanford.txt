@@ -1,0 +1,69 @@
+Pascale Hofmeier	PERSON
+Mike S. Schäfer	PERSON
+Horizons	PRODUCT
+Martin Vetterli	PERSON
+1957	DATE
+Andreas Kiener	PERSON
+Martin Vetterli	PERSON
+Swiss	NORP
+EPFL	ORG
+early 2017	DATE
+2013 to 2016	DATE
+the National Research Council	ORG
+the Swiss National Science Foundation	ORG
+daily	DATE
+Blick	ORG
+3,500	CARDINAL
+Twitter	ORG
+Kathrin Altwegg	PERSON
+1951*	CARDINAL
+University of Bern | Illustration	ORG
+Andreas Kiener	PERSON
+Kathrin Altwegg	PERSON
+Swiss	NORP
+Bernese	ORG
+the Rosetta Mission	ORG
+the European Space Agency ESA	ORG
+Altwegg	PERSON
+Basel	GPE
+1970s	DATE
+Altwegg	PERSON
+Swiss	NORP
+Altwegg	PERSON
+Reiner Eichenberger	PERSON
+1961	DATE
+the University of Fribourg | Illustration	ORG
+Andreas Kiener	PERSON
+Reiner Eichenberger	PERSON
+daily	DATE
+Tages-Anzeiger	ORG
+Blick	ORG
+Handelszeitung	ORG
+Eichenberger	PERSON
+one	CARDINAL
+Switzerland	GPE
+2017	DATE
+second	ORDINAL
+second	ORDINAL
+the Neue Zürcher Zeitung	ORG
+Eichenberger	PERSON
+Dirk Helbing	PERSON
+1965	DATE
+ETH Zurich | Illustration	ORG
+Andreas Kiener	PERSON
+Dirk Helbing	PERSON
+Helbing	PERSON
+Helbing	PERSON
+Miriam Meckel	PERSON
+1967	DATE
+University of St. Gallen | Illustration	ORG
+Andreas Kiener	PERSON
+Miriam Meckel	PERSON
+German	NORP
+weekly	DATE
+Wirtschaftswoche	ORG
+Meckel	PERSON
+‘My head	WORK_OF_ART
+Anne Will	PERSON
+Meckel	PERSON
+Pipifax’	WORK_OF_ART

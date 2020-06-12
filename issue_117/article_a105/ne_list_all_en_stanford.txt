@@ -1,0 +1,18 @@
+Mathias Plüss	PERSON
+six	CARDINAL
+German Ramirez	PERSON
+Spanish	NORP
+2014	DATE
+Denis Doyle	PERSON
+Getty Images	PERSON
+American	NORP
+Ambrose Bierce	PERSON
+Tom Nichols	PERSON
+U.S.	GPE
+Naval War College	ORG
+Newport	GPE
+1960s	DATE
+’70s	DATE
+Americans	NORP
+today	DATE
+Nichols	PERSON

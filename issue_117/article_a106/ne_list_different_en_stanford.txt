@@ -1,0 +1,50 @@
+2,756m	QUANTITY
+200	CARDINAL
+2009	DATE
+400	CARDINAL
+7.5 tonne	QUANTITY
+Alpine	LOC
+Bavaria	GPE
+Bern	GPE
+Bernese	PERSON
+Christian Weber	PERSON
+Institute	ORG
+Lösch	PERSON
+Manu Friederich	PERSON
+Münsingen-Rain	LOC
+Oberbipp	ORG/PERSON
+Roman	NORP
+Sandra	PERSON
+Sandra Lösch	PERSON
+Schnidejoch	GPE/PERSON
+Schnidi	PERSON
+Stone	PERSON
+Switzerland	GPE
+Today	DATE
+Turkey	GPE
+Valais	GPE
+Yugoslavia	GPE
+between 3400 and 3000 BC	DATE
+between three and seven years earlier	DATE
+every two months	DATE
+first	ORDINAL
+hundreds	CARDINAL
+just five months	DATE
+one	CARDINAL
+one day	DATE
+seven-year-old	DATE
+several millennia ago	DATE
+some 40	CARDINAL
+the Department of Anthropology	ORG
+the Institute of Forensic Medicine	ORG
+the Middle Ages	DATE
+the Neolithic Age	DATE
+the Stone Age	DATE/WORK_OF_ART
+the Süddeutsche Zeitung	ORG
+the University of Bern	ORG
+the University of Munich	ORG
+the last 6,500 years	DATE
+the last few months	DATE
+the previous ten to twenty years	DATE
+thousands of years later	DATE
+today	DATE

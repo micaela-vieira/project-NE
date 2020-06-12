@@ -1,0 +1,12 @@
+Ambrose Bierce	PER
+Amerikaner	MISC
+Denis Doyle/Getty Images	PER
+Fake News	ORG
+German Ramirez	PER
+Mathias Plüss	PER
+Newport	LOC
+Nichols	PER
+Tom Nichols	PER
+U. S. Naval War College	ORG
+amerikanische	MISC
+spanischen	MISC

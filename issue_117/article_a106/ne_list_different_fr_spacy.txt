@@ -1,0 +1,28 @@
+BE	LOC
+Bavière	LOC
+Christian Weber	PER
+Hé, la vache là	MISC
+Institut de médecine légale	ORG
+J.	PER
+J.-C. La pierre	PER
+Manu Friederich	PER
+Moyen Âge	MISC
+Münsingen	LOC
+Oberbipp	LOC/PER
+Profiteuse	PER
+Rain	LOC
+Sandra Lösch	PER
+Schnidejoch	LOC
+Schnidi»!	MISC
+Suisse	LOC
+Süddeutsche Zeitung	ORG
+Title: La liseuse de squelettes	MISC
+Turquie	LOC
+Une nouvelle momie des glaces	MISC
+Université de Berne	ORG
+Université de Munich	ORG
+Valais	LOC
+Yougoslavie	ORG
+canton de Berne	LOC
+pierre»	PER
+Ötzi	MISC

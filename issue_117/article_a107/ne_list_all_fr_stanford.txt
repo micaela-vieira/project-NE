@@ -1,0 +1,40 @@
+Suisse	LOC
+Pascale Hofmeier	PER
+Martin Vetterli	PER
+Professeur en sciences informatiques et de la communication Président de l’EPFL	LOC
+Illustration Andreas Kiener	MISC
+EPFL	ORG
+Conseil national de la recherche du FNS	ORG
+Martin Vetterli	PER
+Blick	MISC
+Twitter	MISC
+Kathrin Altwegg	PER
+Professeure émérite en recherche spatiale et planétologie Université de Berne	LOC
+Andreas Kiener	PER
+Kathrin Altwegg	PER
+Université de Berne	ORG
+mission Rosetta	MISC
+Agence spatiale européenne	ORG
+comète Tchouri	MISC
+Bâle	LOC
+Kathrin Altwegg	PER
+Reiner Eichenberger	PER
+Professeur de politique financière et économique Université de Fribourg	ORG
+Andreas Kiener	PER
+Reiner Eichenberger	PER
+Tages-Anzeiger	LOC
+Blick	ORG
+Handelszeitung	ORG
+Suisse	LOC
+NZZ.	ORG
+Dirk Helbing	PER
+Professeur en sciences sociales computationnelles ETH Zurich	ORG
+Andreas Kiener	PER
+Dirk Helbing	PER
+Miriam Meckel	PER
+Université de Saint-Gall	ORG
+Miriam Meckel	PER
+Wirtschaftswoche	ORG
+Miriam Meckel	PER
+Anne Will	PER
+ARD	ORG

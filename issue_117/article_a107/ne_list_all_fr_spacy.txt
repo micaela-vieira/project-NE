@@ -1,0 +1,48 @@
+Suisse	LOC
+Author:	MISC
+Pascale Hofmeier	PER
+Martin Vetterli	PER
+Professeur en sciences informatiques	MISC
+Président de	ORG
+EPFL	ORG
+Andreas Kiener	PER
+EPFL	ORG
+Conseil national de la recherche du FNS	ORG
+Martin Vetterli	PER
+Blick	MISC
+Twitter	MISC
+Kathrin Altwegg	PER
+Professeure	MISC
+Université de Berne | Illustration	ORG
+Kathrin Altwegg	PER
+Université de Berne	ORG
+Rosetta	MISC
+Agence spatiale européenne	ORG
+Tchouri	ORG
+Bâle	LOC
+Kathrin Altwegg	PER
+Reiner Eichenberger	PER
+Professeur	PER
+Université de Fribourg | Illustration	ORG
+Andreas Kiener	PER
+Reiner Eichenberger	PER
+Tages	LOC
+Anzeiger	PER
+Blick	MISC
+Handelszeitung	LOC
+Suisse	LOC
+NZZ	ORG
+Dirk Helbing	PER
+Professeur en sciences sociales computationnelles	MISC
+ETH Zurich | Illustration	LOC
+Andreas Kiener	PER
+Dirk Helbing	PER
+Miriam Meckel	PER
+Professeure en communication d’entreprise	MISC
+Université de Saint	ORG
+Gall	PER
+Miriam Meckel	PER
+Wirtschaftswoche	PER
+Miriam Meckel	PER
+Anne Will	PER
+ARD	ORG

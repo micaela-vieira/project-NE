@@ -1,0 +1,16 @@
+Ambrose Bierce	PER
+Américains	LOC
+Denis Doyle	PER
+Ebola	MISC
+Etats	LOC
+German Ramirez	PER
+Getty Images	PER
+Lune	LOC
+Mathias Plüss	PER
+Naval War College de Newport	LOC
+The Death of Expertise»	MISC
+Tom Nichols	PER
+Unis	LOC
+fake news	MISC
+| Image	MISC
+»	MISC/ORG

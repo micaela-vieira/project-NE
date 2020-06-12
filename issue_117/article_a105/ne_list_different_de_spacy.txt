@@ -1,0 +1,16 @@
+Ambrose Bierce	PER
+Amerikaner	LOC
+Bescheid	LOC
+Besserwisser	MISC
+Ebola	ORG
+Fake News	LOC
+German Ramirez	PER
+Lärm Gehör	PER
+Mathias Plüss	PER
+Mond	LOC
+Newport	LOC
+Nichols	PER
+Tom Nichols	PER
+U. S. Naval	LOC
+amerikanische	MISC
+spanischen	MISC

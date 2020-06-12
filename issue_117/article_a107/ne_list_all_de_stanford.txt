@@ -1,0 +1,52 @@
+Pascale Hofmeier	PER
+Mike S. Schäfer	PER
+Martin Vetterli	PER
+EPFL	ORG
+Andreas Kiener	PER
+Martin Vetterli	PER
+Schweizer	MISC
+EPFL	ORG
+Nationalen Forschungsrates des Schweizerischen Nationalfonds	ORG
+Vetterli	PER
+Twitter	ORG
+Kathrin Altwegg	PER
+für Weltraumforschung und Planetologie	ORG
+Universität Bern	ORG
+Andreas Kiener	PER
+Kathrin Altwegg	PER
+Schweiz	LOC
+Berner	MISC
+Rosetta	ORG
+Europäischen Weltraumorganisation	ORG
+ESA	ORG
+Altwegg	PER
+Basel	LOC
+Schweizerin	MISC
+Altwegg	PER
+Reiner Eichenberger	PER
+Theorie der Finanz- und Wirtschaftspolitik	ORG
+Universität Freiburg	ORG
+Andreas Kiener	PER
+Reiner Eichenberger	PER
+Eichenberger	PER
+Schweiz	LOC
+NZZ	ORG
+Eichenberger	PER
+Dirk Helbing	PER
+Professor für ComputergestützteSozialwissenschaften	ORG
+ETH Zürich	ORG
+Andreas Kiener	PER
+Dirk Helbing	PER
+Helbing	PER
+Helbing	PER
+Miriam Meckel	PER
+Corporate Communication	ORG
+Universität St. Gallen	ORG
+Miriam Meckel	PER
+Deutschen Wochenmagazins Wirtschaftswoche	ORG
+Meckel	PER
+Brainhacking	MISC
+Miriam Meckel	PER
+Rubrik People	ORG
+ARD	ORG
+Anne Will	PER

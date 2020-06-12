@@ -1,0 +1,22 @@
+Bayern	LOC
+Bern	LOC
+Berner	MISC
+Berner Arbeitsgruppe	ORG
+Chr	PER
+Christian Weber	PER
+Institut für Rechtsmedizin der Universität Bern	ORG
+Jugoslawien	LOC
+Lösch	PER
+Manu Friederich	PER
+Münsingen	LOC
+Oberbipp	LOC
+Rain	LOC
+Sandra Lösch	PER
+Schnidejoch	LOC
+Schweiz	LOC
+Süddeutsche Zeitung	ORG
+Türkei	LOC
+Universität Bern	ORG
+Universität München	ORG
+Wallis	LOC
+römische	MISC

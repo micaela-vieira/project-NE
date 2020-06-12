@@ -1,0 +1,72 @@
+Sandra Lösch	PER
+Christian Weber	PER
+Universität Bern	ORG
+Hightech-Methoden	LOC
+Skeletten	LOC
+Sandra Lösch	PER
+Manu Friederich	PER
+Sandra Lösch	PER
+Zeit	MISC
+Universität München	ORG
+An Gebeinen	MISC
+Bayern	LOC
+Institut für Rechtsmedizin	ORG
+Universität Bern	ORG
+Geholfen	LOC
+Zeit der Urmenschen	ORG
+Hey	LOC
+rechtsmedizinischen Institut	LOC
+Irre	LOC
+Sandra Lösch	PER
+Kriminalfällen	LOC
+Forscherin	LOC
+bioarchäologischen	MISC
+prä-)historischen	MISC
+Hightech-Analysetechniken	LOC
+Oberbipp	LOC
+Sandra Lösch	PER
+Bub	MISC
+Tages	MISC
+Dolmens	MISC
+Ein spektakulärer Fund	MISC
+Lösch	PER
+Mein Baby	MISC
+Glücklicherweise	PER
+Skelette	LOC
+DNA-Proben	ORG
+Arsenal	ORG
+Jahrtausenden	LOC
+Stabile Isotope	PER
+Haare	PER
+Haar	PER
+Augenfabe	PER
+Lösch	MISC
+Jugoslawien	ORG
+Schweiz	LOC
+Oberbipp	PER
+Berner	LOC
+Münsingen-Rain	LOC
+Chr.	LOC
+Männer	PER
+römische	MISC
+Türkei	LOC
+sozialen	MISC
+Lösch	PER
+DNA-Labor	ORG
+Berner Institut	ORG
+Jahrtausende	LOC
+Auskunft	PER
+Lösch	MISC
+Ich finde Schwafelpublikationen	MISC
+Sandra Lösch	PER
+bisschen	MISC
+Schnidejoch	LOC
+Kantonen	LOC
+Bern	LOC
+Wallis	LOC
+römische	MISC
+Lösch	PER
+’s	MISC
+Schnidi	MISC
+Christian Weber	PER
+Süddeutsche Zeitung	ORG

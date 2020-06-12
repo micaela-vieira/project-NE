@@ -1,0 +1,33 @@
+Sandra Lösch	PER
+Christian Weber	PER
+Universität Bern	ORG
+Sandra Lösch	PER
+Manu Friederich	PER
+Sandra Lösch	PER
+Universität München	ORG
+Bayern	LOC
+Institut für Rechtsmedizin der Universität Bern	ORG
+Lösch	PER
+Sandra Lösch	PER
+Oberbipp	LOC
+Sandra Lösch	PER
+Chr	PER
+Lösch	PER
+Lösch	PER
+Jugoslawien	LOC
+Schweiz	LOC
+Berner Arbeitsgruppe	ORG
+Münsingen	LOC
+Rain	LOC
+römische	MISC
+Türkei	LOC
+Lösch	PER
+Berner	MISC
+Lösch	PER
+Sandra Lösch	PER
+Schnidejoch	LOC
+Bern	LOC
+Wallis	LOC
+Lösch	PER
+Christian Weber	PER
+Süddeutsche Zeitung	ORG

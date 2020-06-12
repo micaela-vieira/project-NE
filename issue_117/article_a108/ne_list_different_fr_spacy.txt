@@ -1,0 +1,29 @@
+Author: Florian Fisch	MISC
+Avogadro	PER
+Avogadro NA	PER
+BIPM	ORG
+Berne	LOC
+Bureau international des poids et mesures	ORG
+Europe	LOC
+Institut fédéral de métrologie	ORG
+Kcd	LOC
+Mathias Binswanger	PER
+Metas	LOC/PER
+Mésopotamie	LOC
+NA	LOC
+Nadja Stadelmann	PER
+Napoléon	PER
+Oliver Schlaudt	PER
+Paris	LOC
+Planck	PER
+Planck h	MISC
+Planck h.	PER
+Révolution française	MISC
+SI	ORG
+Système international d’unités	ORG
+Terre	LOC
+Title: Berne	MISC
+Wabern	LOC
+X	MISC
+| Illustration:	MISC
+Δν	LOC

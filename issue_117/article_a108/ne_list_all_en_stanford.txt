@@ -1,0 +1,72 @@
+Florian Fisch	PERSON
+Swiss	NORP
+November 2018	DATE
+International System of Units	ORG
+Nadja Stadelmann	PERSON
+Metre	WORK_OF_ART
+the French Revolution	EVENT
+Napoleon	PERSON
+Europe	LOC
+November 2018	DATE
+the Swiss Federal Office of Metrology	ORG
+METAS	ORG
+a ‘watt	QUANTITY
+today	DATE
+Oliver Schlaudt	PERSON
+three	CARDINAL
+the Bureau International des Poids et Mesures (BIPM)	FAC
+Paris	GPE
+90 percent	PERCENT
+10 percent	PERCENT
+three	CARDINAL
+1889	DATE
+France	GPE
+50 millionths of a gram	QUANTITY
+October 2011	DATE
+BIPM	ORG
+International System of Units	ORG
+November 2018	DATE
+the International System of Units	ORG
+seven	CARDINAL
+two	CARDINAL
+Kibble	ORG
+Avogadro	PERSON
+Planck	PRODUCT
+one	CARDINAL
+the Avogadro constant NA	ORG
+One	CARDINAL
+five	CARDINAL
+Kibble	ORG
+the Swiss Federal Office of Metrology (METAS)	ORG
+Wabern	GPE
+Bern	GPE
+Paris	GPE
+Planck	LOC
+twenty micrograms	QUANTITY
+Paris	GPE
+22 trillion	CARDINAL
+two	CARDINAL
+Earth	LOC
+less than five metres	QUANTITY
+99.9995 percent	PERCENT
+21.507645	CARDINAL
+1024	CARDINAL
+Avogadro	GPE
+NA	ORG
+Planck	LOC
+Oliver Schlaudt	PERSON
+the University of Heidelberg	ORG
+the Institute for Political Studies	ORG
+Sciencespo	ORG
+Nancy	PERSON
+one	CARDINAL
+one	CARDINAL
+one	CARDINAL
+the French Revolution	EVENT
+one	CARDINAL
+Swiss	NORP
+Mathias Binswanger	PERSON
+first	ORDINAL
+Mesopotamia	LOC
+tenth	ORDINAL
+one	CARDINAL

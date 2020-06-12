@@ -1,0 +1,46 @@
+1951	DATE
+1957	DATE
+1961	DATE
+1965	DATE
+1967	DATE
+2013 to 2016	DATE
+2017	DATE
+3,500	CARDINAL
+ARD	ORG
+Altwegg	PERSON
+Anne Will	PERSON
+Basel	GPE
+Bernese	NORP
+Blick	GPE
+Dirk Helbing	PERSON
+EPFL	ORG
+ETH Zurich | Illustration Andreas Kiener	ORG
+Eichenberger	ORG
+GPS	ORG
+German	NORP
+Handelszeitung	LOC
+Helbing	ORG
+Horizons	ORG
+Kathrin Altwegg	PERSON
+Martin Vetterli	PERSON
+Meckel	ORG/PERSON
+Mike S. Schäfer	PERSON
+Miriam Meckel	PERSON
+Reiner Eichenberger	PERSON
+Swiss	NORP
+Switzerland	GPE
+Tages-Anzeiger	ORG
+University of Bern | Illustration	ORG
+University of St. Gallen | Illustration	ORG
+Wirtschaftswoche	PRODUCT
+daily	DATE
+early 2017	DATE
+second	ORDINAL
+the 1970s	DATE
+the European Space Agency ESA	ORG
+the National Research Council	ORG
+the Neue Zürcher Zeitung	ORG
+the Rosetta Mission	ORG
+the Swiss National Science Foundation	ORG
+the University of Fribourg | Illustration Andreas Kiener	ORG
+weekly	DATE

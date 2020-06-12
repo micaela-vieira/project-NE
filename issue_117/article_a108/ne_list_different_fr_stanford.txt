@@ -1,0 +1,31 @@
+Avogadro NA	PER
+Avogadro NA.	PER
+BIPM	ORG
+Berne	LOC
+Bureau international des poids et mesures	ORG
+Cette	LOC
+Comme	LOC
+Des	LOC
+Europe	LOC
+Florian Fisch	PER
+Institut fédéral de métrologie	LOC/ORG
+Kcd	LOC
+Les	LOC
+L’adoption	LOC
+Mathias Binswanger	PER
+Metas	LOC/MISC
+Mésopotamie	LOC
+Nadja Stadelmann	PER
+Napoléon	PER
+Oliver Schlaudt	PER
+Paris	LOC
+Planck	PER
+Révolution française	MISC
+SI	MISC
+Si	MISC
+Système international d’unités	MISC
+Terre	LOC
+Une	LOC
+Wabern	LOC
+projet Avogadro	MISC
+rayons X	MISC

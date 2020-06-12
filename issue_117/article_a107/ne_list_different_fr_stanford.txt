@@ -1,0 +1,29 @@
+ARD	ORG
+Agence spatiale européenne	ORG
+Andreas Kiener	PER
+Anne Will	PER
+Blick	MISC/ORG
+Bâle	LOC
+Conseil national de la recherche du FNS	ORG
+Dirk Helbing	PER
+EPFL	ORG
+Handelszeitung	ORG
+Illustration Andreas Kiener	MISC
+Kathrin Altwegg	PER
+Martin Vetterli	PER
+Miriam Meckel	PER
+NZZ.	ORG
+Pascale Hofmeier	PER
+Professeur de politique financière et économique Université de Fribourg	ORG
+Professeur en sciences informatiques et de la communication Président de l’EPFL	LOC
+Professeur en sciences sociales computationnelles ETH Zurich	ORG
+Professeure émérite en recherche spatiale et planétologie Université de Berne	LOC
+Reiner Eichenberger	PER
+Suisse	LOC
+Tages-Anzeiger	LOC
+Twitter	MISC
+Université de Berne	ORG
+Université de Saint-Gall	ORG
+Wirtschaftswoche	ORG
+comète Tchouri	MISC
+mission Rosetta	MISC

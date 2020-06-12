@@ -1,0 +1,50 @@
+Berne	LOC
+Florian Fisch	PER
+Nadja Stadelmann	PER
+Révolution française	MISC
+Napoléon	PER
+Europe	LOC
+Une	LOC
+Institut fédéral de métrologie	ORG
+Metas	MISC
+Oliver Schlaudt	PER
+Bureau international des poids et mesures	ORG
+BIPM	ORG
+Paris	LOC
+Paris	LOC
+Les	LOC
+BIPM	ORG
+Système international d’unités	MISC
+SI	MISC
+Des	LOC
+L’adoption	LOC
+Les	LOC
+Système international d’unités	MISC
+Kcd	LOC
+projet Avogadro	MISC
+Planck	PER
+Avogadro NA.	PER
+Wabern	LOC
+Berne	LOC
+Institut fédéral de métrologie	LOC
+Metas	MISC
+Metas	LOC
+Les	LOC
+Planck	PER
+Metas	MISC
+Paris	LOC
+Terre	LOC
+rayons X	MISC
+Avogadro NA	PER
+Planck	PER
+Oliver Schlaudt	PER
+Cette	LOC
+Si	MISC
+Révolution française	MISC
+Comme	LOC
+Mathias Binswanger	PER
+Mésopotamie	LOC
+Les	LOC
+Les	LOC
+Les	LOC
+Les	LOC

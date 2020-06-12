@@ -1,0 +1,41 @@
+Christian Weber	PER
+Sandra Lösch	PER
+Sandra Lösch	PER
+Manu Friederich	PER
+Sandra Lösch	PER
+Université de Munich	ORG
+Moyen Âge	LOC
+Bavière	LOC
+Institut de médecine légale	LOC
+Université de Berne	ORG
+Hé	PER
+Institut de médecine légale	ORG
+Sandra Lösch	PER
+«cela	PER
+Ses	LOC
+Oberbipp	LOC
+BE	LOC
+J.-C.	PER
+La pierre	MISC
+Une	LOC
+Sandra Lösch	PER
+Par	LOC
+Les	LOC
+Les os	MISC
+Sandra Lösch	PER
+ex-Yougoslavie	LOC
+Suisse	LOC
+Oberbipp	MISC
+Les	LOC
+Münsingen-Rain	LOC
+BE	LOC
+Turquie	LOC
+Des	LOC
+Schnidejoch	LOC
+canton de Berne	LOC
+Valais	LOC
+Ötzi	PER
+Sandra Lösch	PER
+Schnidi	PER
+Christian Weber	PER
+Süddeutsche Zeitung	ORG

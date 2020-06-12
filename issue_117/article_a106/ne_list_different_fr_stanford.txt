@@ -1,0 +1,30 @@
+BE	LOC
+Bavière	LOC
+Christian Weber	PER
+Des	LOC
+Hé	PER
+Institut de médecine légale	LOC/ORG
+J.-C.	PER
+La pierre	MISC
+Les	LOC
+Les os	MISC
+Manu Friederich	PER
+Moyen Âge	LOC
+Münsingen-Rain	LOC
+Oberbipp	LOC/MISC
+Par	LOC
+Sandra Lösch	PER
+Schnidejoch	LOC
+Schnidi	PER
+Ses	LOC
+Suisse	LOC
+Süddeutsche Zeitung	ORG
+Turquie	LOC
+Une	LOC
+Université de Berne	ORG
+Université de Munich	ORG
+Valais	LOC
+canton de Berne	LOC
+ex-Yougoslavie	LOC
+«cela	PER
+Ötzi	PER

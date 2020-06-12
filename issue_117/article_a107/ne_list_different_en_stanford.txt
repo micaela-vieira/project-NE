@@ -1,0 +1,50 @@
+1951*	CARDINAL
+1957	DATE
+1961	DATE
+1965	DATE
+1967	DATE
+1970s	DATE
+2013 to 2016	DATE
+2017	DATE
+3,500	CARDINAL
+Altwegg	PERSON
+Andreas Kiener	PERSON
+Anne Will	PERSON
+Basel	GPE
+Bernese	ORG
+Blick	ORG
+Dirk Helbing	PERSON
+EPFL	ORG
+ETH Zurich | Illustration	ORG
+Eichenberger	PERSON
+German	NORP
+Handelszeitung	ORG
+Helbing	PERSON
+Horizons	PRODUCT
+Kathrin Altwegg	PERSON
+Martin Vetterli	PERSON
+Meckel	PERSON
+Mike S. Schäfer	PERSON
+Miriam Meckel	PERSON
+Pascale Hofmeier	PERSON
+Pipifax’	WORK_OF_ART
+Reiner Eichenberger	PERSON
+Swiss	NORP
+Switzerland	GPE
+Tages-Anzeiger	ORG
+Twitter	ORG
+University of Bern | Illustration	ORG
+University of St. Gallen | Illustration	ORG
+Wirtschaftswoche	ORG
+daily	DATE
+early 2017	DATE
+one	CARDINAL
+second	ORDINAL
+the European Space Agency ESA	ORG
+the National Research Council	ORG
+the Neue Zürcher Zeitung	ORG
+the Rosetta Mission	ORG
+the Swiss National Science Foundation	ORG
+the University of Fribourg | Illustration	ORG
+weekly	DATE
+‘My head	WORK_OF_ART

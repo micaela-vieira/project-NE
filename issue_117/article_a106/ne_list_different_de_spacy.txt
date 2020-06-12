@@ -1,0 +1,59 @@
+An Gebeinen	MISC
+Arsenal	ORG
+Augenfabe	PER
+Auskunft	PER
+Bayern	LOC
+Bern	LOC
+Berner	LOC
+Berner Institut	ORG
+Bub	MISC
+Chr.	LOC
+Christian Weber	PER
+DNA-Labor	ORG
+DNA-Proben	ORG
+Dolmens	MISC
+Ein spektakulärer Fund	MISC
+Forscherin	LOC
+Geholfen	LOC
+Glücklicherweise	PER
+Haar	PER
+Haare	PER
+Hey	LOC
+Hightech-Analysetechniken	LOC
+Hightech-Methoden	LOC
+Ich finde Schwafelpublikationen	MISC
+Institut für Rechtsmedizin	ORG
+Irre	LOC
+Jahrtausende	LOC
+Jahrtausenden	LOC
+Jugoslawien	ORG
+Kantonen	LOC
+Kriminalfällen	LOC
+Lösch	MISC/PER
+Manu Friederich	PER
+Mein Baby	MISC
+Männer	PER
+Münsingen-Rain	LOC
+Oberbipp	LOC/PER
+Sandra Lösch	PER
+Schnidejoch	LOC
+Schnidi	MISC
+Schweiz	LOC
+Skelette	LOC
+Skeletten	LOC
+Stabile Isotope	PER
+Süddeutsche Zeitung	ORG
+Tages	MISC
+Türkei	LOC
+Universität Bern	ORG
+Universität München	ORG
+Wallis	LOC
+Zeit	MISC
+Zeit der Urmenschen	ORG
+bioarchäologischen	MISC
+bisschen	MISC
+prä-)historischen	MISC
+rechtsmedizinischen Institut	LOC
+römische	MISC
+sozialen	MISC
+’s	MISC

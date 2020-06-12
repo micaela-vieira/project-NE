@@ -1,0 +1,15 @@
+Ambrose Bierce	PER
+Américains	LOC
+Denis Doyle	PER
+Ebola	PER
+Etats-Unis	LOC
+German Ramirez	PER
+Getty Images	ORG
+Lune	LOC
+L’expert	LOC
+Mathias Plüss	PER
+Naval War College	ORG
+Newport	LOC
+The Death of Expertise	MISC
+Title: Comment gagner la guerre de l’information	MISC
+Tom Nichols	PER

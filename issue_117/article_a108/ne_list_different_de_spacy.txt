@@ -1,0 +1,56 @@
+Alltagsvergleiche	LOC
+Avogadro-Konstante NA	ORG
+BIPM	ORG
+Bureau International des Poids et Mesures	ORG
+Eidgenössischen Institut für Metrologie METAS	ORG
+Eidgenössischen Instituts für Metrologie	ORG
+Einheitensystems	LOC
+Erde	LOC
+Europa	LOC
+Fehlanreize	MISC
+Florian Fisch	PER
+Frankreich	LOC
+Französischen Revolution	MISC
+Gemäss Definition	PER
+Grenze	MISC
+Hauptunterschied zur Wissenschaft	MISC
+Jemand	PER
+Kcd	LOC
+Kilogramms über die Zeit	MISC
+Kopf	LOC
+METAS	ORG
+METAS-Kilogramm	MISC
+Mathias Binswanger	PER
+Mesopotamien	LOC
+Messens	LOC
+Mikrokosmos	MISC
+NA	LOC
+Nachkommastelle	LOC
+Nadja Stadelmann	PER
+Napoleon	PER
+Objektivierung	MISC
+Oliver Schlaudt	PER
+Paris	LOC
+Planck-Konstante	MISC
+Planck-Konstante h	MISC
+Präzision	ORG
+Reichs	PER
+Schweizer	MISC
+Silizium-Monokristall	LOC
+Ultrazentrifugen	LOC
+Universitätsrankings	LOC
+Vergleichen	LOC
+Wabern bei Bern	LOC
+Watt-Waage	MISC
+Watt-Waagen	MISC
+Zeit	MISC
+c	MISC
+e	LOC
+einKilogramm	MISC
+elektromagnetische	MISC
+französischen Revolution	MISC
+fundamental	LOC
+grossen	LOC
+k	LOC
+|	MISC
+Δν	MISC

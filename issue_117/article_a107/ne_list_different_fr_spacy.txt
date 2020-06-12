@@ -1,0 +1,36 @@
+ARD	ORG
+Agence spatiale européenne	ORG
+Andreas Kiener	PER
+Anne Will	PER
+Anzeiger	PER
+Author:	MISC
+Blick	MISC
+Bâle	LOC
+Conseil national de la recherche du FNS	ORG
+Dirk Helbing	PER
+EPFL	ORG
+ETH Zurich | Illustration	LOC
+Gall	PER
+Handelszeitung	LOC
+Kathrin Altwegg	PER
+Martin Vetterli	PER
+Miriam Meckel	PER
+NZZ	ORG
+Pascale Hofmeier	PER
+Professeur	PER
+Professeur en sciences informatiques	MISC
+Professeur en sciences sociales computationnelles	MISC
+Professeure	MISC
+Professeure en communication d’entreprise	MISC
+Président de	ORG
+Reiner Eichenberger	PER
+Rosetta	MISC
+Suisse	LOC
+Tages	LOC
+Tchouri	ORG
+Twitter	MISC
+Université de Berne	ORG
+Université de Berne | Illustration	ORG
+Université de Fribourg | Illustration	ORG
+Université de Saint	ORG
+Wirtschaftswoche	PER

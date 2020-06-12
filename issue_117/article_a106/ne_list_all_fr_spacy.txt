@@ -1,0 +1,38 @@
+Title: La liseuse de squelettes	MISC
+Christian Weber	PER
+Sandra Lösch	PER
+Sandra Lösch	PER
+Manu Friederich	PER
+Sandra Lösch	PER
+Université de Munich	ORG
+Moyen Âge	MISC
+Bavière	LOC
+Institut de médecine légale	ORG
+Université de Berne	ORG
+pierre»	PER
+Hé, la vache là	MISC
+Institut de médecine légale	ORG
+Sandra Lösch	PER
+Oberbipp	LOC
+BE	LOC
+J.-C. La pierre	PER
+Sandra Lösch	PER
+Sandra Lösch	PER
+Yougoslavie	ORG
+Suisse	LOC
+Profiteuse	PER
+Oberbipp	PER
+J.	PER
+Münsingen	LOC
+Rain	LOC
+BE	LOC
+Turquie	LOC
+Schnidejoch	LOC
+canton de Berne	LOC
+Valais	LOC
+Ötzi	MISC
+Sandra Lösch	PER
+Une nouvelle momie des glaces	MISC
+Schnidi»!	MISC
+Christian Weber	PER
+Süddeutsche Zeitung	ORG

@@ -1,0 +1,54 @@
+2,756m	MONEY
+200	CARDINAL
+2009	DATE
+400	CARDINAL
+7.5	CARDINAL
+Alpine	ORG
+Archaeologists	NORP
+Bavaria	GPE
+Bern	NORP
+Bernese	NORP
+Christian Weber	ORG/PERSON
+Institute in Bern	ORG
+Lösch	GPE/PERSON
+Manu Friederich	PERSON
+Münsingen-Rain	ORG
+Oberbipp	ORG
+Roman	NORP
+Sandra Lösch	PERSON
+Schnidejoch	PERSON
+Schnidi	WORK_OF_ART
+Stone Age	ORG
+Switzerland	GPE
+Today	DATE
+Turkey	GPE
+Valais	GPE
+Yugoslavia	GPE
+anthropologists	NORP
+between 3400 and 3000	CARDINAL
+between three and seven years earlier	DATE
+day	DATE
+every two months	DATE
+first	ORDINAL
+hundreds	CARDINAL
+just five months	DATE
+night	TIME
+one	CARDINAL
+one day	DATE
+seven-year-old	DATE
+several millennia ago	DATE
+some 40	CARDINAL
+the Department of Anthropology	ORG
+the Institute of Forensic Medicine	ORG
+the Middle Ages	DATE
+the Neolithic Age	ORG
+the Stone Age	FAC/ORG
+the Süddeutsche Zeitung	FAC
+the University of Bern	ORG
+the University of Munich	ORG
+the last 6,500 years	DATE
+the last few months	DATE
+the previous ten to twenty years	DATE
+thousands of years later	DATE
+today	DATE
+Ötzi	ORG

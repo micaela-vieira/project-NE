@@ -1,0 +1,70 @@
+Sandra Lösch	PERSON
+Stone	PERSON
+Christian Weber	PERSON
+Sandra	PERSON
+Lösch	PERSON
+several millennia ago	DATE
+the Stone Age	DATE
+Sandra Lösch	PERSON
+Manu Friederich	PERSON
+Sandra Lösch	PERSON
+the University of Munich	ORG
+Alpine	LOC
+Bavaria	GPE
+the Middle Ages	DATE
+2009	DATE
+the Department of Anthropology	ORG
+the Institute of Forensic Medicine	ORG
+the University of Bern	ORG
+the Stone Age	WORK_OF_ART
+Lösch	PERSON
+one day	DATE
+the Institute of Forensic Medicine	ORG
+Sandra Lösch	PERSON
+one	CARDINAL
+every two months	DATE
+seven-year-old	DATE
+Oberbipp	PERSON
+Sandra Lösch	PERSON
+first	ORDINAL
+7.5 tonne	QUANTITY
+the Neolithic Age	DATE
+between 3400 and 3000 BC	DATE
+some 40	CARDINAL
+Lösch	PERSON
+just five months	DATE
+Today	DATE
+thousands of years later	DATE
+the previous ten to twenty years	DATE
+the last few months	DATE
+Lösch	PERSON
+Yugoslavia	GPE
+Switzerland	GPE
+between three and seven years earlier	DATE
+Oberbipp	ORG
+Bernese	PERSON
+Münsingen-Rain	LOC
+400	CARDINAL
+200	CARDINAL
+Roman	NORP
+today	DATE
+Turkey	GPE
+Lösch	PERSON
+Lösch	PERSON
+Institute	ORG
+Bern	GPE
+first	ORDINAL
+Lösch	PERSON
+Sandra Lösch	PERSON
+Schnidejoch	GPE
+2,756m	QUANTITY
+Bern	GPE
+Valais	GPE
+hundreds	CARDINAL
+the last 6,500 years	DATE
+Roman	NORP
+Schnidejoch	PERSON
+Lösch	PERSON
+Schnidi	PERSON
+Christian Weber	PERSON
+the Süddeutsche Zeitung	ORG

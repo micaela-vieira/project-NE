@@ -1,0 +1,16 @@
+Title: Comment gagner la guerre de l’information	MISC
+Mathias Plüss	PER
+German Ramirez	PER
+Ebola	PER
+Denis Doyle	PER
+Getty Images	ORG
+L’expert	LOC
+Ambrose Bierce	PER
+Tom Nichols	PER
+Naval War College	ORG
+Newport	LOC
+Etats-Unis	LOC
+The Death of Expertise	MISC
+Américains	LOC
+Lune	LOC
+Tom Nichols	PER

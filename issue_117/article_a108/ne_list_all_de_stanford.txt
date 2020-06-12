@@ -1,0 +1,25 @@
+Florian Fisch	PER
+Schweizer	MISC
+Nadja Stadelmann	PER
+Französischen	MISC
+Napoleon	PER
+Kolonialisten	MISC
+Europa	LOC
+Eidgenössischen Instituts für Metrologie METAS	ORG
+Oliver Schlaudt	PER
+Bureau International des Poids et Mesures	ORG
+BIPM	ORG
+Paris	LOC
+Frankreich	LOC
+BIPM	ORG
+Eidgenössischen Institut für Metrologie METAS	ORG
+Wabern	LOC
+Bern	LOC
+METAS	MISC
+Paris	LOC
+Paris	LOC
+Oliver Schlaudt	PER
+französischen	MISC
+Schweizer	MISC
+Mathias Binswanger	PER
+Mesopotamien	LOC

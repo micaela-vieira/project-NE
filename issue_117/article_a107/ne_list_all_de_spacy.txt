@@ -1,0 +1,63 @@
+Pascale Hofmeier	PER
+Mike S. Schäfer	PER
+Horizonte	PER
+Archetypen	LOC
+Martin Vetterli	PER
+EPFL	ORG
+Andreas Kiener	PER
+Martin Vetterli	PER
+Schweizer	MISC
+EPFL	ORG
+Nationalen Forschungsrates des Schweizerischen Nationalfonds	ORG
+Expertenrolle	LOC
+Vetterli	PER
+sozialen	MISC
+Twitter	LOC
+Kathrin Altwegg	PER
+Universität Bern	ORG
+Andreas Kiener	PER
+Weltraumforscherin	LOC
+Kathrin Altwegg	PER
+Schweiz	LOC
+Berner	LOC
+Rosetta-Mission der Europäischen Weltraumorganisation ESA	ORG
+Altwegg	PER
+Wissensseiten	MISC
+Basel	LOC
+Hörsaal	LOC
+Altwegg	PER
+Reiner Eichenberger	PER
+Universität Freiburg	ORG
+Andreas Kiener	PER
+Reiner Eichenberger	PER
+Provokateurs	MISC
+absurd	LOC
+Eichenberger	PER
+der Schweiz	LOC
+Ökonomenranking	LOC
+NZZ	ORG
+Eichenberger	LOC
+Meinungsgefässen	LOC
+Dirk Helbing	PER
+ComputergestützteSozialwissenschaften	MISC
+ETH Zürich	ORG
+Andreas Kiener	PER
+Hard Facts	ORG
+Dirk Helbing	PER
+Helbing	PER
+Privatsphäre	MISC
+Helbing	PER
+Schnittstelle zur Gesellschaft	ORG
+soziale	MISC
+Lokalressort	LOC
+Miriam Meckel	PER
+Corporate Communication	PER
+Universität St. Gallen	ORG
+Miriam Meckel	PER
+Deutschen Wochenmagazins Wirtschaftswoche	ORG
+Kommunikationswissenschaftlerin	LOC
+Meckel	PER
+Mein Kopf	MISC
+Miriam Meckel	PER
+Rubrik People	ORG
+Anne Will	PER

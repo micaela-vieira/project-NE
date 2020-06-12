@@ -1,0 +1,18 @@
+1960s	DATE
+2014	DATE
+Ambrose Bierce	PERSON
+American	NORP
+Americans	NORP
+Denis Doyle	PERSON
+German Ramirez	PERSON
+Getty Images	PERSON
+Mathias Plüss	PERSON
+Naval War College	ORG
+Newport	GPE
+Nichols	PERSON
+Spanish	NORP
+Tom Nichols	PERSON
+U.S.	GPE
+six	CARDINAL
+today	DATE
+’70s	DATE

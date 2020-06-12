@@ -1,0 +1,77 @@
+Florian Fisch	PERSON
+Swiss	NORP
+its day	DATE
+November 2018	DATE
+International System of Units	ORG
+Nadja Stadelmann	PERSON
+Metre	PERSON
+the French Revolution	EVENT
+Napoleon	ORG
+Europe	LOC
+November 2018	DATE
+the Swiss Federal Office of Metrology (METAS	ORG
+today	DATE
+Oliver Schlaudt	PERSON
+three	CARDINAL
+the Bureau International des Poids et Mesures (BIPM	ORG
+Paris	GPE
+90 percent	PERCENT
+10 percent	PERCENT
+three	CARDINAL
+1889	DATE
+France	GPE
+50	CARDINAL
+October 2011	DATE
+BIPM	ORG
+International System of Units	ORG
+November 2018	DATE
+the International System of Units	ORG
+System	ORG
+seven	CARDINAL
+metre, second	ORG
+kilogram	ORG
+kelvin	PERSON
+Δν	PERSON
+NA	ORG
+Kcd	ORG
+two	CARDINAL
+Kibble	PERSON
+Avogadro	ORG
+kilogram	ORG
+one	CARDINAL
+Avogadro	ORG
+NA	ORG
+One	CARDINAL
+five	CARDINAL
+the Swiss Federal Office of Metrology	ORG
+METAS	ORG
+Wabern	LOC
+Bern	GPE
+METAS	ORG
+Paris	GPE
+METAS	ORG
+twenty	CARDINAL
+Paris	GPE
+22 trillion	CARDINAL
+two	CARDINAL
+Earth	LOC
+less than five metres	QUANTITY
+99.9995 percent	PERCENT
+1024	DATE
+Avogadro	ORG
+NA	ORG
+Oliver Schlaudt	PERSON
+the University of Heidelberg	ORG
+the Institute for Political Studies ‘	ORG
+Nancy	GPE
+one	CARDINAL
+autumn to summer	DATE
+one	CARDINAL
+the French Revolution	EVENT
+Swiss	NORP
+Mathias Binswanger	PERSON
+first	ORDINAL
+Mesopotamia	LOC
+tenth	ORDINAL
+decimal	GPE
+one	CARDINAL
